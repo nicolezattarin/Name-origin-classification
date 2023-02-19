@@ -16,33 +16,29 @@ class lstm_classifier (nn.Module):
                             dropout=0.2)
 
         self.linear = nn.Linear(hidden_dim, nclasses)
-        self.hidden = self.init_hidden()
         self.softmax = nn.LogSoftmax(dim=1)
 
-    def init_hidden(self):
-        return (torch.zeros(1, 1, self.hidden_dim),
-                torch.zeros(1, 1, self.hidden_dim))
 
     def forward(self, sentence):
         embeds = self.word_embeddings(sentence)
         # print ('embeds shape = ', embeds.shape)
 
-        lstm_out, self.hidden = self.lstm(embeds)
+        lstm_out,  (ht, ct) = self.lstm(embeds)
 
         # print ('lstm_out shape = ', lstm_out.shape)
         # print ('lstm_out view shape = ', lstm_out.view(len(sentence), -1).shape)
 
-        logits = self.linear(lstm_out)
+        logits = self.linear(ht[-1])
         all_probs = self.softmax(logits)
         
         # print ('all_probs check = ', all_probs.sum(dim=1))
         # multiply element-wise the probabilities of each ngram
         # to get the probability of the name being in a class
         # print ('all_probs shape = ', all_probs.shape)
-        probs = torch.prod(all_probs, dim=1)
+        # probs = torch.prod(all_probs, dim=1)
         # print ('probslen = ', probs.shape)
         
-        return probs
+        return logits
 
 
 if __name__ == '__main__':

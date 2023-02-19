@@ -34,15 +34,36 @@ def train(model, epochs, train_loader, val_loader, optimizer, criterion, device)
             loss = criterion(output, target)
             val_loss.append(loss.item())
 
-            
+        # save model
+        torch.save(model.state_dict(), f"model.pth")
+
         print (f"Epoch {epoch} Train Loss: {np.mean(train_loss)} Val Loss: {np.mean(val_loss)}")
 
+from sklearn.metrics import accuracy_score
+def accuracy (model, test_loader, device):
+    model.eval()
+    all_preds = []
+    correct = []
+    with torch.no_grad():
+        for d in tqdm(test_loader):
+            data, target = d
+            data, target = data.to(device), target.to(device)
+            output = model(data)
+            pred = output.argmax(dim=1, keepdim=True)
+            all_preds.append(pred.cpu().numpy())
+            correct.append(target.cpu().numpy())
+
+    acc = accuracy_score(np.concatenate(correct), np.concatenate(all_preds))
+    print (f"Accuracy: {acc}")
+    return acc
+    
+        
 
 import argparse
 import torch
 
 parser = argparse.ArgumentParser(description='PyTorch LSTM')
-parser.add_argument('--epochs', type=int, default=10, metavar='N',
+parser.add_argument('--epochs', type=int, default=100, metavar='N',
                     help='number of epochs to train (default: 10)')
 parser.add_argument('--batch-size', type=int, default=128, metavar='N',
                     help='input batch size for training (default: 64)')
@@ -54,6 +75,8 @@ parser.add_argument('--embedding_dim', type=int, default=200, metavar='D',
                     help='embedding dimension (default: 200)')
 parser.add_argument('--hidden_dim', type=int, default=100, metavar='D',
                     help='hidden dimension (default: 100)')
+parser.add_argument('--test', action='store_true', default=False,
+                    help='test mode')
 
 #  embedding_dim, hidden_dim, vocab_size, nclasses):
 
@@ -63,7 +86,8 @@ def main(
     lr=0.001,
     device='cpu',
     embedding_dim=200,
-    hidden_dim=100
+    hidden_dim=100,
+    test=False
     ):
     from dataset import ngram_dataset
     from model import lstm_classifier
@@ -86,13 +110,20 @@ def main(
                     )
     model.to(device)
 
-    # optimizer
-    optimizer = torch.optim.Adam(model.parameters(), lr=lr)
+    if not test:
+        # optimizer
+        optimizer = torch.optim.Adam(model.parameters(), lr=lr)
+        # loss
+        criterion = nn.CrossEntropyLoss()
+        train(model, epochs, train_loader, val_loader, optimizer, criterion, device)
 
-    # loss
-    criterion = nn.NLLLoss()
+    else:
+        model.load_state_dict(torch.load('model.pth'))
+        test_acc = accuracy(model, val_loader, device)
+        train_acc = accuracy(model, train_loader, device)
+        print (f"Train Accuracy: {train_acc} Test Accuracy: {test_acc}")
 
-    train(model, epochs, train_loader, val_loader, optimizer, criterion, device)
+
 
 if __name__ == '__main__':
     args = parser.parse_args()
