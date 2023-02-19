@@ -7,5 +7,5 @@
 ### Bigrams
 **Accuracy**: 0.72 
 
-<img src="imgs/2gram.png" width="500">
+<img src="imgs/2gram.png" width="700">
 
