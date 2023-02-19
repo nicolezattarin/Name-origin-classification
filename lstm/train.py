@@ -7,6 +7,12 @@ from tqdm import tqdm
 import os
 
 def train(model, epochs, train_loader, val_loader, optimizer, criterion, device, save_path):
+    # load model if exists
+    if os.path.exists(os.path.join(save_path, f"model.pth")):
+        model.load_state_dict(torch.load(os.path.join(save_path, f"model.pth")))
+        print ("model loaded")
+    else:
+        print ("model not found, training from scratch")
     model.train()
 
     for epoch in range(epochs):
@@ -92,7 +98,7 @@ parser.add_argument('--embedding_dim', type=int, default=200, metavar='D',
                     help='embedding dimension (default: 200)')
 parser.add_argument('--hidden_dim', type=int, default=100, metavar='D',
                     help='hidden dimension (default: 100)')
-parser.add_argument('--test', action='store_true', default=False, 
+parser.add_argument('--test', action='store_true', default=True,
                     help='test mode')
 parser.add_argument('--ngram', type=int , default=2, metavar='N',
                     help='ngram (default: 2)')

@@ -5,7 +5,7 @@ import torch.nn.functional as F
 
 class lstm_classifier (nn.Module):
     
-    def __init__(self, embedding_dim, hidden_dim, vocab_size, nclasses, nlayers=3, dropout=0.4):
+    def __init__(self, embedding_dim, hidden_dim, vocab_size, nclasses, nlayers=1, dropout=0.4):
         super(lstm_classifier, self).__init__()
 
         self.hidden_dim = hidden_dim
