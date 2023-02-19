@@ -5,15 +5,19 @@ import torch.nn.functional as F
 
 class lstm_classifier (nn.Module):
     
-    def __init__(self, embedding_dim, hidden_dim, vocab_size, nclasses):
+    def __init__(self, embedding_dim, hidden_dim, vocab_size, nclasses, nlayers=3, dropout=0.4):
         super(lstm_classifier, self).__init__()
+
         self.hidden_dim = hidden_dim
         self.word_embeddings = nn.Embedding(vocab_size, embedding_dim)
 
         self.lstm = nn.LSTM(input_size=embedding_dim, 
                             hidden_size=hidden_dim, 
                             batch_first=True, 
-                            dropout=0.2)
+                            num_layers=nlayers,
+                            dropout=dropout,
+                            bidirectional=True
+                            )
 
         self.linear = nn.Linear(hidden_dim, nclasses)
         self.softmax = nn.LogSoftmax(dim=1)
@@ -25,19 +29,7 @@ class lstm_classifier (nn.Module):
 
         lstm_out,  (ht, ct) = self.lstm(embeds)
 
-        # print ('lstm_out shape = ', lstm_out.shape)
-        # print ('lstm_out view shape = ', lstm_out.view(len(sentence), -1).shape)
-
         logits = self.linear(ht[-1])
-        all_probs = self.softmax(logits)
-        
-        # print ('all_probs check = ', all_probs.sum(dim=1))
-        # multiply element-wise the probabilities of each ngram
-        # to get the probability of the name being in a class
-        # print ('all_probs shape = ', all_probs.shape)
-        # probs = torch.prod(all_probs, dim=1)
-        # print ('probslen = ', probs.shape)
-        
         return logits
 
 

@@ -82,6 +82,7 @@ def main (
 
     print ("Saving dataset...")
     # save dataset 
+    save_path = os.path.join(save_path, 'ngrams_%d' % ngrams)
     np.savetxt(os.path.join(save_path, 'X_train.txt'), X_train, fmt='%d')
     np.savetxt(os.path.join(save_path, 'X_test.txt'), X_test, fmt='%d')
     np.savetxt(os.path.join(save_path, 'y_train.txt'), y_train, fmt='%d')
