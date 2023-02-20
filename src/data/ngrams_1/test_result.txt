@@ -1,0 +1,14 @@
+precision    recall    f1-score    support
+Asian,GreaterEastAsian,EastAsian      0.87      0.77      0.82      1099
+Asian,GreaterEastAsian,Japanese       0.90      0.87      0.89      1467
+Asian,IndianSubContinent       0.81      0.71      0.76      1572
+GreaterAfrican,Africans       0.53      0.41      0.46       734
+GreaterAfrican,Muslim       0.62      0.69      0.66      1248
+GreaterEuropean,British       0.73      0.89      0.80      8289
+GreaterEuropean,EastEuropean       0.79      0.70      0.75      1666
+GreaterEuropean,Jewish       0.55      0.31      0.40      2048
+GreaterEuropean,WestEuropean,French       0.69      0.58      0.63      2459
+GreaterEuropean,WestEuropean,Germanic       0.46      0.39      0.43       774
+GreaterEuropean,WestEuropean,Hispanic       0.71      0.68      0.70      2082
+GreaterEuropean,WestEuropean,Italian       0.69      0.76      0.72      2374
+GreaterEuropean,WestEuropean,Nordic       0.67      0.66      0.67       963
