@@ -1,0 +1,18451 @@
+hey	5831
+eyn	4740
+yni	15158
+nis	9409
+is 	6762
+s a	12067
+ aa	43
+aaf	1660
+afj	1809
+fje	4984
+je 	7087
+noo	9518
+oor	10309
+ord	10351
+rde	11355
+dew	3590
+ewi	4691
+wie	14526
+ier	6427
+er-	4519
+r-r	11251
+-re	1139
+red	11386
+edd	4138
+ddi	3550
+din	3650
+ing	6641
+ngi	9347
+giu	5384
+ius	6844
+us 	13830
+aal	1665
+alt	2001
+ltj	8299
+tje	12947
+de 	3564
+e q	4000
+ qu	504
+qua	11163
+uan	13373
+ant	2079
+nt 	9591
+t a	12705
+ ab	44
+abb	1680
+bbi	2591
+bie	2673
+ie 	6410
+aha	1863
+han	5760
+anf	2065
+nfo	9330
+fou	5035
+ouf	10454
+uf 	13493
+f a	4812
+abd	1682
+bde	2609
+del	3579
+ela	4346
+laz	7911
+azi	2419
+ziz	15560
+iz 	6908
+fal	4871
+ala	1982
+lat	7905
+atu	2263
+tur	13119
+uri	13801
+ri 	11470
+i a	6235
+bdo	2611
+dol	3730
+old	10184
+ldj	7966
+dja	3669
+jav	7060
+ava	2309
+vad	14080
+ad 	1741
+hol	5972
+olz	10205
+lzm	8401
+zma	15583
+man	8617
+ann	2073
+nn 	9480
+n a	9105
+abe	1683
+be 	2617
+war	14441
+arb	2169
+rbu	11316
+bur	2838
+urg	13799
+rg 	11434
+g a	5183
+aby	1698
+by 	2855
+baa	2556
+aan	1667
+ntj	9603
+jer	7105
+er 	4516
+r a	11194
+ a.	42
+a. 	1641
+. c	1216
+ c.	105
+rei	11391
+eic	4267
+ich	6366
+che	3114
+hel	5818
+el 	4343
+l a	7806
+ ac	45
+ach	1719
+chi	3118
+him	5869
+im 	6597
+sch	12189
+chw	3131
+hwa	6094
+arz	2193
+rze	11865
+ze 	15481
+e a	3984
+alb	1983
+lbr	7930
+bre	2772
+rec	11385
+ech	4117
+cht	3128
+ht 	6035
+ ad	46
+ada	1744
+da 	3491
+bez	2645
+ezz	4772
+zze	15715
+zen	15496
+enb	4425
+nbe	9220
+ber	2637
+erg	4526
+rge	11438
+ger	5314
+dal	3505
+lbe	7924
+ert	4539
+rt 	11742
+mer	8714
+erx	4543
+rx 	11829
+x a	14697
+taw	12797
+awi	2343
+wil	14532
+il 	6561
+ade	1748
+bar	2573
+art	2187
+rte	11749
+tel	12846
+els	4364
+ls 	8260
+ado	1758
+olf	10186
+lf 	8021
+hil	5868
+ilg	6570
+lge	8045
+gen	5312
+enf	4429
+nfe	9325
+fel	4913
+eld	4349
+ld 	7955
+d a	3421
+f b	4813
+ be	79
+ern	4533
+rnh	11604
+nha	9377
+har	5764
+ard	2171
+rd 	11347
+d c	3423
+ ch	110
+chr	3126
+hri	6002
+ris	11490
+ist	6785
+sto	12502
+top	13008
+oph	10324
+mar	8621
+arx	2191
+bra	2771
+ran	11280
+and	2063
+nd 	9253
+erm	4532
+rma	11571
+an 	2056
+gla	5409
+las	7904
+ass	2228
+ssb	12457
+sbr	12181
+ren	11396
+enn	4437
+nne	9486
+ner	9312
+hit	5876
+itl	6809
+tle	12964
+ler	8006
+sso	12470
+son	12410
+on 	10255
+mic	8753
+cha	3110
+hae	5751
+ael	1787
+eli	4354
+lis	8088
+lth	8297
+tha	12879
+hau	5767
+aus	2296
+f p	4827
+ pa	474
+pau	10719
+aul	2290
+ul 	13630
+l j	7815
+ jo	301
+joh	7199
+oha	10085
+nes	9313
+chl	3121
+hla	5906
+att	2262
+tte	13082
+ter	12852
+soe	12401
+oet	10030
+etb	4598
+tbe	12809
+bee	2624
+eer	4182
+von	14238
+n h	9112
+ ha	234
+arn	2181
+rna	11597
+nac	9190
+ack	1721
+ck 	3182
+k a	7343
+ he	235
+hen	5820
+ens	4442
+nse	9565
+sel	12222
+elt	4365
+lt 	8288
+ilb	6565
+ndt	9274
+dt 	3799
+kni	7575
+nig	9397
+igg	6460
+gge	5333
+ge 	5296
+olp	10196
+lph	8240
+ph 	10794
+h f	5687
+ fr	199
+fre	5049
+eih	4272
+ihe	6482
+her	5824
+err	4537
+sut	12549
+utr	13879
+tro	13032
+ro 	11630
+o a	9837
+gei	5307
+eig	4271
+ige	6458
+ges	5315
+es 	4557
+adr	1760
+dri	3757
+ria	11472
+ian	6315
+hat	5766
+ate	2248
+tes	12853
+arl	2179
+rla	11546
+lan	7899
+ndu	9275
+dus	3832
+anu	2080
+nus	9648
+coc	3240
+ocl	9967
+cli	3214
+lic	8072
+ico	6370
+co 	3235
+s p	12082
+ pe	475
+pet	10769
+eti	4604
+tit	12930
+val	14087
+ale	1986
+eri	4528
+riu	11492
+voo	14239
+ort	10367
+rti	11753
+tin	12924
+ng 	9336
+rie	11476
+van	14089
+ ho	242
+hou	5981
+ouw	10470
+uwe	13922
+wel	14490
+lin	8083
+nge	9343
+en 	4421
+eud	4633
+udo	13449
+dox	3741
+oxi	10541
+xia	14786
+ia 	6300
+a a	1570
+ ae	47
+lia	8070
+n d	9108
+ de	137
+der	3585
+r h	11201
+hei	5815
+eij	4274
+ijd	6518
+jde	7079
+den	3581
+n t	9124
+ th	574
+th.	12878
+h. 	5740
+rne	11601
+nel	9306
+ell	4357
+lle	8139
+le 	7985
+ ag	49
+agn	1842
+gne	5429
+mie	8755
+ieg	6418
+ege	4215
+gel	5310
+pir	10829
+iri	6738
+rin	11485
+inç	6664
+nçc	9765
+çci	17498
+ci 	3149
+ ak	53
+aki	1958
+kif	7510
+if 	6436
+tra	13026
+rac	11269
+ al	54
+lam	7898
+amo	2036
+mo 	8832
+o r	9854
+ ra	508
+ace	1716
+rah	11274
+ahm	1875
+hms	5936
+mst	8923
+st 	12484
+cay	3038
+aye	2380
+yet	15024
+eta	4597
+tan	12788
+ano	2074
+no 	9501
+n p	9120
+ete	4601
+erh	4527
+rha	11461
+rdt	11367
+lba	7923
+ban	2569
+ben	2633
+nsc	9563
+cho	3124
+hop	5976
+op 	10315
+p a	10652
+boe	2745
+oer	10028
+die	3641
+iet	6429
+etr	4611
+tri	13029
+ric	11474
+ch 	3106
+h a	5682
+ehr	4254
+hre	6000
+nst	9579
+ste	12492
+tei	12843
+ein	4278
+in 	6631
+ins	6653
+llm	8145
+lme	8172
+men	8710
+enr	4441
+nre	9547
+kah	7404
+ahn	1876
+hn 	5940
+lor	8220
+rtz	11768
+tzi	13184
+zin	15548
+ang	2066
+lsd	8266
+sdo	12205
+dor	3735
+orf	10353
+rff	11422
+ff 	4927
+uss	13852
+ss 	12454
+rto	11759
+to 	12990
+o i	9845
+ in	274
+ngo	9353
+atz	2268
+tz 	13175
+z a	15379
+hwe	6095
+weg	14485
+egl	4221
+gle	5410
+stö	12523
+töc	13269
+öck	18050
+ckl	3194
+kl 	7550
+mag	8610
+gnu	5436
+rtu	11764
+tus	13120
+ver	14135
+erw	4542
+rwe	11824
+wey	14501
+ey 	4725
+y a	14868
+wol	14593
+lff	8026
+föl	5172
+öls	18079
+lsi	8271
+sin	12308
+may	8628
+yer	15022
+n c	9107
+ cr	116
+cro	3280
+roy	11657
+oy 	10552
+t p	12720
+ pr	483
+pri	10923
+inz	6660
+rit	11491
+its	6814
+tsc	13054
+hl 	5904
+n j	9114
+ans	2078
+nsd	9564
+rf 	11416
+web	14480
+ebe	4090
+kor	7600
+orn	10361
+rn 	11595
+lej	7998
+eja	4295
+jan	7052
+ndr	9272
+dro	3759
+ieb	6413
+orm	10360
+len	8002
+bal	2567
+alj	1991
+lja	8105
+jak	7049
+kin	7518
+lex	8012
+exa	4706
+xan	14742
+nde	9260
+hac	5749
+cke	3189
+ke 	7444
+kla	7551
+law	7908
+aws	2352
+ws 	14617
+kru	7633
+rul	11794
+ull	13644
+ll 	8132
+lud	8317
+udw	13456
+dwi	3852
+wig	14528
+ig 	6452
+rüs	12053
+üst	18408
+tow	13014
+ow 	10510
+w a	14388
+str	12504
+rau	11287
+aub	2280
+ub 	13385
+b a	2518
+vel	14129
+elj	4355
+nov	9524
+ov 	10480
+v a	14036
+n s	9123
+ sc	536
+hli	5911
+lip	8085
+ipp	6713
+ppe	10909
+pen	10763
+nba	9219
+bac	2558
+zic	15538
+ick	6368
+kle	7552
+wal	14435
+ald	1985
+lde	7961
+dec	3570
+eck	4119
+dra	3754
+ra 	11264
+a b	1571
+ br	87
+aun	2292
+mot	8853
+ots	10434
+chm	3122
+hma	5929
+inc	6637
+nce	9233
+ce 	3064
+lzw	8405
+zwa	15691
+rth	11752
+th 	12876
+ex 	4704
+ani	2068
+ni 	9389
+exi	4712
+xio	14797
+ios	6692
+os 	10382
+mei	8705
+ino	6649
+non	9517
+ong	10265
+xiu	14801
+mun	8955
+unt	13720
+nte	9598
+hal	5758
+n w	9127
+ wa	643
+arm	2180
+rme	11573
+erd	4523
+rda	11351
+dam	3506
+am 	2019
+m a	8540
+wed	14482
+edl	4146
+dle	3687
+wes	14496
+ess	4579
+sse	12460
+lsk	8272
+sky	12350
+ky 	7718
+exx	4721
+xx 	14854
+ros	11651
+ose	10389
+sen	12224
+alf	1987
+lfo	8033
+fon	5029
+ons	10277
+ns 	9558
+ers	4538
+rsc	11718
+lfr	8035
+ed 	4132
+reh	11390
+ehm	4250
+hm 	5927
+ker	7464
+rr 	11688
+kur	7695
+ure	13797
+rel	11394
+lla	8135
+la 	7883
+moe	8838
+oes	10029
+ere	4524
+rer	11400
+edo	4149
+do 	3717
+roe	11637
+ssn	12469
+sne	12386
+all	1993
+lli	8143
+nso	9575
+d r	3438
+ ri	512
+chn	3123
+hni	5948
+nit	9410
+itt	6815
+ttk	13087
+tke	12953
+sor	12413
+elz	4370
+lzn	8402
+zne	15591
+vie	14163
+erk	4530
+rka	11517
+kan	7410
+n g	9111
+ gu	220
+gut	5564
+uts	13880
+hmi	5932
+mid	8754
+id 	6381
+wag	14430
+age	1834
+enk	4434
+nkn	9450
+kne	7574
+nec	9297
+olt	10200
+ltm	8302
+tma	12973
+ali	1990
+li 	8068
+zer	15499
+ice	6364
+pog	10882
+ogo	10068
+gos	5467
+ost	10404
+stk	12498
+tki	12955
+ina	6635
+na 	9185
+rgs	11449
+gst	5525
+sta	12488
+tal	12786
+alo	1996
+loi	8211
+ois	10129
+ene	4428
+nef	9300
+efe	4193
+spr	12431
+pre	10922
+eng	4430
+ors	10366
+eid	4268
+ide	6386
+loí	8233
+oís	10635
+ísi	17865
+sio	12309
+io 	6673
+loy	8227
+oys	10568
+ysi	15254
+sia	12295
+iep	6426
+epe	4492
+nbr	9226
+bro	2775
+roc	11635
+ock	9966
+alp	1997
+pho	10802
+hon	5974
+cat	3033
+ath	2251
+ari	2176
+ am	55
+ama	2022
+mal	8615
+mül	9096
+üll	18361
+lln	8146
+lne	8191
+s g	12073
+ go	218
+got	5468
+ott	10435
+ttf	13083
+tfr	12869
+fri	5050
+ied	6415
+hub	6057
+ubr	13400
+amb	2023
+mbr	8648
+osi	10393
+siu	12315
+ an	56
+ana	2060
+a c	1572
+ cl	112
+cla	3212
+lau	7906
+aud	2282
+udi	13443
+dia	3637
+hic	5859
+ckm	3195
+kma	7567
+ndi	9264
+di 	3634
+bor	2758
+org	10354
+rgm	11445
+gma	5419
+dré	3770
+ré 	11954
+rui	11791
+uis	13573
+dre	3756
+rea	11383
+ea 	4061
+nke	9442
+kel	7459
+a m	1582
+ ma	381
+elf	4351
+lfs	8036
+fs 	5066
+eas	4079
+as 	2207
+esc	4563
+chb	3111
+hba	5781
+n o	9119
+ oe	449
+oef	10018
+ele	4350
+s f	12072
+ fe	194
+lix	8093
+reg	11389
+rem	11395
+emi	4395
+mia	8751
+rud	11786
+ude	13439
+elb	4347
+ttl	13088
+tlo	12967
+lob	8204
+gru	5494
+rus	11801
+usc	13836
+chk	3120
+hke	5897
+gry	5495
+ryp	11850
+yph	15208
+phi	10798
+hiu	5877
+ham	5759
+amm	2034
+mme	8812
+idt	6400
+ill	6575
+llg	8141
+lgr	8051
+rub	11784
+ube	13391
+kap	7412
+app	2142
+pes	10768
+kar	7413
+rls	11557
+lst	8279
+tad	12778
+adt	1762
+klö	7564
+löd	8505
+öde	18051
+kli	7553
+lie	8074
+mus	8960
+scu	12196
+cul	3317
+ulu	13653
+lus	8332
+per	10767
+pao	10713
+aol	2110
+olo	10195
+rom	11645
+omb	10220
+mbe	8642
+oll	10192
+hro	6006
+oed	10016
+ede	4139
+tai	12783
+aie	1898
+wer	14495
+erc	4522
+rck	11333
+kme	7568
+eis	4283
+vas	14094
+asi	2218
+si 	12292
+aer	1792
+mey	8721
+eye	4732
+re 	11380
+olm	10193
+lm 	8168
+rej	11392
+ej 	4294
+ett	4613
+tti	13086
+ngs	9357
+gsh	5515
+sha	12262
+use	13838
+rew	11405
+ew 	4681
+wit	14537
+ite	6802
+gre	5487
+eip	4280
+ipe	6704
+pel	10761
+haz	5772
+aze	2416
+zes	15500
+nue	9635
+uel	13478
+ieu	6430
+eu 	4628
+u a	13298
+ndy	9278
+dy 	3859
+rod	11636
+odt	10001
+dtk	3804
+tka	12952
+ka 	7394
+oss	10403
+sow	12418
+som	12409
+omm	10231
+r-b	11236
+-bo	990
+bod	2744
+ode	9988
+nbu	9227
+i m	6247
+ars	2186
+sci	12190
+cia	3152
+dot	3737
+oth	10425
+ita	6798
+ta 	12771
+dit	3656
+ttm	13089
+tme	12974
+anj	2069
+nja	9425
+ja 	7035
+bij	2678
+ijn	6527
+jns	7185
+nna	9482
+nni	9488
+nic	9393
+ici	6367
+nal	9199
+les	8007
+ini	6643
+nia	9391
+bos	2759
+osb	10386
+sbo	12180
+boo	2755
+oom	10305
+om-	10218
+m-t	8591
+-to	1171
+tou	13012
+ous	10467
+ssa	12456
+sai	12149
+ain	1907
+int	6654
+a l	1581
+ lo	360
+lou	8223
+oui	10457
+isa	6766
+sa 	12137
+a g	1576
+ ge	212
+gee	5303
+rtr	11761
+tru	13034
+uid	13559
+ida	6383
+osm	10397
+smu	12378
+seg	12217
+egh	4218
+ghe	5348
+rs 	11713
+urt	13812
+ton	13006
+e v	4005
+ vr	629
+vri	14256
+ies	6428
+ne 	9292
+eie	4269
+hai	5755
+aig	1900
+igi	6462
+gis	5382
+ gi	214
+gie	5369
+rsb	11717
+sbe	12177
+nek	9305
+eke	4324
+r p	11209
+ po	482
+pol	10887
+ol 	10178
+ese	4565
+se 	12209
+gab	5241
+aba	1679
+any	2084
+nyi	9693
+yi 	15065
+i u	6255
+ ut	616
+ute	13868
+imm	6610
+mel	8708
+nem	9307
+ema	4389
+byl	2865
+yls	15120
+lsm	8274
+sma	12373
+ma 	8601
+wan	14437
+ane	2064
+new	9317
+ilm	6576
+lms	8178
+ms 	8904
+san	12154
+net	9314
+tt 	13076
+bec	2622
+nsg	9567
+sga	12250
+gar	5256
+ar 	2165
+n n	9118
+ no	426
+nth	9601
+tho	12892
+oni	10267
+tok	13003
+okv	10172
+kvi	7706
+vis	14176
+ony	10283
+ny 	9682
+y m	14880
+inu	6655
+s h	12074
+end	4427
+rik	11482
+ik 	6537
+k j	7352
+y r	14885
+ r.	507
+rot	11652
+the	12882
+ulr	13650
+lri	8255
+y w	14890
+ wi	646
+win	14534
+ink	6645
+nkl	9448
+maz	8629
+aza	2412
+zai	15434
+air	1911
+ira	6730
+ac 	1711
+c a	2974
+nto	9607
+toi	13001
+oin	10125
+ine	6639
+fil	4967
+ils	6582
+inr	6652
+nri	9549
+hek	5817
+ekk	4327
+kki	7544
+amp	2037
+mpe	8868
+jos	7209
+sep	12226
+eph	4494
+pra	10921
+rae	11271
+aet	1794
+eto	4610
+tor	13009
+ori	10356
+wei	14487
+eit	4284
+itz	6820
+tze	13180
+tam	12787
+ami	2030
+mit	8770
+coo	3252
+ool	10304
+ole	10185
+too	13007
+oon	10306
+inb	6636
+ ar	60
+ara	2168
+rab	11268
+bel	2631
+bet	2639
+eth	4603
+thk	12888
+rap	11282
+ap 	2126
+gri	5488
+rim	11484
+imb	6600
+are	2172
+nda	9256
+eim	4277
+ima	6599
+rib	11473
+ibe	6337
+n l	9116
+ le	355
+ent	4443
+ we	644
+wee	14483
+ees	4183
+eek	4176
+ek 	4319
+rië	11506
+iën	6991
+ën 	17785
+egn	4223
+rmi	11576
+min	8764
+ t.	569
+zög	15760
+ögg	18058
+ret	11402
+et 	4594
+rno	11609
+nol	9515
+geh	5306
+ehl	4249
+hle	5908
+hee	5811
+d h	3428
+ lu	361
+key	7471
+eys	4744
+yse	15251
+ser	12228
+erl	4531
+rli	11551
+rug	11789
+ug 	13514
+uge	13518
+adl	1755
+n m	9117
+ mi	386
+mil	8762
+n b	9106
+bru	2778
+ruc	11785
+uck	13420
+zwe	15692
+sur	12547
+urm	13805
+nsk	9571
+ski	12342
+ki 	7502
+rnu	11614
+nul	9642
+ulf	13638
+rni	11605
+nim	9403
+zit	15554
+elm	4358
+lma	8169
+rob	11634
+obe	9941
+aro	2182
+ron	11646
+gou	5469
+oun	10462
+una	13701
+nak	9198
+tem	12847
+mis	8769
+lei	7997
+itn	6811
+tne	12983
+thu	12896
+hur	6073
+ur 	13791
+jap	7054
+api	2135
+pin	10825
+r m	11206
+ mo	390
+oel	10024
+ope	10322
+enh	4431
+aue	2283
+uer	13483
+für	5180
+ürs	18400
+rst	11733
+kut	7697
+nbl	9224
+blu	2718
+lue	8318
+uet	13485
+uro	13807
+phl	10800
+lep	8004
+eps	4502
+ps 	10938
+hna	5943
+nab	9189
+yus	15301
+usu	13854
+sup	12545
+upo	13771
+pov	10896
+era	4520
+rat	11286
+te 	12832
+ as	61
+asf	2215
+sfa	12241
+fa-	4859
+a-w	1638
+-wo	1192
+wos	14598
+r v	11215
+ ve	625
+vee	14123
+een	4179
+ast	2229
+rid	11475
+gil	5376
+ud 	13434
+ouc	10451
+uch	13417
+h o	5696
+ of	450
+of 	10036
+f c	4814
+ a 	40
+hep	5822
+epb	4490
+pbu	10733
+urn	13806
+ au	63
+udr	13451
+rey	11407
+lmo	8176
+mon	8847
+ont	10278
+aug	2285
+ugu	13529
+gus	5563
+ust	13853
+bun	2835
+ung	13707
+t f	12710
+fer	4917
+rdi	11358
+nan	9201
+kre	7627
+etz	4618
+tzs	13193
+zsc	15641
+gfr	5327
+frö	5063
+rör	12017
+öre	18102
+edr	4152
+ pl	480
+pla	10854
+ten	12848
+t g	12711
+ gr	219
+gra	5486
+raf	11272
+fra	5048
+anc	2062
+nck	9236
+t h	12712
+had	5750
+sti	12496
+sou	12416
+chy	3132
+hy 	6099
+jae	7043
+aeg	1782
+iel	6423
+t j	12714
+kav	7417
+ave	2313
+klu	7555
+luc	8316
+ckh	3191
+kho	7492
+hoh	5968
+ohn	10095
+lug	8320
+ugh	13520
+gha	5345
+kop	7599
+opi	10325
+pis	10830
+isc	6768
+fol	5027
+t l	12716
+hlö	5924
+löz	8510
+öze	18130
+mau	8624
+au 	2278
+nea	9295
+ean	4075
+grü	5505
+rün	12052
+üne	18375
+ewa	4683
+o h	9844
+n r	9122
+rad	11270
+dem	3580
+mak	8614
+ake	1954
+uly	13657
+ly 	8370
+pot	10894
+tth	13085
+has	5765
+roh	11640
+ohl	10093
+rso	11729
+hyn	6111
+yns	15165
+ram	11279
+mm 	8810
+ gö	229
+göd	5653
+ödr	18053
+ ot	463
+heg	5813
+egr	4225
+rav	11288
+ven	14131
+leg	7995
+t w	12727
+ilh	6571
+lhe	8058
+lem	8001
+ems	4404
+mse	8911
+aut	2297
+utp	13878
+tpe	13020
+lum	8326
+umb	13671
+ ax	66
+axe	2362
+xel	14770
+chu	3129
+hum	6068
+uma	13670
+mac	8606
+ ba	77
+bas	2574
+ az	68
+azz	2432
+zzi	15717
+zid	15539
+ido	6396
+gat	5258
+t b	12706
+bai	2564
+ail	1905
+ile	6568
+ley	8013
+rle	11549
+rba	11307
+igm	6464
+mor	8851
+moh	8841
+ohr	10097
+hr 	5995
+r b	11195
+rbe	11308
+hay	5771
+ay 	2374
+y b	14869
+arr	2185
+rry	11702
+ry 	11833
+tto	13091
+o b	9838
+nie	9395
+ebu	4102
+buh	2829
+uhr	13548
+d g	3427
+geo	5313
+eor	4480
+kes	7465
+s b	12068
+aic	1896
+h b	5683
+lom	8215
+omä	10248
+mäu	9037
+äus	17408
+pru	10925
+ruy	11806
+uyt	13955
+yt 	15267
+ ja	292
+smi	12375
+ts 	13050
+ oo	459
+ldk	7967
+dka	3675
+kam	7409
+mp 	8864
+p b	10653
+vos	14242
+osk	10395
+ska	12339
+zoe	15603
+ili	6572
+g b	5184
+mmo	8815
+mou	8854
+oud	10452
+i b	6236
+sil	12306
+amd	2025
+mdo	8690
+doh	3726
+liu	8090
+bed	2623
+eda	4135
+bir	2686
+irt	6749
+rtl	11756
+eeb	4168
+eb 	4086
+b. 	2550
+. b	1215
+ilf	6569
+lfe	8025
+fen	4915
+bol	2752
+ltz	8310
+e b	3985
+enj	4433
+jam	7051
+ebr	4100
+d b	3422
+ndo	9270
+nny	9497
+i o	6249
+f i	4820
+ it	280
+aly	2005
+nga	9339
+pro	10924
+odu	10002
+duc	3816
+uce	13416
+cer	3082
+lza	8396
+zan	15439
+nar	9205
+ait	1913
+iti	6806
+nk 	9439
+k b	7344
+jun	7257
+ngm	9351
+nta	9594
+tap	12790
+pil	10823
+ilo	6578
+los	8221
+osa	10385
+ di	139
+nho	9382
+hof	5966
+off	10041
+rnd	11600
+zim	15547
+beg	2626
+gem	5311
+edm	4147
+dma	3695
+aku	1969
+kub	7680
+ubo	13399
+bow	2763
+ows	10528
+wsk	14624
+spi	12428
+pie	10816
+emö	4419
+möl	9082
+öll	18078
+nd-	9255
+d-u	3484
+-ul	1179
+fli	4996
+hor	5978
+orw	10370
+rwi	11826
+z b	15380
+d j	3430
+sef	12216
+knu	7578
+nub	9632
+l b	7807
+lee	7993
+lz 	8395
+sek	12221
+ekl	4328
+iss	6784
+bau	2576
+aum	2291
+ume	13674
+me 	8694
+beh	2627
+rta	11745
+gro	5492
+abs	1693
+bsc	2798
+mcn	8672
+cna	3231
+nam	9200
+ha 	5743
+hin	5870
+erb	4521
+gol	5461
+lds	7972
+dsc	3780
+wul	14649
+kei	7456
+eiz	4290
+ize	6913
+umm	13681
+tol	13004
+jes	7106
+bes	2638
+sar	12158
+abi	1686
+bia	2669
+etj	4605
+ bi	82
+nca	9232
+ca 	3011
+kau	7416
+uli	13641
+lit	8089
+bil	2680
+d t	3440
+ to	577
+tom	13005
+om 	10216
+e r	4001
+ray	11291
+irg	6736
+rgi	11442
+git	5383
+it 	6796
+huu	6076
+uur	13901
+gal	5251
+ldi	7965
+dik	3647
+ika	6539
+kas	7414
+iru	6750
+rut	11802
+utÄ	13887
+tÄ	13205
+Ä 	16778
+hrö	6016
+röd	12011
+ bj	83
+bjö	2706
+jör	7324
+örn	18107
+ook	10303
+ok 	10153
+ bl	84
+bla	2714
+lac	7888
+rét	11974
+éth	17725
+thy	12899
+ bé	100
+bél	2931
+éla	17647
+arg	2174
+bli	2716
+ixa	6880
+xa 	14731
+evo	4669
+vol	14236
+olu	10201
+lut	8333
+uti	13872
+tio	12925
+ion	6689
+ue 	13464
+uyl	13950
+yl 	15108
+ bo	86
+bob	2742
+ob 	9935
+b d	2521
+asp	2225
+spe	12426
+usi	13842
+ial	6313
+al 	1979
+bog	2747
+ogd	10060
+gda	5289
+dan	3507
+ogu	10072
+gum	5557
+umi	13678
+wim	14533
+bon	2754
+nif	9396
+ifa	6437
+fac	4862
+oka	10154
+böh	2951
+öhm	18062
+ble	2715
+dlu	3690
+ugo	13525
+osc	10387
+dyn	3872
+yna	15150
+nas	9206
+sty	12510
+ty 	13153
+oso	10399
+nid	9394
+auß	2304
+uß 	13995
+ß b	17148
+bot	2760
+ho 	5959
+büc	2966
+üch	18331
+bou	2761
+wij	14530
+jn 	7180
+e g	3990
+roo	11647
+oot	10311
+ot 	10416
+one	10263
+neb	9296
+eba	4087
+bak	2566
+akk	1960
+kke	7542
+n v	9126
+ vi	626
+vin	14171
+cen	3079
+noi	9512
+oiz	10134
+boy	2765
+ys 	15244
+fas	4877
+sba	12176
+bae	2560
+aen	1789
+bri	2773
+rig	11478
+unc	13703
+okl	10163
+kly	7556
+lyn	8383
+yn 	15147
+ mü	412
+mün	9098
+ünc	18373
+nch	9234
+chh	3117
+hha	5848
+ bö	101
+bör	2954
+örr	18108
+rri	11694
+run	11796
+pit	10831
+uno	13715
+alz	2006
+ffm	4935
+fma	5007
+mad	8607
+s. 	12127
+lte	8294
+ b.	76
+rga	11436
+ bu	89
+bus	2839
+hi 	5854
+ by	90
+byr	2868
+yro	15233
+jay	7062
+y c	14870
+ ca	106
+can	3027
+dee	3572
+ee 	4165
+mbu	8651
+r c	11196
+cao	3028
+ao 	2096
+ ni	422
+iev	6431
+eve	4659
+t c	12707
+car	3031
+mae	8608
+edu	4155
+i c	6237
+alm	1994
+nrä	9555
+räd	11926
+äde	17372
+rl 	11543
+ame	2026
+ery	4544
+ me	384
+wac	14426
+e c	3986
+ezo	4764
+zol	15609
+un 	13698
+nkm	9449
+cra	3276
+k c	7345
+dah	3501
+ahl	1874
+hlh	5910
+lha	8057
+s c	12069
+h c	5684
+rdm	11362
+l c	7808
+l f	7811
+asc	2212
+tia	12911
+zel	15494
+l g	7812
+ssi	12464
+sig	12301
+tli	12965
+hem	5819
+emp	4402
+tav	12796
+l h	7813
+kol	7595
+olb	10182
+lb 	7922
+b c	2520
+rlm	11553
+l m	7818
+rlo	11554
+lo 	8200
+res	11401
+eso	4575
+soo	12411
+anw	2082
+nwa	9669
+dte	3800
+elh	4353
+lhä	8065
+häu	6165
+gon	5463
+onz	10284
+nzá	9723
+zál	15736
+ále	17231
+lez	8014
+ez 	4752
+z c	15381
+ank	2070
+bem	2632
+emb	4390
+g c	5185
+s m	12079
+mig	8757
+igu	6471
+gue	5549
+uen	13480
+reu	11403
+eut	4648
+col	3249
+ola	10181
+lai	7894
+ai 	1891
+l o	7820
+est	4580
+stp	12503
+tph	13021
+pha	10796
+esi	4569
+urz	13817
+rz 	11861
+onn	10272
+nen	9308
+tep	12850
+phe	10797
+stu	12507
+tum	13115
+ump	13684
+mpf	8869
+pf 	10779
+eik	4275
+ike	6542
+sew	12233
+bue	2826
+ueh	13474
+ehn	4251
+hne	5946
+l w	7828
+ w.	642
+cam	3026
+mpb	8866
+pbe	10732
+rol	11644
+sal	12152
+alg	1988
+lga	8044
+gad	5243
+o c	9839
+oli	10189
+a s	1588
+ so	546
+sol	12408
+ree	11387
+eed	4170
+eue	4634
+oly	10204
+boh	2748
+thi	12886
+hie	5861
+cas	3032
+spa	12423
+par	10716
+lae	7890
+aeu	1795
+eus	4647
+brö	2790
+röt	12019
+ötz	18121
+tzm	13188
+cru	3281
+uci	13418
+cig	3158
+r t	11213
+he 	5805
+e y	4008
+ yo	678
+you	15197
+peu	10770
+euc	4632
+ego	4224
+gor	5466
+ory	10371
+r r	11211
+ re	510
+ené	4457
+ii 	6495
+f r	4829
+ ru	516
+nkw	9458
+kwo	7714
+wor	14597
+ilt	6583
+lto	8304
+ cb	107
+cb 	3043
+ote	10422
+teb	12836
+ebo	4099
+m c	8542
+ ce	109
+cee	3071
+zui	15670
+ijk	6524
+jk 	7162
+ces	3083
+esa	4561
+but	2840
+utl	13874
+inh	6642
+es-	4559
+s-f	12109
+-fr	1033
+fré	5059
+réd	11959
+édé	17618
+dér	3937
+éri	17701
+ic 	6360
+oen	10026
+nhu	9383
+hui	6064
+uij	13564
+ijs	6529
+jse	7233
+llé	8165
+lé 	8463
+é c	17559
+hom	5973
+lot	8222
+irc	6732
+rch	11331
+ch-	3108
+h-p	5733
+-pf	1128
+pfe	10781
+fei	4910
+eif	4270
+iff	6440
+ffe	4930
+ije	6519
+ild	6567
+deb	3569
+iii	6503
+hlo	5915
+iv 	6851
+v c	14038
+nsl	9572
+slo	12360
+loe	8207
+oe 	10011
+enc	4426
+ncy	9245
+cyc	3344
+ycl	14975
+clo	3215
+lop	8218
+ped	10753
+edi	4143
+lij	8079
+jke	7164
+kum	7691
+um 	13668
+iaa	6302
+dis	3655
+poh	10883
+enz	4449
+nz 	9706
+bic	2671
+ da	135
+nze	9710
+nsb	9562
+lze	8398
+n f	9110
+ fü	207
+ürc	18389
+hte	6040
+teg	12841
+uba	13387
+h d	5685
+heb	5808
+ebb	4088
+bbe	2590
+hun	6069
+kör	7788
+jöc	7322
+öch	18049
+nee	9299
+eef	4172
+fe 	4899
+n k	9115
+ kr	333
+kro	7631
+cko	3197
+kow	7605
+w c	14390
+hue	6060
+lse	8267
+ore	10352
+eni	4432
+nin	9404
+mai	8612
+con	3251
+hoe	5965
+rm 	11570
+tet	12854
+tzl	13187
+zla	15575
+laf	7891
+aff	1805
+inl	6646
+nli	9466
+lig	8076
+heo	5821
+eod	4468
+odo	9998
+oma	10219
+mas	8622
+ do	143
+ohm	10094
+zac	15428
+ias	6320
+nös	9813
+öst	18115
+stl	12499
+chä	3138
+häf	6159
+äfe	17374
+tof	12998
+umh	13677
+mha	8743
+rou	11653
+nti	9602
+tiu	12931
+mem	8709
+emm	4399
+mmi	8813
+uth	13871
+h e	5686
+ er	178
+rns	11612
+uwa	13920
+dey	3592
+eyl	4738
+yle	15112
+för	5173
+örs	18109
+ mu	395
+mur	8959
+urr	13810
+h g	5688
+rtk	11755
+tkn	12957
+kno	7576
+noc	9506
+och	9964
+elv	4367
+lvi	8350
+vig	14164
+kon	7597
+onc	10261
+ncz	9246
+cz 	3355
+h m	5694
+mec	8699
+ufa	13494
+fan	4873
+mro	8897
+gov	5470
+ovi	10489
+viu	14178
+pré	10933
+rég	11961
+éga	17624
+ien	6425
+haf	5752
+ffr	4938
+nei	9303
+hná	5957
+nán	9749
+ány	17253
+ si	540
+igw	6473
+gwa	5578
+wat	14443
+atr	2260
+glu	5413
+h w	5704
+lib	8071
+iba	6333
+abk	1688
+bko	2712
+kou	7603
+ats	2261
+tso	13063
+dic	3639
+ ci	111
+cin	3163
+rgo	11447
+or 	10345
+cir	3166
+ith	6805
+lhu	8063
+huy	6080
+uys	13954
+cis	3167
+sca	12187
+at 	2241
+isk	6776
+ske	12340
+rxv	11832
+xve	14850
+ldt	7973
+ssy	12477
+sy 	12575
+ire	6734
+hät	6164
+ätz	17405
+zle	15576
+lar	7903
+nor	9520
+rds	11366
+dst	3793
+trö	13046
+röm	12015
+öm 	18081
+brü	2793
+rüc	12045
+ück	18332
+ken	7461
+usl	13845
+sle	12358
+r-e	11239
+-eb	1014
+eib	4266
+af 	1799
+dio	3651
+o f	9842
+ilv	6585
+lva	8346
+diu	3657
+ntz	9617
+oge	10061
+ams	2039
+msb	8908
+cle	3213
+eme	4393
+s v	12088
+ vo	628
+n u	9125
+ un	611
+und	13704
+d z	3446
+ zu	701
+lov	8224
+clá	3219
+láu	8436
+áud	17293
+mes	8715
+ero	4534
+ co	114
+lon	8216
+hea	5807
+ead	4066
+ads	1761
+ds 	3776
+s o	12081
+f g	4818
+dei	3576
+tie	12915
+com	3250
+pal	10710
+onr	10276
+nra	9546
+usk	13844
+utz	13886
+adi	1752
+ica	6361
+uyg	13946
+yge	15044
+tij	12920
+cor	3255
+fro	5052
+obo	9949
+fun	5105
+unk	13711
+u c	13300
+dop	3734
+opp	10331
+pad	10702
+adb	1745
+dbr	3533
+rué	11811
+ué 	14007
+s t	12086
+hym	6110
+yme	15134
+nsz	9584
+szo	12602
+zoo	15612
+cod	3241
+odr	9999
+nu 	9628
+iu 	6828
+u z	13323
+ ze	693
+lea	7989
+n z	9130
+ za	690
+rné	11626
+nél	9781
+éli	17650
+rok	11643
+okk	10162
+orr	10365
+hag	5753
+cos	3256
+ sh	539
+shi	12270
+hiv	5878
+iva	6853
+smo	12376
+deu	3588
+tek	12845
+eko	4331
+kom	7596
+cri	3279
+fla	4994
+ato	2258
+ cu	118
+cur	3322
+sac	12143
+chs	3127
+hs 	6018
+hav	5768
+ cy	120
+cyr	3352
+yri	15229
+ril	11483
+t d	12708
+daa	3494
+jip	7144
+s d	12070
+kra	7625
+e d	3987
+dag	3500
+agm	1841
+i d	6238
+ago	1843
+gob	5451
+hoo	5975
+l d	7809
+vra	14253
+anÄ	2087
+nÄ?	9733
+Ä?i	16742
+?iÄ	1501
+iÄ	6938
+Ä 	16767
+ d	15832
+mir	8768
+ir 	6727
+g d	5186
+aci	1720
+ciu	3169
+coh	3245
+hn-	5942
+n-b	9156
+-be	986
+r d	11197
+jab	7040
+abl	1689
+blo	2717
+l e	7810
+fic	4958
+lsc	8265
+rrw	11701
+z d	15382
+keh	7455
+hlm	5914
+löb	8503
+öbl	18047
+row	11655
+y d	14871
+ckw	3204
+kwe	7712
+rts	11762
+kwa	7711
+m d	8543
+dap	3509
+aph	2134
+phn	10801
+d d	3424
+hny	5955
+dab	3495
+c d	2977
+dar	3511
+rio	11486
+mcc	8662
+ccl	3054
+dav	3515
+ve 	14117
+avi	2316
+vid	14162
+hot	5980
+otj	10427
+jew	7110
+dlä	3693
+län	8450
+änd	17386
+gas	5257
+kal	7408
+wid	14525
+ilk	6574
+lki	8118
+avy	2327
+vy 	14308
+daw	3516
+wso	14627
+dea	3568
+rhy	11467
+ymz	15146
+mz 	8998
+def	3573
+ef 	4190
+haa	5747
+aas	1671
+nah	9195
+ah 	1860
+ise	6770
+utg	13870
+tge	12872
+cag	3020
+aga	1830
+a d	1573
+efl	4199
+loo	8217
+ooz	10314
+oze	10582
+epp	4500
+ppi	10911
+k d	7346
+rk 	11515
+euk	4640
+uke	13609
+det	3587
+etl	4607
+lev	8010
+ev 	4653
+ li	357
+lil	8081
+ncr	9240
+dev	3589
+eva	4655
+va 	14074
+amr	2038
+mra	8891
+u d	13301
+neg	9301
+ega	4212
+iam	6314
+ond	10262
+pop	10891
+iem	6424
+emu	4406
+mut	8961
+ut 	13862
+orc	10350
+hme	5931
+aes	1793
+cun	3319
+unz	13726
+rks	11532
+ks 	7643
+erv	4541
+rvo	11816
+vor	14241
+bux	2844
+uxt	13937
+xte	14832
+teh	12842
+ehu	4257
+hud	6059
+löc	8504
+leh	7996
+hnh	5947
+f d	4815
+oeb	10014
+ebi	4093
+biu	2689
+utw	13884
+twe	13140
+onh	10266
+eff	4194
+fis	4973
+r-d	11238
+-di	1005
+esk	4571
+f m	4824
+met	8716
+ura	13793
+ hi	237
+woe	14586
+sth	12495
+kae	7401
+esl	4572
+dir	3654
+irk	6740
+rüh	12048
+ühm	18342
+sau	12161
+hlä	5923
+läc	8447
+äch	17368
+low	8225
+owt	10529
+wtz	14637
+tzo	13190
+zow	15619
+w d	14391
+ark	2178
+rkz	11537
+kzo	7738
+zon	15611
+ dj	140
+dj 	3668
+hid	5860
+idd	6385
+dde	3547
+örg	18104
+tak	12785
+ak 	1949
+j p	7022
+sak	12151
+toc	12995
+oca	9961
+cad	3017
+sco	12193
+o d	9840
+x d	14700
+lly	8156
+eul	4641
+ulb	13634
+dom	3731
+omi	10227
+nik	9401
+iab	6303
+don	3732
+ora	10348
+a n	1583
+noe	9508
+oem	10025
+emí	4417
+r-k	11245
+-kö	1083
+köp	7787
+öpf	18098
+sof	12402
+söl	12673
+oro	10362
+ünb	18372
+bei	2628
+ du	145
+dur	3831
+urs	13811
+s e	12071
+ ea	161
+b e	2522
+ eb	162
+r e	11198
+hra	5997
+ngp	9354
+gpi	5479
+zei	15491
+idl	6393
+ ec	163
+cka	3185
+u e	13302
+unr	13718
+nru	9551
+ruh	11790
+uh 	13536
+kha	7484
+e e	3988
+iec	6414
+n e	9109
+ ed	164
+leu	8009
+nro	9550
+edg	4141
+dga	3605
+du 	3811
+u p	13313
+rro	11698
+d e	3425
+ind	6638
+zie	15540
+dmu	3700
+k e	7347
+dou	3738
+oua	10449
+uar	13376
+gui	5553
+uil	13566
+ eu	181
+eug	4636
+ugè	13532
+gèn	5632
+ène	17545
+r k	11204
+ ko	331
+olk	10191
+lk 	8112
+mbl	8646
+y e	14872
+eds	4153
+dsi	3785
+evr	4671
+t e	12709
+dua	3814
+ips	6715
+pse	10943
+gey	5320
+kos	7601
+hwi	6096
+z e	15383
+rxs	11831
+xse	14829
+mör	9083
+öri	18105
+lag	7892
+agi	1838
+gin	5378
+ntw	9614
+tau	12795
+auw	2299
+uwi	13924
+num	9643
+m e	8544
+ ke	323
+g e	5187
+nnr	9492
+edw	4157
+dwa	3849
+d n	3434
+ n.	415
+oev	10032
+sla	12356
+ngh	9346
+ eg	167
+egi	4219
+gid	5368
+idi	6390
+elk	4356
+ eh	168
+ ob	446
+ ei	169
+eil	4276
+esh	4568
+sh 	12259
+ ek	171
+ko 	7582
+ el	172
+axm	2367
+xma	14810
+sab	12142
+rüm	12051
+ümm	18368
+aup	2293
+upt	13775
+ptm	10959
+thb	12880
+hbe	5782
+rzk	11869
+zko	15568
+opf	10323
+f e	4816
+liz	8095
+iza	6910
+zab	15427
+r w	11216
+ wo	648
+wou	14600
+zad	15429
+deh	3575
+eh 	4240
+za 	15424
+taf	12780
+afa	1801
+ te	572
+dij	3646
+ney	9319
+o &	9834
+ & 	0
+& t	792
+lun	8327
+tee	12839
+lsa	8263
+ ro	515
+ooy	10313
+oy-	10553
+y-v	14917
+-vi	1185
+lsb	8264
+ em	173
+hah	5754
+hir	5874
+irs	6748
+wir	14535
+odn	9997
+dnÄ	3714
+nÄ	9734
+Är	16763
+ra	15818
+raÅ	11294
+aÅ	2447
+Å 	16936
+ e	16060
+leb	7990
+fuc	5095
+jul	7255
+e o	3998
+f s	4830
+rzb	11864
+zbu	15461
+rg-	11435
+g-r	5226
+-ru	1142
+ols	10199
+reb	11384
+ebs	4101
+bs 	2795
+chü	3147
+hür	6228
+üre	18390
+hul	6067
+ult	13652
+sec	12213
+rez	11408
+ezn	4763
+zni	15592
+cek	3076
+ sa	534
+Özd	17103
+zda	15471
+e s	4002
+ se	537
+sev	12232
+evg	4661
+vgi	14149
+rhe	11462
+mmy	8820
+my 	8981
+52 	1382
+2 e	1337
+ en	174
+rgy	11452
+gy 	5590
+cre	3277
+esp	4576
+spo	12430
+po 	10874
+o e	9841
+riq	11488
+iqu	6726
+que	11166
+kis	7522
+enm	4436
+nma	9473
+zob	15600
+fin	4969
+inx	6658
+nx 	9678
+x e	14701
+ras	11285
+asm	2222
+rci	11332
+neu	9315
+eum	4642
+a e	1574
+ase	2214
+ses	12229
+klo	7554
+i e	6239
+käs	7764
+äst	17400
+stn	12501
+arq	2184
+rqu	11685
+müh	9094
+ühs	18344
+hsa	6019
+sam	12153
+vog	14232
+ogt	10071
+gt 	5531
+r l	11205
+vlo	14205
+oei	10021
+köt	7790
+öth	18119
+uki	13611
+dek	3578
+lfz	8041
+fze	5138
+zem	15495
+k h	7350
+lho	8062
+ulz	13658
+zeb	15484
+kri	7628
+iek	6422
+lui	8322
+ijt	6530
+jt 	7236
+llu	8153
+rmo	11579
+mol	8845
+ldu	7974
+poo	10890
+rnq	11610
+nqu	9545
+qui	11168
+hüt	6230
+ütz	18413
+bad	2559
+upa	13760
+pac	10701
+omo	10233
+sir	12312
+düm	3973
+mml	8814
+mle	8803
+cks	3200
+kst	7659
+gom	5462
+jün	7338
+üng	18377
+kit	7523
+koz	7608
+ozu	10595
+zub	15663
+äse	17399
+sem	12223
+meh	8704
+tmü	12980
+t m	12717
+z l	15390
+pp 	10904
+p e	10656
+pep	10765
+t r	12722
+ ka	321
+mek	8707
+st-	12486
+t-u	12763
+dob	3720
+obs	9951
+huc	6058
+lzo	8403
+zog	15605
+mat	8623
+ es	179
+esm	4573
+smé	12382
+mée	9052
+ée 	17619
+ e.	160
+e. 	4056
+. t	1232
+t. 	12767
+. a	1214
+ et	180
+anz	2085
+esu	4581
+sum	12542
+tty	13097
+d'a	3453
+'al	812
+rar	11284
+gur	5562
+joc	7194
+god	5453
+odf	9989
+dfr	3603
+seb	12212
+ ev	182
+goe	5454
+otg	10424
+tgi	12873
+rdu	11368
+s j	12076
+ kl	328
+ ew	183
+lny	8198
+ fa	192
+fab	4861
+egm	4222
+ssm	12468
+biá	2697
+ián	6955
+án 	17244
+erp	4535
+rpe	11667
+acu	1731
+lew	8011
+d f	3426
+url	13804
+b f	2523
+far	4876
+al-	1981
+l-s	7871
+-su	1155
+sul	12541
+lta	8290
+peo	10764
+eop	4479
+opl	10327
+ple	10855
+e f	3989
+fed	4905
+f f	4817
+ix 	6878
+fec	4904
+jac	7041
+aco	1725
+cob	3239
+oby	9954
+y f	14873
+des	3586
+x o	14711
+ckn	3196
+r f	11199
+aur	2295
+z f	15384
+igr	6468
+rov	11654
+zig	15542
+g f	5188
+iot	6693
+tön	13271
+önn	18093
+mue	8946
+wüs	14695
+aim	1906
+imo	6612
+moÄ	8860
+oÄ	10603
+Äl	16801
+lu	16112
+lu 	8313
+u f	13303
+idu	6401
+dun	3827
+mbc	8641
+bck	2604
+div	3658
+a f	1575
+ fi	196
+fie	4960
+rce	11330
+jag	7045
+inn	6648
+wae	14428
+aec	1778
+ f.	191
+f. 	4850
+. k	1224
+ k.	320
+ fl	197
+flo	4997
+uhl	13544
+k f	7348
+owi	10520
+nhe	9378
+. m	1226
+ m.	380
+suk	12540
+ukk	13612
+ fo	198
+fok	5026
+e &	3978
+for	5032
+tun	13116
+nci	9235
+ va	624
+var	14093
+lab	7887
+tid	12914
+icu	6375
+cus	3323
+uni	13709
+niu	9411
+now	9525
+wic	14524
+cki	3192
+i f	6240
+isz	6790
+sze	12596
+zek	15493
+ets	4612
+dos	3736
+duv	3834
+uva	13906
+goo	5464
+oos	10310
+k p	7358
+irr	6747
+rrm	11696
+eki	4326
+e k	3994
+kok	7594
+vre	14255
+maa	8604
+m f	8545
+fme	5008
+ief	6417
+efn	4201
+fne	5012
+bab	2557
+bin	2682
+bey	2644
+ebl	4096
+bl 	2713
+ei 	4263
+sko	12345
+nzi	9712
+zi 	15533
+ahr	1878
+z h	15386
+h l	5693
+eec	4169
+z i	15387
+ ig	267
+ign	6465
+gna	5428
+naz	9213
+deg	3574
+z j	15388
+mov	8855
+ove	10486
+z k	15389
+onw	10281
+nwi	9673
+kuh	7686
+uhn	13546
+ime	6603
+pas	10717
+w f	14393
+nz-	9707
+z-p	15419
+-pa	1126
+ule	13637
+z p	15394
+ ph	477
+nzw	9719
+tuh	13111
+kug	7685
+ugl	13522
+z t	15398
+ted	12838
+edt	4154
+wax	14447
+erf	4525
+rfe	11421
+abt	1694
+bt 	2810
+z w	15401
+wül	14692
+woh	14589
+hlf	5909
+lfa	8023
+fah	4867
+hrt	6008
+geb	5300
+z x	15402
+ xa	659
+xav	14750
+hab	5748
+aad	1658
+ fu	200
+eel	4177
+rsd	11719
+fes	4918
+c e	2978
+hmk	5933
+mke	8791
+ ee	165
+r u	11214
+inf	6640
+nfa	9324
+rum	11795
+mma	8811
+elc	4348
+lck	7943
+uns	13719
+stä	12516
+täd	13227
+äd 	17371
+auk	2289
+ukh	13610
+otz	10441
+tza	13177
+zau	15446
+dür	3975
+ürr	18399
+rre	11691
+nsh	9568
+she	12266
+ops	10333
+pst	10950
+rüt	12054
+gun	5558
+h h	5689
+obi	9943
+bi 	2665
+höl	6208
+öld	18075
+h j	5691
+ ju	304
+alk	1992
+lkb	8115
+kbr	7433
+h k	5692
+kie	7509
+leo	8003
+opo	10330
+f z	4836
+g g	5189
+sck	12191
+g z	5208
+max	8627
+axi	2365
+xim	14795
+imi	6606
+kir	7521
+lch	7941
+hio	5871
+ior	6691
+myc	8985
+yco	14976
+h r	5699
+phy	10808
+hyl	6109
+ylu	15122
+upp	13772
+pig	10818
+h t	5701
+böm	2953
+ömc	18082
+mch	8667
+hes	5825
+gh 	5343
+oto	10432
+his	5875
+ op	460
+eln	4359
+ln-	8189
+-br	991
+nio	9405
+iow	6696
+ sp	547
+rhä	11468
+mi 	8750
+klä	7560
+m j	8549
+arp	2183
+rpu	11675
+pur	10984
+esb	4562
+ugt	13528
+ tu	580
+out	10468
+ilp	6579
+lpe	8239
+muh	8949
+enw	4446
+nwe	9670
+eg 	4211
+dow	3740
+ck-	3184
+k-m	7384
+-ma	1093
+lec	7991
+ecz	4130
+cze	3357
+zew	15504
+ewe	4687
+wen	14492
+gl 	5408
+teu	12855
+eub	4631
+frl	5051
+rl.	11545
+l. 	7878
+unn	13714
+ ga	210
+abr	1692
+buc	2824
+cel	3077
+r g	11200
+nag	9194
+ag 	1828
+als	2000
+rdy	11371
+rke	11520
+itk	6808
+tkr	12959
+euz	4652
+uz 	13964
+z g	15385
+ary	2192
+i g	6241
+eof	4469
+ned	9298
+ikt	6553
+lfi	8029
+m g	8546
+ict	6374
+ehi	4247
+o g	9843
+eyf	4733
+yfu	15040
+fus	5109
+ket	7466
+voi	14233
+oig	10119
+igt	6470
+e w	4006
+w. 	14418
+. f	1219
+tef	12840
+tre	13027
+rvi	11815
+ful	5103
+haj	5756
+ajd	1926
+jdu	7083
+u g	13304
+g h	5190
+eym	4739
+ym 	15131
+cal	3025
+ixt	6890
+xtu	14837
+ogl	10065
+g j	5192
+kai	7405
+ais	1912
+kat	7415
+tig	12917
+g l	5194
+maj	8613
+ajo	1937
+jor	7208
+g p	5198
+pic	10814
+cto	3300
+afe	1804
+sim	12307
+rak	11277
+akl	1961
+wai	14432
+ckr	3199
+g w	5205
+tko	12958
+cio	3164
+iol	6687
+lek	7999
+k g	7349
+ral	11278
+töb	13268
+öbe	18046
+lje	8106
+gev	5318
+jol	7203
+koc	7586
+ref	11388
+fft	4940
+ft 	5079
+rev	11404
+ kn	330
+egt	4227
+löw	8509
+öwi	18125
+wik	14531
+dud	3817
+hüs	6229
+üsc	18403
+adj	1753
+dje	3670
+jec	7091
+ect	4127
+cti	3298
+tiv	12932
+ive	6854
+ves	14136
+ngu	9359
+gua	5545
+uag	13367
+an-	2058
+-ba	985
+sed	12214
+reo	11397
+eol	4475
+ety	4617
+tym	13165
+ymo	15141
+log	8209
+ogy	10074
+y g	14874
+fam	4872
+ily	6587
+y n	14881
+ na	416
+eft	4205
+fta	5081
+mex	8720
+xic	14787
+tic	12913
+icl	6369
+mod	8837
+oda	9984
+nou	9523
+sop	12412
+ono	10273
+pid	10815
+idg	6388
+dgi	3609
+n-r	9171
+uct	13426
+ctu	3303
+set	12230
+t i	12713
+s i	12075
+zec	15485
+hos	5979
+osl	10396
+ova	10482
+vak	14086
+kia	7505
+rbs	11315
+e j	3993
+paa	10699
+aap	1668
+ape	2131
+pe 	10747
+zal	15437
+gsl	5518
+rsh	11723
+sho	12276
+bäu	2908
+äum	17406
+ gh	213
+ghi	5350
+gho	5354
+gia	5365
+iac	6304
+isp	6781
+ofa	10038
+d'o	3461
+'or	911
+a v	1591
+ v.	623
+gio	5379
+iov	6695
+lbi	7926
+i h	6242
+uta	13864
+gir	5381
+iro	6744
+boc	2743
+bün	2969
+ünd	18374
+ndc	9258
+dch	3539
+lpá	8249
+pár	11027
+ár 	17260
+tta	13079
+ gl	216
+ gü	231
+gün	5669
+ünt	18383
+kun	7692
+une	13705
+llr	8150
+lra	8253
+rnk	11606
+nka	9441
+rsz	11737
+zo 	15597
+rbi	11310
+big	2675
+rep	11398
+ept	4503
+pto	10960
+w g	14394
+bom	2753
+foc	5018
+bür	2970
+ürg	18391
+töl	13270
+ölz	18080
+koe	7588
+d m	3433
+ st	551
+raß	11295
+aßb	2455
+ßbu	17153
+ ep	176
+phr	10803
+rai	11275
+wet	14497
+b n	2531
+nat	9207
+guh	5552
+tts	13093
+bid	2672
+dlo	3689
+oo 	10292
+gré	5501
+mos	8852
+osh	10392
+e n	3997
+ ne	418
+nds	9273
+dse	3782
+e l	3995
+ la	352
+pec	10752
+ctr	3301
+por	10892
+ivo	6862
+vo 	14224
+rup	11798
+ppo	10915
+gud	5548
+dru	3761
+kee	7452
+eet	4184
+etm	4608
+nil	9402
+euf	4635
+uff	13497
+av 	2307
+nss	9578
+eyt	4745
+yta	15268
+tag	12781
+waa	14424
+aag	1661
+v f	14041
+tzb	13178
+zbe	15457
+jah	7046
+jen	7102
+jus	7262
+flü	5005
+lüg	8532
+üge	18340
+v l	14047
+eon	4477
+ece	4115
+rra	11690
+ra-	11266
+a-s	1635
+-sc	1145
+avo	2321
+wab	14425
+ab 	1677
+b g	2524
+sey	12235
+yff	15035
+ffa	4929
+avu	2325
+vus	14299
+iga	6454
+gan	5253
+wus	14655
+stm	12500
+wyn	14672
+yne	15154
+put	10986
+v z	14060
+mee	8701
+eeu	4185
+euw	4650
+wis	14536
+guu	5565
+uus	13902
+guy	5566
+uy 	13940
+let	8008
+pik	10822
+iks	6552
+ gy	222
+gys	5599
+ysb	15248
+ gé	226
+géz	5643
+éza	17744
+ha.	5746
+lbo	7929
+jo 	7190
+gür	5671
+ür 	18388
+y h	14875
+llo	8147
+kup	7694
+upf	13764
+hyg	6106
+ygu	15052
+gul	5556
+a h	1577
+wad	14427
+nns	9493
+ohs	10098
+hst	6031
+arf	2173
+f h	4819
+e h	3991
+rmu	11582
+umü	13697
+nsa	9561
+gag	5246
+aam	1666
+dul	3825
+hus	6074
+um-	13669
+m-d	8581
+-de	1003
+aßm	2456
+ßma	17156
+apo	2141
+pos	10893
+fäh	5148
+ähr	17378
+hrm	6004
+ns-	9560
+s-g	12110
+-ge	1036
+ g.	209
+m h	8547
+lmu	8179
+hnn	5951
+ädt	17373
+kür	7802
+nsi	9569
+lre	8254
+utt	13881
+s-j	12112
+-jo	1068
+joa	7192
+oac	9914
+ofe	10040
+dör	3961
+-jü	1071
+jür	7339
+nsj	9570
+sjö	12335
+auf	2284
+ndl	9267
+kna	7573
+nap	9203
+tsb	13053
+sbu	12182
+eyb	4729
+ybo	14963
+arc	2170
+s-m	12115
+mom	8846
+mms	8817
+u h	13305
+s-o	12117
+-ot	1120
+pfi	10783
+fit	4974
+tzn	13189
+nzh	9711
+zho	15528
+tut	13121
+hku	5902
+ku 	7676
+s u	12087
+ ul	609
+weh	14486
+s-u	12122
+ bü	103
+bül	2968
+ülo	18362
+w h	14395
+onk	10269
+ssl	12467
+ zw	703
+zwi	15693
+k-s	7386
+-sü	1164
+süd	12693
+üde	18333
+dl 	3685
+s w	12089
+hho	5851
+lls	8151
+läg	8448
+äge	17376
+zeh	15490
+blü	2725
+lüc	8529
+göt	5658
+öta	18116
+fai	4868
+irh	6737
+ir'	6728
+r's	11233
+'s 	925
+mpa	8865
+pai	10707
+gn 	5426
+n i	9113
+aar	1670
+rms	11580
+mul	8953
+owo	10525
+hlt	5917
+ksi	7651
+thü	12907
+ürk	18394
+rtm	11757
+tmu	12977
+ayd	2379
+ydé	15001
+dée	3930
+e t	4003
+ ta	570
+ hé	253
+héc	6184
+éct	17609
+rmá	11586
+mán	9025
+hed	5810
+dda	3545
+edy	4158
+iko	6549
+bek	2630
+irn	6743
+rnb	11598
+böl	2952
+fle	4995
+ebh	4092
+bha	2654
+hüb	6224
+übl	18325
+not	9522
+ört	18110
+kös	7789
+öse	18113
+eo 	4464
+tzk	13186
+zky	15570
+ibo	6345
+prö	10936
+röh	12013
+öhl	18061
+wem	14491
+üna	18371
+nau	9208
+ufe	13496
+oru	10368
+ sy	555
+syb	12577
+ybe	14957
+zöl	15761
+hok	5971
+lik	8080
+höh	6205
+öhn	18063
+duk	3824
+uka	13605
+ssu	12474
+sus	12548
+ eo	175
+eob	4467
+oba	9937
+lke	8116
+ltk	8300
+lof	8208
+oec	10015
+sic	12297
+alc	1984
+llk	8144
+oum	10461
+k l	7354
+rsm	11727
+ieh	6419
+eho	4252
+k w	7365
+njo	9429
+gs 	5506
+nkj	9447
+kja	7532
+stb	12489
+tbr	12813
+oek	10023
+aef	1781
+sat	12160
+iët	6992
+ëtt	17791
+nry	9552
+hod	5964
+rbo	11313
+grö	5503
+rön	12016
+öne	18087
+rcu	11339
+rb 	11306
+ühl	18341
+ood	10296
+od 	9982
+r-t	11253
+ohe	10088
+b h	2525
+hak	5757
+hup	6071
+p h	10659
+evi	4663
+vi 	14157
+eml	4398
+mli	8804
+ l.	351
+aru	2188
+amu	2041
+sas	12159
+sud	12533
+het	5826
+ttn	13090
+uhd	13538
+hde	5799
+ ih	268
+ pü	498
+püc	11063
+r-m	11247
+-mu	1100
+ena	4424
+zum	15673
+pon	10889
+lko	8123
+kot	7602
+sag	12147
+ga 	5237
+rva	11813
+ehe	4244
+nym	9696
+ymu	15144
+ila	6564
+lda	7958
+cku	3202
+puw	10989
+wak	14434
+rek	11393
+iob	6677
+cix	3172
+ixo	6886
+xou	14821
+hél	6188
+élè	17657
+lèn	8460
+olg	10187
+ati	2252
+hru	6009
+tew	12857
+käp	7763
+äpp	17390
+ hu	246
+uda	13436
+ubi	13394
+mpú	8889
+púr	11062
+úri	18302
+hug	6062
+go 	5447
+ngl	9350
+oti	10426
+ntr	9609
+igl	6463
+gli	5411
+ tr	578
+ zi	695
+mss	8922
+o w	9859
+uib	13557
+ib 	6331
+rhu	11466
+uub	13893
+ h.	233
+. w	1235
+. j	1223
+ j.	291
+cot	3257
+ti 	12908
+ hy	248
+hya	6101
+yac	14926
+uru	13813
+a i	1578
+ ia	261
+y i	14876
+ id	264
+psi	10946
+jev	7109
+viÄ	14183
+ i	15836
+ if	266
+ife	6439
+fet	4919
+agh	1837
+r i	11202
+g i	5191
+az 	2409
+jas	7057
+w i	14396
+yba	14955
+h i	5690
+dov	3739
+ovs	10497
+vsk	14271
+kyi	7725
+i i	6243
+igo	6466
+k i	7351
+ijf	6520
+jff	7117
+ il	272
+ilj	6573
+ona	10259
+e i	3992
+uiz	13579
+izi	6916
+ im	273
+ os	462
+ahe	1867
+imp	6613
+na-	9187
+a-y	1639
+-yo	1200
+yok	15188
+oko	10166
+d i	3429
+elo	4360
+zki	15567
+l i	7814
+ngr	9356
+lub	8315
+ io	275
+rgh	11441
+ash	2217
+shv	12282
+hvi	6090
+vil	14169
+ ir	278
+ltu	8307
+tis	12929
+irm	6742
+hij	5866
+iji	6522
+jiy	7152
+iya	6896
+ya-	14923
+a-k	1628
+-ki	1075
+keu	7467
+eun	4643
+rmg	11575
+mga	8731
+rgn	11446
+rmt	11581
+mtr	8937
+ is	279
+saa	12141
+aac	1657
+riè	11504
+ièr	6971
+ère	17547
+isi	6774
+sid	12298
+iso	6780
+ely	4369
+lya	8372
+yas	14942
+hev	5828
+v i	14044
+isr	6783
+sra	12446
+rfa	11418
+tar	12792
+grl	5490
+liÄ	8097
+ iv	282
+ivi	6857
+vic	14161
+jaa	7039
+p t	10671
+lkh	8117
+f j	4821
+o j	9846
+r j	11203
+tse	13056
+dli	3688
+b p	2533
+hif	5862
+uto	13877
+amy	2044
+y j	14877
+obu	9953
+nep	9310
+ep 	4488
+p j	10661
+vae	14081
+acq	1727
+cqu	3275
+kad	7400
+ues	13484
+raa	11267
+jai	7047
+eze	4757
+ako	1964
+kob	7585
+eae	4067
+ae 	1775
+oms	10236
+odd	9987
+was	14442
+tev	12856
+ask	2220
+htu	6050
+toe	12997
+bov	2762
+buy	2845
+dts	3808
+lay	7910
+dum	3826
+umé	13696
+ekh	4325
+uls	13651
+ygh	15046
+jel	7100
+koÅ	7611
+oÅ¾	10613
+Å¾i	17012
+¾ia	16597
+iak	6312
+ jÃ	307
+jÃ¡	7284
+Ã¡n	16649
+¡n 	16187
+luy	8338
+uyk	13949
+yke	15097
+uld	13636
+rse	11720
+swe	12568
+ pi	478
+pij	10821
+jne	7182
+lts	8306
+tsz	13072
+sz 	12593
+n-s	9172
+-sö	1162
+sör	12674
+tim	12923
+ncx	9244
+cx 	3339
+x j	14706
+usa	13834
+a j	1579
+hov	5982
+elr	4363
+lro	8256
+way	14448
+ayn	2388
+ je	295
+jea	7089
+bap	2571
+apt	2145
+pti	10958
+duf	3819
+ufr	13504
+esn	4574
+n-p	9170
+-ph	1129
+our	10466
+huh	6063
+ijl	6525
+jle	7169
+aat	1672
+ayt	2394
+yto	15276
+ome	10223
+zzo	15719
+jeí	7115
+eís	4797
+ísa	17864
+öhr	18064
+hrs	6007
+zhu	15530
+hua	6056
+ ji	297
+jia	7129
+n-h	9162
+-hu	1051
+ua 	13359
+küh	7799
+ühn	18343
+lna	8190
+sie	12299
+raw	11289
+awe	2339
+we 	14476
+m w	8562
+oan	9925
+dsz	3797
+hip	5872
+owa	10513
+i j	6244
+joe	7196
+nzm	9715
+ouk	10459
+oey	10034
+e m	3996
+lsl	8273
+ij 	6515
+j j	7016
+m p	8555
+möh	9081
+nn-	9481
+n-w	9175
+-wa	1188
+idm	6394
+bst	2807
+é j	17566
+spy	12434
+pyr	11010
+og 	10057
+rpz	11679
+pzo	11014
+zov	15618
+v j	14045
+w j	14397
+ogi	10064
+tab	12776
+b j	2527
+oew	10033
+aib	1895
+ibl	6342
+aeh	1783
+ofm	10045
+elu	4366
+död	3958
+epu	4504
+pus	10985
+dip	3652
+crü	3287
+rüg	12047
+köh	7783
+oep	10027
+epf	4493
+ünz	18385
+nzb	9709
+iar	6319
+anx	2083
+nxl	9680
+xle	14807
+led	7992
+acr	1728
+u j	13307
+obr	9950
+bug	2828
+ecc	4113
+cca	3050
+dil	3648
+khu	7497
+kwi	7713
+auc	2281
+ucl	13421
+eru	4540
+nuc	9633
+lav	7907
+ngk	9349
+gk 	5400
+ecu	4128
+epl	4497
+pl 	10853
+agr	1845
+gmü	5425
+egk	4220
+aev	1796
+g v	5204
+vei	14126
+müt	9100
+üth	18410
+efk	4198
+fke	4990
+seu	12231
+ldb	7959
+dbe	3527
+nfr	9332
+tst	13067
+dün	3974
+h s	5700
+b w	2540
+ dö	157
+döl	3959
+vat	14095
+atk	2254
+rll	11552
+laj	7895
+aj 	1923
+löh	8507
+öhe	18060
+d w	3443
+heu	5827
+pix	10834
+ixi	6884
+xis	14799
+fef	4907
+ffi	4932
+p c	10654
+nmü	9479
+ltb	8291
+hob	5962
+tob	12994
+upi	13766
+lfg	8027
+fga	4946
+zah	15433
+nje	9426
+naa	9188
+ugm	13523
+n-e	9159
+-ed	1015
+orp	10363
+rp 	11665
+ppn	10914
+pne	10870
+kay	7419
+o'm	9880
+'mi	897
+ltg	8296
+lmc	8171
+mck	8669
+igh	6461
+ght	5357
+mih	8758
+iha	6481
+jon	7205
+akr	1966
+kr'	7624
+eyk	4737
+joã	7218
+oão	10617
+ão 	17365
+bat	2575
+ldo	7970
+joo	7206
+oop	10307
+rho	11464
+uye	13945
+yen	15019
+jof	7197
+sip	12310
+ipa	6702
+nrö	9557
+llâ	8161
+lâ	8444
+â	17360
+a	15772
+ab	15966
+clÃ	3218
+lÃ©	8411
+Ã©m	16683
+©me	16278
+so 	12395
+ltl	8301
+tl 	12962
+osé	10413
+sé 	12643
+shu	12281
+til	12922
+é m	17569
+o v	9858
+lkm	8121
+osq	10401
+squ	12444
+uin	13568
+emd	4392
+mde	8685
+ldh	7964
+dho	3627
+thr	12893
+oug	10455
+jou	7211
+joy	7215
+joz	7216
+zef	15488
+ulo	13647
+em 	4387
+mbo	8647
+bo 	2738
+ jü	318
+nky	9459
+kys	7732
+aß 	2454
+ß j	17149
+ jö	315
+aks	1967
+ksc	7647
+ jø	316
+jør	7331
+ørn	18233
+j. 	7029
+jua	7244
+sná	12392
+nái	9748
+áid	17219
+jud	7247
+mok	8844
+ulp	13648
+lp 	8236
+kye	7722
+ye 	15003
+lio	8084
+bah	2563
+hns	5953
+fau	4879
+übn	18326
+bne	2731
+s l	12078
+ p.	473
+ubk	13395
+bke	2709
+önt	18095
+ntg	9600
+u v	13319
+egs	4226
+gsc	5510
+nbo	9225
+izs	6924
+zsä	15649
+säc	12630
+äck	17370
+xl 	14805
+nki	9446
+mär	9036
+ärk	17394
+rkl	11526
+jur	7261
+brÄ	2782
+rÄ	11894
+Äz	16792
+za	16025
+rij	11481
+un-	13700
+n-m	9167
+mah	8611
+ahd	1866
+hda	5798
+ ef	166
+jut	7263
+eha	4241
+s k	12077
+kiw	7526
+iwu	6877
+m k	8550
+t k	12715
+t v	12726
+l k	7816
+rl-	11544
+l-a	7853
+-au	982
+tfo	12868
+fog	5022
+bul	2833
+a k	1580
+dau	3514
+b k	2528
+f k	4822
+nzo	9716
+zos	15615
+hrd	5999
+ldn	7969
+dne	3708
+h p	5697
+mpr	8878
+güt	5673
+w k	14398
+g k	5193
+l-h	7860
+-he	1048
+mud	8945
+rlh	11550
+lüe	8531
+üer	18338
+ndw	9277
+dwo	3854
+l l	7817
+y k	14878
+muc	8944
+k k	7353
+l p	7821
+piu	10832
+iut	6845
+i k	6245
+plo	10857
+enp	4439
+npa	9535
+l r	7823
+rlr	11556
+l u	7826
+lmö	8187
+m l	8551
+aml	2033
+wut	14656
+zuc	15664
+hky	5903
+ge-	5297
+e-m	4042
+-mü	1103
+atj	2253
+tja	12946
+p k	10662
+kev	7468
+k. 	7389
+. h	1221
+ ki	326
+kim	7517
+ or	461
+get	5316
+uw 	13919
+kiz	7528
+izz	6930
+zzy	15722
+zy 	15695
+laa	7886
+d k	3431
+us-	13832
+-mi	1097
+nom	9516
+s-p	12118
+-pe	1127
+s r	12084
+hew	5829
+wun	14651
+ör 	18100
+ wü	656
+wür	14694
+ürz	18402
+odi	9992
+dim	3649
+nos	9521
+ hö	255
+höf	6203
+öfl	18055
+wec	14481
+sav	12162
+koo	7598
+zeg	15489
+ ká	343
+kár	7757
+áro	17268
+ kä	344
+kät	7765
+äte	17402
+ ku	336
+ssw	12476
+swi	12569
+urd	13796
+kus	7696
+asu	2230
+tuc	13106
+l-d	7856
+lal	7897
+o l	9848
+chf	3115
+hfe	5835
+d l	3432
+ngn	9352
+gni	5431
+tyl	13164
+l.a	7880
+.a.	1242
+fyg	5128
+ygi	15047
+gi 	5363
+i l	6246
+vla	14201
+asa	2210
+aví	2331
+vín	14382
+íni	17849
+tah	12782
+ová	10503
+vá 	14338
+á l	17185
+f l	4823
+öwe	18124
+lso	8275
+pee	10754
+moz	8859
+oza	10578
+zar	15443
+hef	5812
+ vl	627
+vli	14203
+vro	14257
+nfl	9328
+flu	4998
+csi	3291
+sik	12305
+hüc	6225
+mba	8640
+onÃ	10285
+nÃ­	9730
+Ã­k	16690
+­ko	16337
+kov	7604
+ovÃ	10502
+vÃ¡	14328
+Ã¡ 	16639
+¡ l	16141
+ibu	6349
+buÅ	2848
+uÅ¡	13992
+Å¡e	16954
+¡e 	16164
+ ai	51
+lif	8075
+ork	10358
+k o	7357
+arv	2189
+rve	11814
+vey	14141
+y l	14879
+msi	8915
+gkn	5405
+lim	8082
+riz	11497
+g t	5202
+eur	4646
+c i	2982
+sue	12534
+feu	4920
+htw	6052
+twa	13139
+auv	2298
+uve	13908
+lod	8206
+tog	12999
+ lé	371
+léo	8475
+éon	17682
+loï	8234
+oïs	10642
+ïs 	17914
+hhe	5849
+ar-	2167
+r-g	11241
+-gü	1046
+hta	6038
+meg	8703
+egg	4217
+rÄ	11892
+Äd	16760
+dÄ	15814
+dÄ	3896
+Äc	16759
+ce	15811
+cea	3067
+u l	13309
+zag	15432
+isn	6779
+hm.	5928
+m. 	8596
+. l	1225
+as-	2209
+s-s	12120
+-sa	1144
+omé	10250
+mé 	9049
+é l	17568
+ou 	10447
+cou	3258
+oup	10464
+upe	13763
+js 	7231
+uca	13414
+udm	13447
+dmi	3697
+epi	4495
+cop	3253
+sax	12164
+xe-	14762
+e-c	4032
+-co	998
+tae	12779
+aed	1779
+umg	13676
+en-	4423
+n-c	9157
+-cr	999
+koh	7591
+hl-	5905
+l-l	7864
+-la	1085
+ids	6399
+fl 	4993
+ttg	13084
+rnw	11616
+luk	8324
+luí	8344
+uís	14028
+ís 	17863
+rdo	11364
+eno	4438
+w l	14399
+luf	8319
+uft	13506
+ ly	364
+ya 	14921
+lyd	8375
+ydi	14990
+ijm	6526
+jma	7174
+jal	7050
+gii	5373
+rtj	11754
+gno	5435
+noa	9504
+oal	9923
+aik	1904
+dsm	3788
+gef	5304
+mam	8616
+moc	8836
+oof	10298
+ött	18120
+g m	5195
+arí	2204
+ría	11983
+ía 	17806
+rc 	11326
+s-r	12119
+h-r	5734
+-ra	1138
+rsa	11716
+o m	9849
+rco	11335
+v m	14048
+orb	10349
+k m	7355
+nks	9454
+ksa	7645
+ebn	4098
+rgr	11448
+rgu	11450
+lsh	8270
+ovn	10494
+vna	14215
+lpu	8247
+alv	2003
+lve	8348
+vea	14119
+ear	4078
+nno	9491
+oce	9963
+ogü	10081
+ün 	18370
+käm	7762
+ämm	17385
+nk-	9440
+k-w	7387
+-we	1189
+m m	8552
+arw	2190
+ssc	12458
+a t	1589
+ie-	6411
+e-l	4041
+-lu	1089
+z m	15391
+dön	3960
+önh	18090
+sis	12313
+kuk	7689
+ieÅ	6435
+eÅ	4779
+Åk	16880
+ka	15795
+usz	13858
+shl	12273
+med	8700
+loc	8205
+rko	11529
+rku	11533
+ssk	12466
+kmu	7571
+muß	8967
+ß m	17150
+zus	15678
+rrg	11692
+möd	9080
+ödl	18052
+add	1747
+osz	10409
+sza	12594
+zat	15445
+böt	2956
+ttc	13081
+tch	12821
+dib	3638
+grz	5496
+rzi	11868
+uze	13970
+dtf	3801
+tfe	12866
+bib	2670
+rty	11767
+alé	2013
+lék	8471
+éko	17645
+hia	5857
+röc	12010
+ijb	6517
+jbo	7073
+moo	8848
+meu	8717
+yma	15132
+ax 	2358
+cet	3084
+dla	3686
+ldr	7971
+rkh	11523
+khe	7487
+zke	15566
+aab	1656
+tir	12928
+p m	10664
+esw	4583
+u m	13310
+akv	1970
+kvo	7707
+aya	2376
+ayi	2384
+yim	15078
+kem	7460
+ayr	2392
+yra	15222
+ gó	228
+góm	5650
+óme	17997
+mez	8722
+eyr	4743
+yr 	15220
+vul	14294
+lpi	8241
+emo	4401
+eyj	4736
+yje	15093
+egé	4236
+géo	5641
+éoc	17677
+me'	8695
+e's	4028
+'sh	927
+sei	12219
+ia-	6301
+-so	1151
+oog	10299
+anb	2061
+nby	9228
+pfm	10786
+fmü	5009
+stü	12526
+tür	13292
+ürm	18396
+zam	15438
+ffs	4939
+fso	5074
+soh	12404
+isv	6787
+svi	12560
+ sw	554
+swa	12567
+iod	6679
+pea	10750
+swo	12571
+mik	8761
+roz	11658
+ozz	10598
+zza	15713
+lti	8298
+iad	6305
+pav	10720
+avl	2319
+irj	6739
+rja	11510
+isj	6775
+sja	12328
+el-	4345
+l-f	7858
+-fe	1029
+wah	14431
+pt 	10953
+osw	10407
+see	12215
+lss	8278
+rbl	11312
+rös	12018
+ös 	18111
+ mä	404
+ärt	17397
+kuÄ	7702
+uÄ?	13988
+Ä?u	16752
+?uk	1546
+uko	13616
+ m	15838
+fa 	4857
+nad	9191
+efé	4210
+fé 	5156
+é n	17570
+nai	9196
+mib	8752
+ibi	6340
+i n	6248
+tas	12793
+ssj	12465
+poj	10885
+oja	10137
+ata	2244
+tot	13011
+nya	9685
+yan	14937
+nwu	9676
+wu 	14638
+u n	13311
+ nd	417
+l n	7819
+idh	6389
+dha	3620
+sym	12584
+ymp	15142
+mph	8870
+o n	9850
+nev	9316
+vio	14172
+nza	9708
+iew	6432
+ewo	4696
+t n	12718
+s n	12080
+otm	10430
+r n	11207
+vet	14137
+bit	2688
+z n	15392
+ffh	4931
+fhu	4952
+huë	6087
+uës	14022
+ës 	17787
+or-	10347
+r-s	11252
+-st	1154
+anl	2071
+nle	9465
+pev	10771
+evs	4672
+vsn	14272
+wog	14588
+ogr	10069
+m n	8553
+isy	6789
+h n	5695
+g n	5196
+beo	2634
+otk	10428
+r o	11208
+n. 	9178
+ nu	430
+nur	9647
+ od	448
+ ol	456
+aso	2224
+sos	12414
+ená	4453
+nár	9751
+ári	17266
+a o	1584
+g o	5197
+liv	8091
+b o	2532
+euv	4649
+uvi	13909
+ota	10418
+via	14159
+ewt	4700
+wto	14634
+on-	10257
+n-j	9164
+tyc	13157
+ych	14972
+hse	6022
+ om	457
+p o	10666
+ on	458
+m o	8554
+t z	12730
+ zo	699
+zzd	15714
+zdu	15477
+orl	10359
+d o	3435
+evy	4675
+y o	14882
+t o	12719
+f o	4826
+pan	10712
+niz	9416
+ip 	6700
+ lö	375
+ebm	4097
+bma	2726
+loh	8210
+krä	7639
+räm	11927
+äme	17384
+bis	2687
+ism	6778
+oht	10099
+htl	6044
+enl	4435
+nla	9464
+zöc	15759
+anÅ	2088
+nÅ£	9743
+Å£ 	16966
+£ o	16231
+ ov	465
+pab	10700
+ba 	2553
+a p	1585
+ito	6812
+i p	6250
+pat	10718
+aay	1675
+y p	14883
+ndn	9269
+süs	12698
+üsk	18406
+d p	3436
+olh	10188
+ürl	18395
+kew	7469
+-ha	1047
+e p	3999
+obb	9938
+ ah	50
+p p	10667
+anh	2067
+hrb	5998
+lgu	8052
+tz-	13176
+z-m	15418
+-mo	1099
+fee	4906
+ dy	148
+dyk	3869
+yk 	15095
+brý	2794
+rý 	12055
+ý p	18438
+eav	4082
+ aq	59
+aqu	2162
+uit	13574
+rcy	11340
+cy 	3340
+erq	4536
+sit	12314
+bam	2568
+rgl	11444
+r-j	11244
+-ja	1065
+maf	8609
+fay	4883
+r-p	11250
+ruz	11807
+uzi	13973
+r s	11212
+ghu	5358
+v p	14051
+ us	615
+roß	11661
+oßn	10614
+ßne	17157
+scr	12195
+riv	11493
+abo	1691
+clü	3224
+lüv	8536
+üve	18414
+büh	2967
+jaf	7044
+ffé	4945
+é p	17572
+jar	7056
+hth	6042
+nae	9192
+p n	10665
+tos	13010
+usd	13837
+sde	12203
+p w	10674
+pia	10812
+kh 	7483
+rtn	11758
+voe	14230
+oft	10050
+taa	12775
+aak	1664
+elw	4368
+lwe	8362
+tuy	13126
+uyn	13952
+pim	10824
+opm	10328
+pma	10867
+cua	3307
+ual	13371
+pio	10826
+gam	5252
+cid	3155
+itc	6800
+poi	10884
+ish	6773
+ity	6819
+a r	1587
+fae	4864
+faë	4888
+aël	2475
+ëla	17779
+z r	15396
+zep	15497
+kön	7786
+öni	18091
+g r	5200
+dep	3583
+phu	10806
+jaw	7061
+awa	2335
+i r	6252
+1 r	1306
+raq	11283
+sli	12359
+jng	7183
+gaa	5240
+ rü	530
+rüd	12046
+üdi	18334
+dig	3643
+msp	8920
+imu	6617
+dix	3660
+x r	14714
+äfn	17375
+kek	7458
+eku	4336
+kul	7690
+ulé	13663
+u r	13315
+k r	7360
+inm	6647
+beu	2640
+né 	9774
+rog	11639
+pap	10714
+enê	4458
+nê 	9792
+eza	4754
+ rh	511
+rhi	11463
+jnv	7188
+nvi	9661
+hys	6115
+ngt	9358
+gto	5537
+tün	13291
+usp	13849
+ z.	689
+agt	1847
+gtm	5536
+rip	11487
+ipu	6717
+pua	10970
+pek	10760
+r. 	11260
+omp	10234
+hlb	5907
+m r	8557
+ hp	243
+tip	12926
+ pö	497
+pöh	11058
+pi 	10811
+fo 	5015
+jok	7202
+oki	10161
+cic	3154
+sl 	12355
+pow	10897
+w r	14404
+lf-	8022
+f-d	4843
+uml	13680
+ucz	13429
+cza	3356
+zak	15436
+fst	5077
+no-	9502
+o-g	9893
+ror	11650
+slä	12367
+rps	11673
+m t	8559
+rox	11656
+oxa	10535
+ldm	7968
+ rö	527
+ötg	18118
+urk	13803
+drö	3773
+röß	12022
+ößl	18134
+ßle	17155
+eiß	4292
+ißn	6951
+owe	10517
+goc	5452
+udy	13457
+mmu	8819
+ruu	11803
+uud	13895
+vai	14084
+kue	7683
+ueg	13473
+tlu	12968
+lur	8331
+yem	15018
+emn	4400
+mni	8826
+i s	6253
+sad	12144
+adÄ	1768
+dÄ±	3899
+Ä±k	16830
+±k 	16422
+s s	12085
+jad	7042
+das	3512
+l s	7824
+t s	12723
+lux	8337
+uxe	13932
+xe 	14761
+g s	5201
+doo	3733
+etu	4614
+tu 	13102
+u s	13316
+c s	2991
+hno	5952
+o s	9855
+sao	12155
+aor	2116
+nox	9526
+oxx	10549
+x s	14715
+z s	15397
+gaw	5261
+awr	2351
+wri	14614
+hko	5901
+k s	7361
+sea	12211
+ffn	4936
+häm	6161
+knü	7581
+nüp	9829
+üpf	18386
+vir	14175
+ird	6733
+tiá	12940
+lih	8077
+iho	6488
+ s	15843
+sej	12220
+gej	5308
+nav	9209
+aju	1942
+jum	7256
+umd	13673
+sib	12296
+iby	6351
+yll	15116
+zäu	15743
+äun	17407
+lka	8114
+egf	4216
+bso	2806
+d s	3439
+gmu	5424
+g-e	5217
+-el	1019
+igf	6459
+b s	2536
+hti	6043
+lef	7994
+efs	4204
+fse	5070
+öte	18117
+meo	8711
+dac	3496
+ryn	11848
+std	12491
+tdi	12830
+etc	4599
+tcl	12822
+ sü	565
+süß	12699
+üßk	18423
+ßki	17154
+du-	3813
+u-y	13356
+-yu	1201
+yul	15294
+iki	6544
+kic	7507
+ayh	2383
+yhe	15059
+m s	8558
+onj	10268
+j s	7024
+ sø	564
+sør	12684
+øre	18225
+sov	12417
+v s	14053
+isl	6777
+efa	4191
+ufm	13501
+imk	6608
+üß 	18422
+ß s	17152
+inw	6657
+ho-	5960
+o-j	9896
+-ju	1069
+fex	4923
+oln	10194
+y s	14886
+bn 	2728
+rml	11578
+idn	6395
+oks	10169
+ymn	15140
+mnu	8830
+s-c	12106
+-ch	995
+rkn	11528
+tga	12871
+bæu	2913
+æum	17475
+ su	552
+sui	12538
+itb	6799
+sun	12543
+uny	13725
+nye	9689
+suz	12554
+uza	13966
+chö	3144
+hön	6209
+ön 	18085
+ sv	553
+sve	12559
+pip	10827
+ipi	6707
+vät	14357
+äth	17403
+iat	6321
+yfo	15038
+syl	12583
+ylv	15123
+ymf	15135
+mfo	8728
+bea	2620
+tac	12777
+t t	12724
+nkr	9453
+o t	9856
+eyd	4731
+yde	14987
+d u	3441
+tat	12794
+woo	14596
+tea	12835
+eam	4074
+ilr	6581
+of-	10037
+f-f	4845
+ddy	3560
+w t	14406
+gae	5244
+thé	12903
+hé 	6181
+é t	17575
+c t	2992
+e 1	3981
+ 12	20
+12 	1314
+2 c	1336
+sts	12505
+f t	4831
+bsu	2808
+cap	3029
+pta	10955
+odm	9996
+dme	3696
+bud	2825
+udd	13438
+ooi	10301
+oij	10121
+j t	7025
+fey	4924
+y t	14887
+rgk	11443
+k t	7362
+isf	6771
+sfe	12242
+ury	13816
+efo	4202
+fot	5034
+thl	12889
+eup	4644
+nöl	9812
+nof	9509
+ofk	10043
+fka	4989
+nsm	9573
+i t	6254
+l t	7825
+acd	1715
+cda	3059
+rök	12014
+öke	18068
+übe	18323
+uas	13377
+spl	12429
+pli	10856
+ ti	575
+iag	6308
+pps	10916
+iph	6706
+bbé	2600
+bé 	2922
+kof	7589
+ofs	10049
+fsc	5068
+p '	10651
+ 't	12
+'t 	934
+ tö	593
+wom	14594
+ t-	568
+t-m	12757
+mob	8835
+vot	14243
+omÃ	10243
+mÃ¡	9006
+Ã¡Å	16657
+¡Å¡	16225
+Å¡ 	16952
+oyd	10556
+yd-	14983
+d-l	3476
+lah	7893
+pff	10782
+ovy	10501
+msn	8918
+sni	12387
+nij	9400
+ttu	13094
+thm	12890
+hmu	5937
+oco	9970
+üts	18411
+how	5983
+ekm	4329
+jnt	7186
+elg	4352
+rix	11495
+xi 	14785
+poe	10880
+ tw	582
+miu	8771
+ ub	600
+ubb	13388
+bbo	2593
+ ud	602
+g u	5203
+pte	10956
+e u	4004
+k u	7363
+w u	14407
+h u	5702
+ tü	596
+ürh	18392
+m u	8560
+mow	8856
+f u	4832
+zik	15545
+ikh	6543
+iul	6837
+ruo	11797
+uoc	13735
+nsu	9580
+uk 	13603
+ ur	614
+rsu	11734
+ula	13633
+ke-	7447
+e-h	4037
+ uw	618
+köl	7785
+krö	7641
+rög	12012
+öge	18057
+t u	12725
+n-n	9168
+-ne	1105
+o u	9857
+lös	8508
+ösc	18112
+alh	1989
+l v	7827
+hör	6210
+ded	3571
+dmo	3698
+k v	7364
+uo 	13732
+eyc	4730
+yck	14974
+d v	3442
+niq	9407
+fox	5038
+ox 	10533
+x v	14718
+vom	14237
+ews	4699
+imé	6627
+lüb	8528
+pér	11045
+ére	17699
+z v	15400
+viv	14179
+lad	7889
+pub	10971
+ubl	13396
+c v	2994
+soc	12399
+oci	9965
+i v	6256
+f v	4833
+zot	15616
+h v	5703
+afr	1816
+dso	3790
+unf	13706
+x w	14719
+ncl	9237
+mpo	8876
+i w	6257
+aft	1818
+mpl	8873
+u w	13320
+ltr	8305
+öfe	18054
+ugi	13521
+. g	1220
+erj	4529
+wib	14523
+ogz	10075
+gza	5607
+zaa	15426
+jna	7181
+liq	8086
+m b	8541
+eka	4321
+epr	4501
+fur	5108
+rtw	11766
+twä	13147
+wän	14685
+äng	17387
+f w	4834
+här	6163
+äri	17393
+kil	7516
+übk	18324
+r-f	11240
+-fö	1034
+rss	11732
+-tr	1172
+rcq	11336
+cq 	3274
+q w	11082
+ mé	406
+mér	9058
+éro	17702
+ntf	9599
+v o	14050
+sot	12415
+eby	4104
+ysc	15249
+gij	5374
+ wl	647
+wla	14553
+syr	12588
+oml	10230
+mla	8802
+a w	1592
+ wÅ	652
+wÅ	14681
+Åa	16879
+ad	15791
+ady	1766
+dys	3875
+ysÅ	15264
+sÅ	12614
+aw	15793
+aw 	2333
+ wá	653
+wál	14683
+ált	17237
+oeg	10019
+rüb	12044
+übs	18327
+bsa	2796
+rih	11479
+ihm	6486
+saw	12163
+lfh	8028
+fha	4949
+won	14595
+ wu	650
+e x	4007
+r x	11217
+aid	1897
+o x	9860
+t y	12729
+yon	15191
+sh-	12261
+h-h	5727
+urw	13815
+z y	15403
+yor	15194
+r y	11218
+n '	9102
+k y	7367
+up 	13758
+d y	3445
+ yv	682
+yvo	15314
+rsi	11724
+s z	12092
+h z	5707
+i z	6260
+ zk	696
+i &	6233
+mda	8684
+j a	7007
+l-m	7865
+abu	1695
+bu-	2821
+u-b	13343
+kr 	7623
+-aj	972
+jdÄ	7085
+dÄ?	3895
+Ä?b	16737
+?bÄ	1476
+bÄ«	2885
+Ä« 	16808
+« i	16282
+ ib	262
+ibn	6344
+uby	13405
+bya	2858
+l-g	7859
+-ga	1035
+daf	3499
+afi	1808
+fi 	4953
+aif	1899
+l-i	7861
+-is	1061
+ibr	6346
+ahi	1871
+ hk	239
+hki	5899
+iml	6609
+ml 	8801
+l y	7830
+ ya	670
+yaz	14949
+bda	2608
+oul	10460
+mbi	8644
+udj	13444
+jaé	7067
+aé 	2470
+é a	17557
+riy	11496
+yad	14927
+umn	13682
+say	12165
+dat	3513
+kec	7450
+lwa	8361
+rao	11281
+aou	2119
+ ou	464
+bdu	2613
+did	3640
+ul-	13631
+l-q	7869
+-qa	1135
+qac	11091
+cem	3078
+m i	8548
+adh	1751
+dhi	3623
+arh	2175
+utf	13869
+tfi	12867
+mua	8942
+uam	13372
+-se	1146
+enu	4444
+uha	13537
+raj	11276
+aja	1924
+b m	2530
+az-	2411
+z-z	15422
+-za	1204
+ruq	11799
+qad	11092
+idr	6398
+u b	13299
+asn	2223
+sna	12385
+nao	9202
+ebk	4095
+bka	2708
+faw	4881
+awz	2357
+wzi	14678
+kaf	7402
+kab	7398
+saï	12172
+aïd	2491
+ïdi	17897
+di-	3636
+i-s	6289
+-si	1148
+zao	15440
+ui 	13555
+bd 	2606
+sah	12148
+fid	4959
+fao	4874
+dji	3671
+jid	7132
+udk	13445
+dke	3676
+uad	13364
+arè	2201
+rès	11952
+ès 	17550
+bu 	2819
+jez	7113
+ezi	4760
+zir	15552
+hec	5809
+eci	4118
+jaz	7063
+ahc	1865
+hce	5791
+nbi	9222
+dr 	3752
+hik	5867
+djo	3672
+jog	7198
+ogh	10063
+ghl	5351
+ouy	10472
+uya	13942
+yah	14931
+qar	11101
+ihu	6491
+hu 	6054
+aka	1950
+ahu	1881
+huz	6081
+bub	2823
+raz	11292
+yak	14934
+ubu	13403
+faz	4884
+azu	2428
+zul	15672
+shy	12284
+hmo	5935
+aae	1659
+aee	1780
+iqb	6723
+qba	11109
+iq 	6721
+l-k	7863
+-ku	1080
+l-b	7854
+kka	7541
+n'd	9147
+'di	840
+iay	6326
+mu 	8940
+hii	5865
+iir	6510
+aca	1712
+o o	9851
+rif	11477
+muk	8952
+kht	7496
+muj	8951
+uja	13584
+-ad	967
+lid	8073
+j m	7019
+-kh	1074
+ kh	325
+zib	15537
+kig	7511
+qas	11102
+smy	12379
+ija	6516
+alu	2002
+ 'a	1
+i '	6234
+'ab	804
+h-s	5735
+-sh	1147
+r '	11190
+ ii	269
+taq	12791
+aqi	2155
+qi 	11119
+yat	14943
+azh	2418
+zha	15520
+ad-	1743
+d-d	3469
+mwi	8978
+iny	6659
+aji	1931
+ji 	7128
+keb	7449
+-zu	1208
+bay	2580
+bih	2676
+ih 	6480
+qos	11148
+-az	984
+akh	1957
+jaâ	7066
+aâ	2462
+af	15969
+-fa	1028
+fad	4863
+luo	8328
+uol	13743
+nut	9649
+oyo	10565
+yoi	15186
+oi 	10111
+naw	9210
+wi 	14521
+mub	8943
+hdi	5800
+ahg	1869
+hgo	5844
+oub	10450
+naj	9197
+jib	7130
+gao	5254
+aon	2112
+bag	2562
+amn	2035
+mno	8829
+l-t	7872
+-tu	1174
+kac	7399
+yth	15270
+ yu	681
+suf	12535
+da'	3492
+a'a	1609
+'ad	806
+a z	1595
+-da	1002
+kak	7407
+iye	6898
+go'	5448
+o'a	9870
+'an	814
+rii	11480
+iig	6501
+nuu	9650
+aym	2387
+gac	5242
+acm	1723
+cmo	3228
+odh	9991
+dhe	3622
+bdi	2610
+oga	10058
+mao	8618
+aow	2121
+i y	6259
+ulm	13645
+rki	11524
+sok	12407
+ufi	13498
+adu	1763
+abh	1685
+eeh	4174
+bua	2822
+uah	13368
+uay	13382
+su 	12527
+naf	9193
+fiu	4975
+l-y	7876
+-ya	1197
+gaf	5245
+afo	1814
+foo	5030
+fiz	4979
+h y	5706
+tif	12916
+aje	1927
+jee	7093
+rya	11835
+yab	14925
+yaq	14940
+aqo	2157
+qoo	11147
+oob	10294
+ntu	9612
+tul	13114
+edh	4142
+`ka	1566
+al'	1980
+l' 	7840
+' a	795
+vah	14083
+sht	12280
+zaq	15442
+aq 	2150
+q a	11064
+mim	8763
+diq	3653
+fia	4956
+ at	62
+atl	2255
+tla	12963
+ved	14122
+aaq	1669
+qib	11121
+khw	7499
+azm	2422
+zmi	15585
+eir	4282
+bba	2588
+shr	12279
+udu	13454
+n q	9121
+qut	11174
+utb	13865
+ af	48
+afs	1817
+fsi	5072
+afz	1822
+fza	5137
+eem	4178
+amj	2031
+mji	8787
+kaz	7420
+ahs	1879
+yed	15009
+aiy	1918
+ aj	52
+akb	1951
+kba	7428
+huq	6072
+uq 	13781
+q f	11069
+azl	2421
+zlu	15579
+lul	8325
+zee	15487
+ksh	7650
+saf	12146
+fat	4878
+usr	13851
+sro	12451
+mja	8785
+anv	2081
+nva	9659
+emz	4410
+mza	8999
+aqa	2151
+qa 	11088
+mna	8823
+asl	2221
+owd	10516
+wdh	14468
+njs	9432
+jsh	7234
+ooq	10308
+oq 	10340
+eev	4186
+egu	4228
+jin	7142
+oz 	10577
+fik	4966
+fiq	4971
+iqa	6722
+zay	15450
+y y	14892
+n y	9129
+zaf	15431
+l z	7831
+aih	1901
+m z	8565
+aho	1877
+khd	7486
+hdo	5801
+nud	9634
+rje	11511
+e z	4009
+fiy	4978
+ iq	277
+zia	15536
+ddu	3557
+ayu	2395
+m q	8556
+qul	11169
+i q	6251
+tb 	12807
+sae	12145
+ift	6448
+fti	5084
+tik	12921
+adg	1750
+-ah	970
+izv	6927
+zvi	15686
+sua	12530
+awd	2338
+wda	14465
+bd-	2607
+d-a	3466
+-al	974
+aaz	1676
+qus	11173
+k '	7341
+amÄ	2047
+mÄ«	9015
+Ä«d	16809
+hiz	5882
+-ka	1072
+alr	1999
+lru	8258
+ruw	11805
+-gh	1037
+l-r	7870
+jil	7140
+ilu	6584
+luw	8336
+yaf	14929
+-af	968
+l-z	7877
+hsh	6023
+as'	2208
+s'u	12103
+'ud	940
+iyy	6905
+yya	15329
+h `	5681
+ `a	38
+`ab	1562
+ush	13841
+yda	14984
+ajm	1935
+jmi	7176
+toh	13000
+zri	15635
+haq	5763
+sih	12302
+-li	1087
+uhs	13549
+hsi	6024
+sa'	12138
+a'd	1612
+'du	843
+mu'	8941
+u'm	13335
+-aw	983
+wza	14677
+-gi	1038
+l-j	7862
+-ji	1067
+jif	7134
+ifr	6446
+kaw	7418
+kib	7506
+okr	10168
+kry	7634
+-ab	965
+qat	11103
+at'	2242
+ayy	2398
+l-w	7875
+ahh	1870
+arj	2177
+asb	2211
+duw	3835
+l-n	7866
+-no	1107
+yee	15010
+aii	1902
+taz	12800
+uaz	13383
+-na	1104
+tib	12912
+-kr	1079
+iou	6694
+lkr	8124
+tii	12919
+béh	2929
+éha	17633
+-ye	1198
+yeh	15013
+hiy	5881
+lsy	8283
+uak	13370
+izo	6921
+zou	15617
+ mc	383
+heq	5823
+eqa	4512
+deq	3584
+eq 	4510
+Ä°p	16819
+°pe	16388
+ekÃ	4341
+kÃ§	7741
+Ã§i	16672
+§i 	16264
+zhi	15523
+hib	5858
+bdü	2616
+dül	3972
+ülh	18359
+ hâ	251
+hâm	6153
+âmi	17341
+koç	7612
+oça	10619
+çak	17489
+ülk	18360
+azr	2426
+zre	15634
+mri	8894
+aah	1662
+eez	4189
+l-o	7867
+-om	1116
+saq	12157
+aqq	2158
+qqa	11152
+qaf	11094
+evn	4668
+vni	14218
+ulc	13635
+lce	7940
+haw	5769
+waj	14433
+ulh	13640
+irz	6754
+rza	11863
+iqi	6724
+Özg	17105
+zge	15512
+ulk	13643
+-ar	979
+-ir	1060
+iry	6753
+-am	975
+l-e	7857
+-ey	1026
+eya	4728
+-ta	1166
+avc	2311
+vcÄ	14110
+cÄ±	3367
+Ä± 	16823
+± a	16397
+ayb	2377
+Ãa	16623
+at	15853
+tlÄ	12971
+lÄ±	8418
+rca	11329
+geg	5305
+giÄ	5389
+ a	15830
+qah	11095
+aht	1880
+muq	8958
+uqa	13782
+u't	13339
+'ta	935
+zz 	15711
+udh	13442
+ja'	7036
+a'f	1614
+'fa	857
+-do	1006
+khi	7488
+uso	13848
+suh	12537
+a y	1594
+usf	13839
+sf 	12240
+-zi	1206
+qaâ	11108
+â²	17361
+²u	15777
+²ud	16473
+l q	7822
+ qa	501
+baj	2565
+ulq	13649
+lqa	8250
+qay	11106
+yyu	15333
+yum	15295
+ayf	2381
+yfi	15036
+aia	1894
+kiy	7527
+yev	15026
+imd	6602
+iyt	6903
+-at	981
+dai	3502
+-ze	1205
+owl	10522
+tay	12799
+ybi	14959
+qya	11185
+ um	610
+nju	9433
+gti	5535
+ziq	15551
+heh	5814
+hry	6011
+gai	5248
+oje	10139
+jei	7097
+ulw	13655
+buk	2832
+owh	10519
+who	14518
+gib	5366
+evd	4658
+vda	14112
+dad	3497
+bi'	2666
+i'l	6272
+'l-	890
+saj	12150
+-fi	1030
+alÄ	2008
+lÄ«	8417
+« a	16280
+qal	11098
+asÄ	2236
+sÄ?	12611
+Ä?d	16739
+?dÄ	1482
+dÄ«	3898
+abÅ	1701
+bÅ«	2892
+Å« 	16971
+dao	3508
+awo	2349
+duj	3823
+fuh	5100
+tba	12808
+u-h	13348
+yfa	15033
+rqÄ	11686
+qÄ?	11186
+Ä?l	16745
+?lÄ	1515
+shÄ	12285
+hÄ?	6131
+Ä?q	16749
+?q 	1531
+q i	11072
+rÄ?	11891
+Ä?h	16741
+?hÄ	1494
+hÄ«	6132
+Ä«m	16812
+occ	9962
+cco	3055
+bu'	2820
+u'l	13334
+'l 	889
+u-l	13351
+-l-	1084
+shf	12267
+hfi	5836
+rwa	11823
+mdÄ	8692
+Ä?n	16747
+?nÄ	1526
+nÄ«	9737
+« m	16285
+-as	980
+ha'	5744
+'ar	818
+u-m	13352
+amh	2029
+dzh	3884
+ksy	7663
+gaï	5270
+ïd 	17893
+naÅ	9214
+Åi	16943
+it	16107
+amz	2045
+mzi	9002
+ uq	613
+uql	13787
+qla	11142
+hss	6030
+adn	1757
+dna	3707
+-du	1008
+ahv	1882
+hve	6089
+vec	14121
+hog	5967
+ogg	10062
+ggi	5334
+okt	10170
+kta	7667
+suv	12551
+Ä°n	16818
+°na	16384
+l-'	7852
+-'a	960
+'as	819
+fif	4961
+afq	1815
+fqu	5047
+uat	13378
+rpa	11666
+dhr	3629
+b i	2526
+agl	1840
+laç	7915
+aça	2465
+çar	17494
+gop	5465
+oke	10158
+kea	7448
+eac	4065
+oc 	9959
+hd 	5797
+-ak	973
+-bu	992
+yeg	15012
+-th	1169
+ahy	1884
+idy	6404
+dya	3861
+atf	2249
+tfa	12865
+day	3518
+yir	15083
+ i 	258
+ mÅ	402
+mÅ«	9021
+Å«s	16983
+«sÄ	16317
+Ä? 	16735
+? i	1457
+Ä?k	16744
+?ki	1508
+adw	1765
+faa	4860
+huk	6066
+rru	11700
+mdi	8687
+azn	2423
+zna	15590
+tey	12859
+akt	1968
+kto	7671
+ouz	10473
+uzf	13971
+zfo	15510
+dok	3729
+okh	10160
+rzo	11873
+ouq	10465
+aiz	1919
+mug	8948
+ddo	3554
+kuf	7684
+nih	9398
+shd	12265
+efr	4203
+awk	2345
+wki	14549
+ayg	2382
+Çak	17022
+ayÄ	2401
+yÄ±	15348
+Öca	17088
+cev	3086
+vde	14113
+vut	14300
+toÄ	13017
+enü	4463
+nün	9828
+ünl	18379
+nlü	9472
+lü 	8527
+ü a	18313
+egü	4239
+tüz	13294
+üze	18420
+ikr	6551
+güv	5674
+enç	4455
+nç 	9763
+ç a	17477
+oya	10554
+acÄ	1735
+Ä±o	16834
+±oÄ	16445
+anp	2075
+npi	9538
+haÅ	5773
+im	16104
+reç	11413
+eçç	4796
+ççi	17520
+çi 	17506
+oç 	10618
+lpt	8246
+moç	8862
+oçi	10620
+çin	17507
+rtc	11747
+tce	12820
+ceb	3068
+ru 	11779
+Öre	17096
+müc	9092
+üca	18329
+cah	3021
+kÄ±	7746
+Ä±Å	16844
+±Å	16472
+Ål	16945
+la	16110
+uzu	13980
+zun	15674
+Ä±l	16831
+±ld	16429
+ldÄ	7979
+Ä±z	16841
+±z 	16466
+umr	13685
+mru	8899
+ruk	11793
+Özh	17106
+bim	2681
+-hi	1049
+ilw	6586
+qur	11172
+am-	2021
+m-u	8592
+jda	7078
+y Ç	14895
+ Ça	739
+kag	7403
+agü	1859
+ndü	9291
+düz	3977
+üz 	18419
+zhe	15522
+kez	7472
+ezh	4759
+q k	11074
+itu	6816
+rsy	11736
+syn	12585
+yno	15164
+khm	7490
+yes	15023
+tzh	13183
+yub	15284
+rfr	11427
+akÄ	1975
+Ä±n	16833
+±n 	16435
+ojj	10142
+jje	7159
+jeh	7096
+pah	10706
+alw	2004
+aa 	1654
+yyo	15332
+l'a	7841
+'a 	803
+awh	2342
+wha	14515
+arÄ	2195
+rÄ«	11895
+bbÄ	2598
+bÄ?	2882
+Ä?s	16751
+?s 	1536
+shm	12274
+amg	2028
+mgi	8735
+lao	7900
+-aq	978
+aqs	2160
+qsa	11157
+tyr	13169
+yrs	15235
+rs'	11714
+ra'	11265
+a' 	1608
+ozn	10590
+yel	15017
+eau	4081
+buj	2831
+ujr	13596
+jra	7227
+buz	2846
+ec 	4111
+elú	4386
+lú 	8525
+ú a	18268
+rqa	11683
+qaw	11105
+ajj	1932
+jj 	7157
+jja	7158
+jaj	7048
+ yÅ	685
+yÅ«	15356
+«su	16316
+jjÄ	7161
+jÄ?	7288
+Ä?j	16743
+?j 	1502
+bi-	2667
+i-a	6275
+yam	14936
+nnu	9495
+nun	9644
+l-u	7873
+-ub	1177
+ydl	14991
+eea	4167
+ aw	65
+yd 	14982
+rag	11273
+akd	1953
+kde	7441
+baz	2581
+ouh	10456
+wka	14547
+dak	3504
+koÄ	7610
+kaa	7397
+uab	13362
+abé	1706
+boz	2766
+coÅ	3265
+oÅ	10609
+Åk	16944
+ku	16109
+dae	3498
+Çiç	17032
+içe	6962
+çek	17500
+ekb	4322
+kbe	7429
+Çet	17028
+dba	3526
+oky	10174
+kya	7720
+yar	14941
+soy	12419
+fua	5093
+gÃ¼	5615
+Ã¼n	16722
+¼ne	16543
+neÅ	9322
+eÅ	4783
+ a	16056
+hlu	5918
+Åe	16931
+en	16044
+ays	2393
+gim	5377
+-ai	971
+iyu	6904
+Ölm	17090
+ürt	18401
+müf	9093
+üfi	18339
+qaj	11097
+-bi	987
+naq	9204
+aqv	2163
+qvi	11182
+ths	12894
+hsc	6020
+peç	10777
+eçe	4794
+çen	17502
+ rÄ	520
+rÄ±	11896
+±za	16467
+ncÄ	9247
+-ho	1050
+dh 	3619
+amk	2032
+mkh	8792
+zde	15472
+doÄ	3744
+Äa	16796
+an	16081
+liy	8094
+ yi	674
+yis	15084
+huv	6077
+uv 	13905
+v d	14039
+rld	11548
+ntü	9627
+aÄ	15854
+aÄ	2441
+ghd	5347
+ i.	260
+i. 	6295
+. i	1222
+jau	7059
+auh	2286
+apa	2128
+roa	11633
+oad	9915
+rnm	11608
+nme	9474
+ll-	8134
+l-p	7868
+cai	3022
+akf	1955
+kfi	7477
+-me	1096
+miz	8776
+izr	6923
+zra	15633
+tÃ¼	13202
+Ã¼r	16723
+¼rk	16546
+keÅ	7473
+lpa	8237
+rsl	11726
+Ãz	16633
+za	15943
+pay	10723
+uça	14002
+±lm	16430
+3 a	1350
+qud	11165
+uds	13452
+-qu	1137
+ayq	2391
+yq 	15217
+muf	8947
+ayk	2385
+ykh	15098
+baw	2578
+wiy	14542
+-ss	1153
+gau	5259
+kso	7655
+Öym	17099
+wif	14527
+faq	4875
+lys	8388
+ldy	7977
+ndh	9263
+dhu	3630
+usw	13856
+wa 	14422
+bhu	2661
+hut	6075
+ aï	72
+aït	2501
+ahb	1864
+hb 	5780
+-ri	1140
+u-z	13357
+neh	9302
+ulg	13639
+yb 	14954
+khr	7494
+bby	2597
+ehd	4243
+-nu	1109
+d's	3462
+'so	930
+tao	12789
+uai	13369
+ntô	9626
+tôn	13267
+ôni	18038
+ezk	4761
+maq	8620
+qso	11159
+vez	14142
+ifu	6449
+. o	1228
+ o.	444
+ ap	58
+aqe	2154
+qee	11115
+q s	11080
+unq	13717
+cit	3168
+tiz	12936
+onf	10264
+ct 	3295
+b l	2529
+eag	4069
+agu	1848
+ab-	1678
+b-i	2547
+cow	3260
+asj	2219
+sje	12329
+mka	8790
+hye	6104
+. r	1230
+Özc	17102
+zca	15463
+eeq	4181
+qir	11134
+-um	1180
+nji	9428
+iné	6666
+née	9779
+ekÅ	4342
+kÅ	7751
+i 	16101
+unÃ	13727
+nÃ§	9728
+Ã§b	16670
+§bo	16259
+Ä±y	16840
+±ya	16465
+rye	11839
+rzu	11874
+zy	15953
+zyi	15700
+yiÄ	15091
+iÄ	6940
+Äi	16800
+zu 	15660
+u k	13308
+s'a	12101
+Çel	17025
+asr	2227
+sri	12449
+tov	13013
+asg	2216
+sgh	12252
+hfa	5834
+q p	11078
+qaz	11107
+ifi	6441
+sif	12300
+ujt	13597
+jta	7237
+er	16045
+ aÅ	69
+ÅÄ	16950
+Ä±	16131
+ahz	1885
+hzu	6125
+Åa	16930
+at	16038
+atÄ	2269
+tÄ±	13208
+Ä±r	16836
+±ro	16453
+roÄ	11659
+¼nd	16542
+ndÃ	9280
+dÃ¼	3894
+Ã¼z	16728
+¼z 	16557
+sÄ±	12612
+Ä±m	16832
+±m 	16433
+orh	10355
+laq	7902
+skh	12341
+ghz	5362
+hza	6121
+a u	1590
+ktu	7674
+tuÄ	13128
+uÄ	13989
+Ä 	16795
+Ä±f	16828
+±f 	16419
+tiq	12927
+'d 	838
+tiy	12935
+ka	16108
+Ä°l	16817
+°lh	16378
+ilÃ	6589
+lÃ¢	8409
+Ã¢ 	16658
+iog	6682
+nay	9212
+ahj	1872
+hja	5888
+jat	7058
+atw	2265
+erz	4545
+ av	64
+igd	6457
+gdo	5293
+imn	6611
+baÅ	2583
+avn	2320
+awn	2348
+wni	14572
+wn 	14565
+wne	14570
+ ay	67
+yal	14935
+Ä°h	16815
+°ht	16375
+ayÃ	2400
+yÃ§	15344
+Ã§a	16669
+§a 	16254
+ydÄ	15000
+Ãr	16632
+rs	15942
+ydo	14994
+bao	2570
+aoÄ	2125
+yha	15058
+yki	15099
+yku	15106
+erç	4550
+rçe	11942
+çet	17504
+kuy	7700
+uyu	13956
+umc	13672
+mcu	8679
+cu 	3305
+±zo	16468
+zoÄ	15623
+ayl	2386
+yli	15114
+rfi	11423
+ayo	2389
+yoo	15192
+ysa	15247
+ayÅ	2402
+yÅ	15354
+Åe	16941
+e 	16093
+ysu	15262
+Özk	17108
+zku	15569
+taç	12802
+aç 	2464
+nc 	9231
+yte	15269
+n-d	9158
+daÅ	3521
+azw	2430
+nuh	9638
+uhm	13545
+±rÄ	16455
+zed	15486
+n â	9143
+ â	777
+â	17359
+a	15771
+ab	15955
+di'	3635
+i' 	6269
+zuh	15669
+ofu	10051
+fuo	5106
+uoÄ	13757
+rir	11489
+Üço	17144
+çok	17512
+ehs	4255
+hsu	6032
+v b	14037
+khy	7500
+hyt	6116
+ytz	15281
+°lk	16379
+cim	3162
+izm	6919
+zmu	15587
+kty	7675
+tyk	13163
+yko	15102
+ozh	10584
+lak	7896
+alá	2010
+láz	8438
+ázs	17307
+zs 	15639
+dhw	3632
+aps	2144
+baq	2572
+ba'	2554
+a'i	1616
+'i 	872
+anÃ	2086
+Ã§o	16674
+§o 	16266
+zb	15944
+riÅ	11500
+iÅ	6946
+gig	5371
+ruj	11792
+uj 	13583
+-ti	1170
+hih	5864
+b b	2519
+r z	11219
+lhi	8059
+béa	2923
+éat	17593
+gaz	5264
+iah	6309
+yez	15030
+veg	14124
+yit	15085
+ksÄ	7665
+yka	15096
+Åi	16932
+it	16049
+waz	14449
+iaq	6318
+f.c	4852
+.c.	1245
+c. 	3006
+gog	5456
+vem	14130
+r 2	11192
+ 20	25
+200	1344
+006	1286
+Ä°r	16820
+°rt	16390
+egÃ	4233
+¼n 	16540
+ekt	4335
+taÅ	12801
+ekz	4340
+kza	7737
+lkÄ	8130
+Ä±s	16837
+±s 	16456
+eny	4448
+nyo	9698
+uné	13730
+nés	9787
+és 	17711
+sap	12156
+aey	1797
+eyv	4747
+yv 	15310
+gök	5654
+ökt	18071
+tec	12837
+ciy	3173
+rç 	11940
+ç t	17484
+beÅ	2646
+ir	16106
+dub	3815
+pme	10868
+etü	4627
+tül	13289
+ül 	18353
+shk	12272
+lel	8000
+ bh	81
+bho	2659
+bik	2679
+±sa	16457
+ilq	6580
+lqu	8252
+iez	6434
+ze'	15482
+e'e	4025
+'ev	854
+Üne	17140
+rlÄ	11562
+± b	16398
+üle	18356
+ezd	4756
+zdü	15480
+vit	14177
+rkm	11527
+açg	2466
+çgi	17505
+zmo	15586
+ bn	85
+hap	5762
+boa	2741
+oaz	9934
+ma'	8602
+a'u	1621
+bo'	2739
+'az	824
+niy	9415
+azy	2431
+zym	15703
+ymb	15133
+mav	8625
+viÅ	14184
+ b	16057
+yeb	15007
+mps	8879
+pso	10949
+feg	4908
+yag	14930
+itr	6813
+uhu	13551
+ bÃ	92
+bÃ¼	2881
+Ã¼l	16720
+¼le	16535
+±nÃ	16442
+Ã§ 	16668
+§ b	16247
+Ä±b	16825
+±ba	16414
+¼rp	16547
+rpÄ	11680
+pÄ±	11021
+±na	16436
+el	16095
+urÃ	13818
+rÃ§	11883
+§aÄ	16257
+§ay	16256
+urh	13800
+jem	7101
+rgÄ	11453
+gÄ±	5617
+awj	2344
+wji	14546
+yti	15271
+yrg	15227
+ksu	7660
+caf	3019
+k Ã	7369
+ Ã	716
+n Ã	9133
+Äd	16799
+da	16090
+t Ã	12731
+rkÄ	11539
+Är	16804
+rÄ	16120
+194	1332
+948	1438
+48 	1370
+8 c	1413
+ro-	11631
+o-h	9894
+e Ã	4011
+ak	15850
+±rc	16449
+± m	16403
+Özt	17113
+zto	15655
+opr	10332
+kuÅ	7703
+uÅ	13991
+ c	16058
+yüc	15375
+üce	18330
+cie	3156
+oux	10471
+ux 	13928
+x c	14699
+cav	3035
+tüt	13293
+üte	18409
+11 	1313
+1 c	1301
+Äu	16805
+uz	16127
+reÅ	11411
+ç c	17478
+opu	10335
+puz	10991
+uzl	13975
+zil	15546
+tug	13110
+kök	7784
+öks	18070
+pam	10711
+Çan	17023
+giz	5388
+aky	1972
+kyo	7729
+yol	15189
+Ä±t	16838
+±ta	16462
+§ Ã	16253
+Ãe	16624
+et	15855
+Öze	17104
+evh	4662
+vhe	14153
+cey	3088
+eyh	4734
+yhu	15064
+haï	5778
+aïb	2489
+ïbi	17890
+hez	5832
+nmo	9476
+ch.	3109
+a.k	1646
+.k.	1254
+k.m	7392
+.m.	1255
+atc	2246
+quz	11177
+uzz	13983
+llb	8136
+hoc	5963
+ocq	9971
+q c	11066
+a Ã	1599
+Ãi	16625
+iÄ	15858
+de	16091
+u Ã	13324
+cih	3159
+e Ä	4012
+ Ä°	724
+Ä°b	16814
+°br	16373
+daÄ	3520
+anr	2077
+nrÄ	9553
+±ko	16424
+rur	11800
+nuÃ	9655
+uÃ§	13987
+Ã§e	16671
+§en	16263
+ciw	3171
+iwa	6872
+ffo	4937
+coa	3238
+oas	9929
+ ex	184
+exe	4709
+xer	14773
+hts	6049
+avr	2322
+pou	10895
+zur	15677
+eiq	4281
+stó	12522
+tón	13262
+ón 	18000
+Álv	16610
+ cÃ	122
+cÃ¼	3365
+lno	8194
+j d	7010
+sfi	12243
+'if	877
+ghr	5355
+mrÅ	8902
+rÅ¡	11902
+Å¡i	16955
+¡iÄ	16173
+hyb	6102
+apu	2146
+pun	10982
+nii	9399
+iil	6506
+adc	1746
+arÃ	2194
+rÃ­	11886
+Ã­o	16694
+­o 	16345
+adv	1764
+dva	3840
+río	11990
+ío 	17853
+mog	8840
+on'	10256
+n's	9151
+eep	4180
+epa	4489
+pak	10709
+ozk	10587
+zka	15565
+p d	10655
+vga	14147
+miá	8779
+ d	16059
+gez	5321
+ezm	4762
+miÅ	8778
+ k	16064
+büy	2973
+üyü	18418
+yük	15376
+üku	18352
+ncu	9243
+ahç	1888
+hçe	6174
+çel	17501
+evl	4666
+vle	14202
+ dh	138
+nuw	9652
+u-j	13349
+azo	2424
+zet	15501
+güç	5676
+üçl	18426
+çlü	17509
+ü d	18315
+lmÄ	8184
+mÄ±	9016
+fig	4962
+iln	6577
+try	13035
+nmu	9477
+rbr	11314
+fna	5011
+dod	3722
+inÃ	6661
+§ek	16261
+u 	16124
+uÅ	16128
+ium	6838
+ipl	6709
+r É	11224
+ Éd	745
+Édo	17045
+ibt	6348
+bte	2813
+ dr	144
+nhi	9379
+ekr	4333
+raï	11301
+ags	1846
+gsi	5516
+udp	13450
+dpo	3749
+er	16096
+ dÃ	150
+muÅ	8966
+uvd	13907
+duy	3837
+gu 	5543
+ dv	146
+hkh	5898
+deÅ	3596
+klÄ	7558
+yaÅ	14951
+Åa	16937
+ar	16083
+fss	5076
+üks	18351
+kse	7649
+diz	3662
+nko	9451
+sry	12453
+Çim	17031
+imr	6614
+§ e	16248
+ged	5302
+s 8	12066
+ 84	37
+841	1420
+648	1392
+8 e	1414
+egy	4231
+gyp	5597
+ypt	15215
+q e	11068
+°hs	16374
+noÄ	9529
+ozb	10579
+zba	15456
+yig	15073
+'id	875
+ ts	579
+eaz	4085
+bti	2815
+j e	7011
+l-c	7855
+apl	2138
+gül	5668
+ülb	18355
+lir	8087
+et-	4596
+t-z	12766
+lji	8107
+jiÄ	7154
+ e	15833
+süm	12695
+üme	18367
+ozt	10594
+zte	15653
+ÃÃ	16627
+Ã¶	15862
+Ã¶l	16709
+¶la	16484
+laÅ	7913
+±la	16428
+emr	4403
+mre	8893
+elÃ	4371
+lÃ¶	8413
+Ã¶z	16716
+¶zo	16498
+gön	5656
+ztü	15659
+i Ç	6265
+ Çe	740
+Çen	17026
+z o	15393
+rdÄ	11374
+Ä±Ã	16842
+±Ã§	16470
+tsü	13075
+sür	12697
+noy	9527
+sme	12374
+env	4445
+nve	9660
+azg	2417
+zga	15511
+rcü	11346
+cüm	3417
+gÃ¶	5614
+Ã¶k	16708
+¶kn	16483
+ m	16066
+zya	15696
+yaÄ	14950
+Äc	16798
+cÄ	16089
+vac	14079
+rcÄ	11342
+± e	16399
+saç	12170
+çan	17492
+yav	14945
+vuz	14304
+kÃ¼	7744
+Ã¼Ã	16729
+¼Ã§	16560
+Ã§Ã	16677
+§Ã¼	16271
+Ã¼k	16719
+¼kk	16530
+kku	7546
+rgü	11459
+niÅ	9418
+ur	16126
+m Ç	8567
+Çer	17027
+v e	14040
+ülü	18365
+lüm	8533
+üm 	18366
+°ly	16383
+ayc	2378
+ycÄ	14981
+ru	16119
+¼na	16541
+zk	15950
+zkÃ	15571
+kÃ¶	7743
+¶k 	16480
+saÄ	12167
+eca	4112
+ryc	11837
+kaÃ	7421
+aÃ§	2439
+ eÅ	187
+Åf	16942
+fa	16100
+fak	4870
+edÅ	4161
+dÅ¾	3905
+Å¾e	17011
+¾ep	16595
+epo	4499
+År	16947
+re	16118
+oai	9920
+nej	9304
+aqr	2159
+qr 	11153
+p Ç	10679
+ ey	185
+ ez	186
+lsu	8280
+usm	13846
+juw	7266
+mr 	8890
+iaz	6327
+utü	13891
+jir	7146
+hao	5761
+ehp	4253
+hpu	5993
+cöm	3412
+öme	18083
+k n	7356
+afÄ	1824
+fÄ±	5141
+agó	1857
+gón	5651
+ryd	11838
+-in	1059
+wks	14550
+p f	10657
+tih	12918
+söz	12676
+da-	3493
+a-p	1633
+zor	15614
+rlu	11559
+ rÃ	519
+rÃ¼	11889
+Ã¼Å	16730
+¼Å	16561
+Åt	16948
+tÃ	16123
+atm	2256
+aww	2355
+wwa	14659
+awu	2354
+wuq	14653
+uqj	13786
+qji	11141
+yiz	15090
+yla	15109
+yru	15237
+ayz	2399
+yza	15335
+azÄ	2433
+zÄ±	15730
+±l 	16427
+ hÃ	249
+hÃ¼	6129
+Ã¼s	16724
+¼sn	16552
+snÃ	12391
+nÃ¼	9731
+shc	12264
+hch	5792
+feh	4909
+pag	10705
+bÄ±	2886
+±km	16423
+¼za	16558
+zaÄ	15452
+aÃ	16085
+§ f	16249
+Özp	17111
+zpe	15628
+akm	1962
+fev	4921
+evz	4676
+vzi	14325
+mze	9000
+eyy	4749
+fez	4925
+hoÅ	5987
+ f	16061
+±zÄ	16469
+±lo	16431
+lok	8213
+ygÄ	15054
+± f	16400
+çal	17490
+fir	4972
+kko	7545
+koy	7607
+oyu	10570
+yun	15296
+ fÄ	202
+±ra	16448
+Çap	17024
+pa 	10697
+alÃ	2007
+lÃ§	8410
+Ã§Ä	16678
+§Ä±	16272
+±nk	16439
+siq	12311
+qil	11128
+bev	2641
+vaÅ	14101
+ g	16062
+enÃ	4450
+§ o	16250
+acc	1714
+ovo	10495
+diy	3661
+iy 	6895
+v g	14042
+irb	6731
+hbo	5785
+tue	13108
+uqu	13790
+agg	1836
+gga	5332
+ohi	10090
+iud	6831
+gec	5301
+htm	6045
+deo	3582
+ssó	12481
+só 	12666
+ó g	17965
+isè	6793
+sèl	12637
+èle	17542
+uig	13562
+giv	5385
+ökd	18067
+önü	18096
+nül	9827
+ökh	18069
+göl	5655
+ölg	18077
+p g	10658
+llü	8167
+üls	18363
+lsü	8287
+sye	12580
+g. 	5230
+üro	18398
+goh	5457
+°nl	16387
+ gÃ	223
+¶kh	16482
+±rd	16450
+in-	6633
+n-a	9155
+ukr	13618
+iju	6531
+b r	2535
+± h	16401
+± Ã	16410
+ Ã	718
+Ãm	16630
+me	15939
+ua'	13360
+ut'	13863
+t'a	12742
+'ah	809
+mum	8954
+suc	12532
+ucc	13415
+cce	3051
+two	13143
+wo 	14580
+hty	6053
+ar'	2166
+z q	15395
+dni	3709
+ihs	6490
+fsa	5067
+ehb	4242
+r-l	11246
+-le	1086
+v h	14043
+im-	6598
+m-m	8587
+jim	7141
+Üns	17141
+zo	15952
+ÅÃ	16935
+Ã¼	16055
+¼kÃ	16532
+¼r 	16545
+gaç	5266
+ç h	17479
+-ni	1106
+kkÄ	7548
+Ülk	17137
+oyg	10559
+yga	15042
+kaÅ	7423
+ h	16063
+±rt	16454
+rtÄ	11770
+l Ä	7833
+lcÄ	7950
+avd	2312
+efi	4196
+fiÄ	4980
+lgi	8048
+-ei	1017
+irp	6745
+rpo	11671
+q h	11071
+ndÄ	9281
+ltÄ	8311
+±nt	16441
+ar	16037
+ndj	9265
+aty	2267
+hçi	6175
+çiç	17508
+imy	6620
+mya	8983
+-dh	1004
+akj	1959
+kji	7534
+söy	12675
+öyl	18128
+ uf	604
+ufu	13507
+fuk	5102
+ngö	9373
+gör	5657
+nu'	9629
+'ma	895
+n Â	9132
+ Âl	714
+Âli	16619
+Üçü	17145
+çün	17522
+ncü	9252
+cü 	3416
+ü h	18316
+Özb	17101
+wsh	14622
+asd	2213
+sda	12202
+moi	8842
+ült	18364
+sre	12448
+bch	2603
+kmo	7570
+zz-	15712
+z-a	15411
+qel	11116
+ta'	12772
+Ä±c	16826
+±cÄ	16417
+yyi	15331
+eat	4080
+njh	9427
+jha	7123
+rzl	11870
+zli	15577
+zîr	15756
+îre	17882
+uao	13374
+uic	13558
+ihy	6492
+ikm	6547
+c h	2981
+lmi	8175
+zkö	15572
+ök 	18066
+awf	2340
+wf 	14504
+hiw	5879
+hoa	5961
+muz	8965
+uzd	13969
+zd 	15470
+aeb	1777
+ezr	4766
+zio	15549
+vev	14139
+. p	1229
+üçe	18425
+çer	17503
+ hü	257
+üse	18404
+eyi	4735
+yin	15079
+cyp	3351
+ypr	15213
+huj	6065
+jr 	7225
+avÅ	2329
+vÅ	14336
+¼ly	16538
+koÃ	7609
+oÃ§	10601
+Ã§y	16676
+§yi	16270
+ah	16034
+nyu	9703
+yur	15300
+Ä°k	16816
+°ki	16376
+izg	6914
+zgÃ	15517
+¼l 	16533
+ vu	631
+vur	14298
+umo	13683
+ad'	1742
+umu	13688
+nok	9514
+qan	11100
+Åo	16946
+ok	16115
+¼se	16550
+im	15857
+imÅ	6623
+mÅ	9020
+Ä±v	16839
+±vr	16464
+vrÄ	14262
+yoÄ	15203
+rtÃ	11769
+tÃ§	13200
+Ã§u	16675
+§u 	16268
+Ã¼ 	16717
+zey	15506
+j h	7014
+huw	6078
+d-e	3470
+iqt	6725
+qta	11160
+awq	2350
+wqa	14607
+zm 	15582
+jub	7245
+juz	7268
+yy 	15328
+uzm	13976
+tuf	13109
+ydú	15002
+dún	3969
+ún 	18294
+n Ä	9134
+m '	8538
+adm	1756
+seh	12218
+ayp	2390
+ypa	15205
+a Ä	1600
+±se	16458
+s Ä	12095
+Ãz	16638
+zÃ	16032
+zÃ¼	15728
+¼lm	16537
+z Ä	15407
+u q	13314
+ ij	270
+qih	11126
+z u	15399
+i-j	6282
+ ik	271
+ppé	10919
+pé 	11037
+é i	17565
+ylÄ	15127
+± Ä	16411
+°lb	16377
+urb	13794
+k Ä	7370
+vca	14107
+v Ä	14061
+nsÄ	9585
+u Ä	13325
+ Ä	16076
+tcu	12825
+u i	13306
+Åb	16938
+bu	16087
+buÄ	2847
+°lt	16382
+fom	5028
+otb	10419
+tbi	12810
+ugn	13524
+in'	6632
+n'a	9146
+qai	11096
+ru'	11781
+u' 	13330
+imt	6616
+mti	8934
+qis	11135
+°re	16389
+irf	6735
+irá	6756
+rán	11914
+°rÅ	16391
+rÅ	11901
+ad	16078
+ha-	5745
+-ko	1078
+kda	7440
+akw	1971
+at-	2243
+-ib	1056
+ iÅ	287
+na'	9186
+c j	2983
+jih	7136
+r Ä	11221
+Ä°s	16821
+°sm	16393
+uqi	13785
+maï	8636
+aïl	2496
+ïl 	17905
+maë	8634
+ël 	17778
+ghy	5361
+hyr	6114
+khl	7489
+ibw	6350
+bwa	2851
+rnf	11602
+ iy	285
+iym	6900
+ iz	286
+'af	807
+afl	1811
+oue	10453
+uei	13475
+abÄ	1700
+« t	16288
+ tÄ	587
+tÄ?	13203
+?li	1514
+ja`	7038
+a`f	1652
+`fa	1564
+umá	13695
+má 	9023
+á j	17183
+zk 	15564
+idf	6387
+dfa	3599
+qsh	11158
+msh	8914
+eht	4256
+-an	976
+jao	7053
+rbæ	11321
+bæk	2910
+æk 	17447
+adk	1754
+dkh	3677
+jiv	7150
+øru	18237
+oao	9926
+sfo	12246
+cci	3053
+imá	6624
+t'i	12744
+'im	880
+jug	7250
+mof	8839
+jmy	7179
+ka'	7395
+a'b	1610
+'b 	825
+nÄ±	9738
+±r 	16447
+opb	10319
+pba	10731
+v k	14046
+cif	3157
+tuw	13124
+jet	7107
+msa	8907
+mej	8706
+ejj	4301
+zaz	15451
+dug	3820
+ugg	13519
+lua	8314
+ayv	2396
+yva	15311
+vaz	14099
+ kÃ	340
+kÃ¢	7740
+Ã¢z	16660
+¢zÄ	16229
+Ä°z	16822
+°zz	16396
+eks	4334
+tyo	13167
+yos	15195
+ul	16125
+glü	5417
+ü k	18317
+iiy	6513
+önl	18092
+± k	16402
+unç	13728
+nçe	9766
+ kf	324
+kfa	7475
+khs	7495
+u t	13317
+toa	12993
+oam	9924
+shh	12269
+m-b	8579
+d â	3451
+muw	8963
+alq	1998
+-'u	961
+'un	942
+sa`	12140
+a`i	1653
+`id	1565
+aqb	2152
+qbo	11112
+ysh	15253
+ydh	14989
+il-	6563
+-ur	1182
+ur-	13792
+-ow	1123
+hig	5863
+nuf	9636
+yre	15225
+az'	2410
+z'a	15410
+rys	11852
+yst	15261
+tyn	13166
+shw	12283
+msu	8924
+ kÄ	341
+±br	16415
+±sl	16459
+slÄ	12365
+hbu	5787
+dge	3607
+ km	329
+km 	7566
+. n	1227
+adz	1767
+dze	3883
+hka	5896
+ kö	347
+öpr	18099
+prü	10937
+rül	12050
+ü m	18318
+ü n	18319
+bhe	2656
+. s	1231
+ s.	532
+kud	7682
+esî	4591
+sîm	12664
+îmî	17881
+mî 	9072
+î k	17880
+ziy	15559
+¼zm	16559
+zme	15584
+¼rÅ	16549
+peh	10757
+rtd	11748
+tde	12829
+ihi	6484
+ryo	11849
+luÄ	8340
+o k	9847
+. v	1234
+v. 	14071
+shn	12275
+akc	1952
+kch	7437
+laï	7919
+ïla	17906
+ l	16065
+miy	8775
+rop	11648
+ÅÅ	16951
+Å	16132
+ak	16079
+ l'	350
+l'e	7844
+'em	848
+idè	6407
+dès	3924
+p l	10663
+Çok	17034
+psa	10940
+eyz	4750
+yzi	15339
+saz	12166
+ubn	13398
+bna	2730
+h Á	5708
+ Ál	709
+lyu	8390
+yud	15286
+mab	8605
+yaa	14924
+q m	11075
+b u	2538
+taj	12784
+ahf	1868
+lÄ	16113
+akz	1973
+gay	5263
+yif	15072
+lju	8110
+juk	7254
+cuh	3314
+du	16092
+quw	11175
+ah-	1862
+±rm	16452
+rmÄ	11585
+Ä±g	16829
+±gÃ	16421
+jed	7092
+moq	8850
+oqe	10342
+qed	11114
+isu	6786
+hdu	5803
+akp	1965
+kpa	7614
+kva	7704
+ufk	13499
+fki	4991
+tiw	12933
+240	1346
+40 	1364
+0 m	1278
+lév	8480
+év 	17731
+onu	10279
+ d.	134
+nkh	9445
+an'	2057
+-qi	1136
+røv	12036
+øvd	18251
+noh	9511
+rua	11783
+ehh	4246
+hhi	5850
+'il	879
+uqb	13783
+qbi	11111
+ajr	1939
+jri	7229
+nuk	9641
+uky	13624
+tya	13155
+auq	2294
+myr	8994
+ulv	13654
+izu	6926
+zud	15665
+mlu	8806
+luj	8323
+uji	13590
+yso	15258
+iyÄ	6906
+yÄ?	15347
+?da	1480
+xal	14740
+kaï	7426
+aï 	2488
+ï m	17885
+ mb	382
+mea	8697
+eah	4070
+akg	1956
+kgü	7482
+emÃ	4411
+mÃ§	9008
+§el	16262
+±ns	16440
+uré	13825
+rél	11966
+Ão	16626
+ob	15859
+Åd	16940
+üns	18382
+nsü	9590
+Çob	17033
+kaç	7424
+ç m	17480
+iÅ	16051
+li	16111
+t Å	12733
+ Å	733
+kuz	7701
+loÄ	8229
+im	16047
+ek	16094
+yÃ¶	15345
+Ã¶n	16710
+¶ne	16487
+nkÄ	9460
+yoz	15202
+ozg	10583
+r-i	11243
+-il	1058
+gof	5455
+ökç	18073
+kçe	7769
+Öza	17100
+Özm	17110
+ Ço	741
+Çol	17035
+bsk	2804
+sk 	12337
+yap	14939
+n Ö	9138
+ Öm	763
+Öme	17091
+üka	18349
+yca	14970
+r Ö	11225
+i Ö	6267
+üno	18381
+akÃ	1974
+Özi	17107
+kpÄ	7620
+agd	1833
+mev	8718
+id-	6382
+d-i	3474
+ngz	9364
+gze	5609
+yau	14944
+ir-	6729
+r-a	11235
+d É	3448
+ Ém	747
+Émi	17057
+x m	14709
+biz	2694
+jaq	7055
+qip	11132
+rkc	11519
+kca	7436
+hdy	5804
+isb	6767
+sh'	12260
+h'a	5715
+ mÄ	401
+±sÄ	16460
+±rl	16451
+n Ü	9140
+ Üm	771
+Ümi	17138
+Üna	17139
+l Ü	7839
+t Ü	12739
+etk	4606
+müj	9095
+üjd	18347
+üla	18354
+müm	9097
+ümt	18369
+mta	8929
+üni	18378
+nir	9408
+elç	4379
+lçu	8455
+çuk	17518
+eq-	4511
+q-s	11087
+eay	4084
+yea	15006
+mho	8748
+ehz	4261
+hoj	5970
+myn	8992
+vdo	14116
+waf	14429
+aïr	2499
+ïr-	17913
+-iz	1064
+rly	11561
+hmm	5934
+iaj	6311
+nob	9505
+ má	403
+már	9026
+árc	17263
+ioÄ	6699
+. Å	1239
+¼kr	16531
+krÃ	7636
+uaw	13381
+u'a	13331
+'ay	823
+fi'	4954
+zez	15507
+ÃÄ	16628
+Ä±	15863
+Ä±Ä	16843
+±Ä	16471
+°lm	16380
+ubd	13390
+hu'	6055
+u'b	13332
+'ba	826
+juh	7251
+sub	12531
+ubh	13393
+bhi	2657
+d '	3419
+-id	1057
+ehk	4248
+uqr	13788
+qri	11154
+ngw	9361
+gwi	5581
+ jÄ	308
+?bi	1475
+rrÄ	11703
+ttÄ	13098
+si'	12293
+azd	2415
+zdi	15473
+yo 	15176
+izh	6915
+hfu	5840
+fuz	5114
+omr	10235
+wiv	14539
+qub	11164
+a-u	1637
+khb	7485
+uhh	13540
+ra	16117
+oqb	10341
+uht	13550
+ibÄ	6353
+uhy	13553
+hyi	6107
+-dÄ	1010
+Ä«n	16813
+mui	8950
+uie	13560
+iee	6416
+br 	2770
+uez	13490
+ukt	13620
+umt	13687
+ghm	5352
+nib	9392
+edf	4140
+u'n	13336
+'ni	901
+i'e	6271
+'ee	846
+uqt	13789
+kyü	7736
+yüz	15378
+teÅ	12861
+tca	12819
+rue	11787
+yao	14938
+suy	12553
+osu	10405
+yil	15077
+ mÃ	400
+mÃ¼	9011
+id	16102
+n `	9104
+ `u	39
+`um	1567
+us`	13833
+s`a	12136
+ük 	18348
+whe	14516
+ajp	1938
+jpu	7224
+¼rs	16548
+¼sl	16551
+slÃ	12364
+lÃ¼	8414
+Ã¼m	16721
+¼m 	16539
+±ok	16444
+bum	2834
+izl	6918
+yek	15016
+uph	13765
+hbi	5784
+zbi	15458
+ yü	688
+auz	2302
+uzt	13979
+zta	15652
+shq	12278
+efu	4206
+fug	5099
+el'	4344
+l's	7848
+hsm	6027
+hso	6028
+j n	7020
+urj	13802
+rji	11512
+daj	3503
+f n	4825
+bok	2751
+aei	1784
+u-s	13354
+sÃ¼	12610
+b q	2534
+suw	12552
+d-j	3475
+jmu	7178
+ajw	1944
+jwa	7274
+yib	15068
+ Ün	772
+naï	9218
+aïm	2497
+ïm 	17908
+aom	2111
+sr 	12445
+w n	14401
+sru	12452
+idz	6405
+orz	10372
+rzh	11867
+a-b	1622
+q n	11076
+qiz	11140
+viq	14174
+r-u	11254
+-te	1168
+emy	4409
+ghb	5346
+wfa	14505
+yef	15011
+Önc	17092
+Ãn	16631
+nc	15940
+l Ö	7837
+ Ön	764
+Önd	17093
+eal	4073
+ygü	15056
+ n	16067
+cum	3318
+± n	16404
+ecd	4114
+cde	3060
+cil	3161
+ecl	4120
+ecm	4121
+cme	3226
+ejd	4298
+at	16084
+et	16098
+uhi	13541
+v n	14049
+nez	9320
+zih	15543
+ nf	419
+nfp	9331
+fp 	5044
+t'h	12743
+'hi	867
+pok	10886
+oty	10440
+ylo	15119
+img	6604
+Çub	17037
+ukç	13628
+kçu	7770
+çu 	17517
+vij	14167
+qab	11090
+oah	9919
+msk	8916
+rsk	11725
+zuw	15681
+ ns	428
+ar	15852
+rkÃ	11538
+urc	13795
+ed-	4134
+rkö	11541
+köz	7792
+öz 	18129
+oyt	10569
+raÄ	11293
+ ny	432
+nys	9701
+yss	15260
+nts	9610
+ oc	447
+oct	9974
+000	1282
+ofr	10048
+ og	451
+izk	6917
+u o	13312
+ogÃ	10076
+ oÄ	470
+ o	16068
+ oh	452
+ayü	2408
+yül	15377
+ülg	18358
+ ok	455
+ç o	17481
+ozc	10580
+zcu	15467
+±fa	16420
+olc	10183
+lca	7939
+oyn	10564
+ipo	6712
+bio	2683
+u-r	13353
+kbi	7430
+q o	11077
+tkÄ	12961
+yfe	15034
+vry	14260
+otr	10433
+nd	15941
+bdy	2614
+c o	2988
+±kÄ	16426
+±kÃ	16425
+± o	16405
+ruç	11810
+uç 	14001
+ody	10005
+dyg	3867
+Äo	16803
+oÄ	16116
+Ã¶y	16715
+¶yl	16495
+ylÃ	15126
+¼ o	16522
+ir	16048
+osv	10406
+sva	12558
+ ow	466
+tsk	13060
+kaj	7406
+ ox	467
+ol	15860
+ oz	469
+slu	12361
+zc	15945
+zd	15946
+ze	15947
+peÅ	10776
+ti	16122
+lci	7942
+i Ã	6262
+zg	15948
+z Ã	15406
+zh	15949
+r Ã	11220
+zÃ	15954
+zÃ§	15725
+zl	15951
+o p	9852
+ e 	158
+rmy	11583
+c w	2995
+wea	14479
+eap	4077
+w p	14403
+sm 	12372
+pul	10980
+ggl	5335
+icy	6376
+olv	10202
+siv	12316
+cip	3165
+nop	9519
+mew	8719
+zgh	15513
+li-	8069
+i-p	6286
+pe'	10748
+e'a	4023
+'at	820
+s-h	12111
+cut	3324
+ims	6615
+lgo	8050
+odb	9985
+dbh	3528
+hoy	5985
+lsv	8281
+vik	14168
+vaa	14077
+p s	10670
+ané	2092
+ik-	6538
+ pÄ	488
+piy	10835
+pom	10888
+x i	14705
+e -	3980
+ - 	14
+- e	959
+ext	4719
+ pé	494
+pép	11044
+épé	17694
+f y	4835
+ ye	672
+ocr	9972
+e-g	4036
+lni	8193
+ejl	4303
+jla	7168
+m y	8564
+oym	10563
+ py	487
+ohv	10101
+qae	11093
+aem	1788
+h q	5698
+s q	12083
+a q	1586
+r q	11210
+t q	12721
+d q	3437
+ qe	502
+qen	11117
+unj	13710
+i'a	6270
+ou-	10448
+u-k	13350
+n-k	9165
+mb 	8638
+anm	2072
+o. 	9909
+v r	14052
+hmy	5938
+agÄ	1852
+Ä±p	16835
+±p 	16446
+j r	7023
+ufz	13511
+ç r	17482
+izâ	6933
+zâd	15742
+âde	17332
+ bâ	96
+bâh	2904
+âhâ	17337
+hâe	6152
+âed	17333
+ahÅ	1886
+hÅ	6136
+asw	2232
+lyk	8380
+hqa	5994
+imz	6621
+mzh	9001
+ppy	10918
+py 	10999
+ufy	13510
+fya	5123
+ibh	6339
+bh 	2653
+ugr	13526
+upb	13761
+atb	2245
+nkt	9455
+ r	16069
+isd	6769
+ziu	15555
+cep	3081
+tuk	13113
+hto	6047
+l'o	7847
+jÃ¶	7287
+¶nt	16488
+ntÃ	9618
+moa	8834
+oaw	9932
+¼nt	16544
+loa	8203
+lh 	8056
+ dá	153
+dáj	3908
+áje	17222
+iey	6433
+eyo	4741
+enq	4440
+Ä±d	16827
+±dv	16418
+al	15851
+±mb	16434
+bÃ¶	2880
+¶lÃ	16485
+¼kb	16529
+± r	16406
+evf	4660
+vfi	14146
+izw	6928
+map	8619
+c r	2990
+utc	13866
+afn	1813
+leq	8005
+q r	11079
+zaw	15448
+osâ	10412
+sân	12627
+âng	17346
+Ä±a	16824
+±al	16413
+p r	10669
+reÃ	11409
+eÃ§	4776
+§be	16258
+pfa	10780
+oqi	10343
+bi`	2668
+i` 	6299
+` s	1561
+a`a	1651
+`ad	1563
+maw	8626
+ukb	13606
+kbl	7431
+sug	12536
+ryi	11843
+ïda	17895
+duz	3838
+afd	1803
+fda	4896
+cak	3024
+± s	16407
+afw	1820
+fwa	5118
+afy	1821
+fy 	5122
+a's	1620
+abz	1699
+bza	2873
+hga	5842
+ibz	6352
+k Å	7371
+elq	4362
+lqo	8251
+qol	11146
+ouj	10458
+d &	3418
+ud-	13435
+-ou	1121
+kuw	7699
+omu	10238
+awl	2346
+tua	13104
+eii	4273
+oku	10171
+ s	16070
+duh	3821
+gea	5299
+qbe	11110
+eey	4188
+¶ym	16496
+n Å	9135
+an	16036
+aql	2156
+suq	12546
+qam	11099
+ti'	12909
+ynb	15151
+aua	2279
+a.s	1649
+.s.	1261
+voy	14248
+a'e	1613
+'er	851
+wsa	14619
+yf 	15032
+yid	15070
+ntm	9605
+unp	13716
+npu	9541
+ sb	535
+h Å	5710
+eb	16039
+u Å	13326
+r Å	11222
+eco	4123
+tuç	13130
+ç s	17483
+yeÅ	15031
+il	16103
+a 	16077
+efh	4195
+rdÃ	11373
+dÃ®	3893
+Ã® 	16702
+® Å	16362
+eh	16041
+hrÃ	6013
+rÃ®	11887
+Ã®b	16703
+®ba	16363
+paÅ	10726
+a Å	1601
+ek	16042
+§uk	16269
+lkü	8131
+küm	7800
+elâ	4376
+lâh	8441
+âha	17335
+±ne	16437
+± Å	16412
+em	16043
+t 1	12703
+ 11	19
+1 2	1300
+007	1287
+07 	1295
+7 o	1404
+t 2	12704
+20 	1343
+0 2	1275
+cuo	3320
+Ã¼v	16726
+¼ve	16554
+enÄ	4451
+luÅ	8341
+s Å	12096
+ozy	10597
+zyu	15708
+yay	14948
+voc	14228
+ovl	10492
+poç	10901
+Ã¶r	16712
+¶re	16490
+ntÄ	9619
+±lÄ	16432
+Özs	17112
+zso	15645
+üzü	18421
+zün	15768
+rpi	11669
+w s	14405
+ulj	13642
+usj	13843
+sji	12330
+al	16080
+vim	14170
+evt	4673
+vta	14277
+erö	4555
+röz	12021
+özç	18131
+zçe	15745
+§ s	16251
+sez	12236
+dwe	3850
+qaa	11089
+fqa	5046
+eeg	4173
+oqu	10344
+hzi	6124
+ofi	10042
+rqi	11684
+faj	4869
+Ä«l	16811
+«lÄ	16305
+« s	16287
+«n 	16308
+llÄ	8157
+lÄ?	8416
+ms-	8906
+rh 	11460
+odz	10006
+dzi	3885
+lwi	8365
+f 2	4811
+005	1285
+05 	1293
+5 s	1378
+lzu	8404
+nua	9631
+zap	15441
+goi	5458
+oit	10130
+w o	14402
+hi'	5855
+irw	6752
+itm	6810
+uho	13547
+idj	6391
+oar	9928
+cui	3315
+ltn	8303
+tna	12982
+h-e	5724
+-e-	1013
+e-s	4047
+iv	16050
+six	12318
+ix-	6879
+x-s	14729
+ sk	542
+ sl	543
+sül	12694
+zif	15541
+ s 	531
+sün	12696
+nbü	9230
+whi	14517
+ sn	545
+sno	12389
+ünu	18384
+sob	12398
+obh	9942
+omy	10241
+umy	13691
+naâ	9215
+aâm	2461
+âma	17339
+geç	5322
+eçt	4795
+çti	17516
+ods	10000
+dsk	3786
+ptu	10963
+vod	14229
+job	7193
+ Üs	773
+Üst	17143
+Ürg	17142
+güp	5670
+üpl	18387
+plü	10865
+ü s	18320
+uhe	13539
+coÄ	3264
+ có	129
+cór	3409
+órd	18011
+ sÃ	557
+ef	16040
+¶rt	16491
+va-	14076
+-sÄ	1159
+±nÄ	16443
+fud	5096
+dvi	3842
+waq	14440
+hlv	5919
+ayw	2397
+ywi	15322
+giç	5392
+iç 	6961
+zgü	15518
+üç 	18424
+kmi	7569
+u-g	13347
+wiz	14543
+lye	8376
+lco	7945
+v t	14054
+b t	2537
+mkr	8796
+guç	5568
+sán	12623
+ánd	17246
+amá	2048
+más	9027
+ás 	17274
+akç	1976
+kça	7768
+çam	17491
+ t	16071
+ÄÄ	16807
+il	15856
+Çil	17030
+req	11399
+kti	7670
+bn-	2729
+n-z	9177
+göz	5659
+özü	18132
+züb	15766
+übü	18328
+daq	3510
+vay	14098
+wfe	14506
+Çor	17036
+utç	13889
+tçu	13234
+±bu	16416
+s 4	12064
+ 40	30
+405	1365
+rcz	11341
+ewf	4688
+wfi	14507
+ t'	567
+'ha	865
+dhb	3621
+e 4	3982
+ 4 	29
+wli	14556
+ikk	6545
+tüm	13290
+Örn	17097
+afk	1810
+udt	13453
+okb	10155
+opa	10318
+acy	1733
+unb	13702
+nku	9456
+lsr	8277
+tub	13105
+ub'	13386
+b'a	2544
+uga	13515
+Äb	16797
+ba	16086
+ÄÃ	16806
+Ã§	16130
+§e 	16260
+cu	16088
+ tÃ	586
+¼la	16534
+¼li	16536
+utu	13882
+± t	16408
+Åo	16933
+or	16052
+ced	3070
+utk	13873
+tku	12960
+tuv	13123
+41 	1366
+1 t	1307
+wo-	14581
+o-s	9904
+ tz	585
+tzv	13195
+tzu	13194
+ydu	14997
+byk	2864
+ hr	244
+y u	14888
+u u	13318
+ uÄ	620
+imh	6605
+°nc	16385
+vuk	14293
+Ã¼t	16725
+¼tÃ	16553
+§ar	16255
+ngÄ	9366
+±tl	16463
+± u	16409
+luç	8342
+ Ã	16075
+ Ã	719
+Ãm	16635
+mi	16029
+güz	5675
+puÄ	10992
+Ãn	16636
+na	16030
+gku	5407
+c b	2975
+181	1324
+81 	1417
+1 n	1305
+bly	2719
+own	10524
+ up	612
+upr	13773
+htn	6046
+zoh	15606
+nqi	9544
+qid	11123
+±ng	16438
+ngÃ	9365
+¶z 	16497
+Ãs	16637
+st	16031
+stÃ	12511
+ uv	617
+yut	15302
+foÄ	5041
+vam	14088
+v v	14056
+cdi	3061
+ v	16072
+y v	14889
+kog	7590
+m v	8561
+ç v	17485
+veh	14125
+eos	4481
+Öge	17089
+dih	3644
+raâ	11296
+a 	15965
+ghs	5356
+m â	8570
+acz	1734
+czk	3359
+icz	6377
+woj	14591
+ojc	10138
+jci	7076
+ wy	651
+wye	14665
+Äm	16802
+mu	16114
+waw	14446
+yai	14932
+v y	14059
+aos	2117
+u y	13322
+§ y	16252
+día	3942
+íaz	17810
+Ä?r	16750
+?ri	1532
+q y	11083
+aqÅ	2164
+qÅ«	11187
+Å«b	16973
+«b 	16291
+Ã¼y	16727
+¼yÃ	16556
+yÃ¼	15346
+¼ka	16528
+±t 	16461
+ztu	15657
+ y	16073
+vci	14109
+o y	9861
+öl 	18074
+aïs	2500
+ïss	17917
+nog	9510
+ yÄ	684
+ziv	15556
+yoa	15178
+oav	9931
+yoh	15185
+yom	15190
+evc	4657
+ yÃ	683
+¶rÃ	16492
+¼k 	16527
+c y	2997
+yug	15289
+kbu	7434
+fih	4963
+ihr	6489
+ne'	9293
+yuv	15304
+Ã§k	16673
+§ka	16265
+ak	16035
+q z	11084
+z z	15404
+ib-	6332
+b-u	2548
+-un	1181
+b z	2542
+md 	8683
+z. 	15423
+uyo	13953
+mdj	8688
+zav	15447
+e Ö	4019
+ Öz	765
+u Ö	13328
+Öng	17094
+ngü	9374
+wez	14502
+ad	15968
+p z	10677
+deÄ	3595
+eÄ	4778
+ z	16074
+Çev	17029
+k Ö	7373
+t Ö	12737
+ zh	694
+mby	8653
+tui	13112
+uim	13567
+meb	8698
+y z	14893
+kkh	7543
+amc	2024
+ohy	10103
+¶ka	16481
+Özl	17109
+Özç	17114
+ zü	706
+zül	15767
+ülf	18357
+lfü	8042
+fü 	5178
+gah	5247
+-je	1066
+-tb	1167
+føn	5175
+øns	18215
+høy	6220
+øy-	18259
+y-p	14912
+ørg	18227
+uvå	13917
+ifo	6445
+fov	5036
+xei	14768
+frø	5064
+røk	12029
+økj	18190
+kjæ	7538
+jær	7306
+ o'	442
+o's	9886
+søg	12681
+øga	18169
+ynt	15166
+rby	11317
+due	3818
+hej	5816
+jls	7172
+ums	13686
+ mø	411
+møl	9086
+øll	18198
+nøh	9815
+øhr	18178
+nyg	9691
+ygr	15051
+bse	2800
+oye	10557
+bår	2909
+ård	17427
+puk	10979
+ne-	9294
+-ca	993
+ntl	9604
+n-l	9166
+-lo	1088
+mzo	9003
+sbj	12179
+bjø	2707
+sge	12251
+ol-	10180
+e-w	4050
+mn 	8822
+axg	2364
+xgi	14780
+yrv	15238
+up-	13759
+p-j	10688
+-jø	1070
+huf	6061
+jit	7148
+kiæ	7530
+iær	6959
+ær 	17454
+rcl	11334
+ömg	18084
+mgr	8737
+nsø	9588
+søe	12680
+øe 	18164
+s-b	12105
+-bj	988
+bje	2702
+ovm	10493
+vma	14212
+ewy	4703
+wy 	14661
+rnt	11613
+orv	10369
+twi	13141
+dej	3577
+j b	7008
+røg	12027
+øgs	18175
+gsy	5529
+sys	12589
+6 b	1383
+bja	2701
+iis	6511
+nnl	9490
+ugs	13527
+gss	5524
+ivk	6858
+vko	14198
+ovh	10488
+vhu	14156
+hrø	6017
+røi	12028
+øis	18185
+ndb	9257
+dbo	3532
+bry	2779
+sod	12400
+yce	14971
+fn 	5010
+dræ	3768
+ræ 	11934
+æ c	17439
+otw	10438
+edv	4156
+etg	4602
+vær	14359
+ærn	17460
+woz	14604
+høe	6212
+øeg	18165
+gse	5512
+cec	3069
+se-	12210
+brø	2791
+røn	12032
+ønd	18211
+eje	4299
+ag-	1829
+g-j	5220
+jue	7248
+l-v	7874
+d-f	3471
+feb	4903
+gyl	5594
+yld	15111
+nlø	9471
+løv	8523
+øve	18252
+doz	3743
+ hj	238
+hjo	5891
+. &	1212
+& v	793
+ozo	10591
+ cz	121
+bye	2861
+hæd	6171
+æde	17442
+ryl	11846
+dog	3725
+juu	7264
+uul	13898
+igp	6467
+gpe	5478
+ ej	170
+zsp	15646
+ejn	4305
+ejv	4311
+jvi	7272
+rtt	11763
+løj	8518
+øj 	18186
+sii	12303
+iie	6500
+tux	13125
+xen	14772
+øld	18194
+ kj	327
+kje	7533
+asq	2226
+gg 	5330
+rgé	11457
+gé 	5635
+døs	3966
+øss	18245
+ærs	17461
+ugw	13530
+gwe	5579
+Øst	17131
+oh 	10082
+høj	6215
+j f	7012
+hva	6088
+c l	2985
+evu	4674
+ebj	4094
+hné	5958
+éev	17622
+koë	7613
+oës	10631
+nør	9816
+ørb	18222
+otf	10423
+agø	1858
+gøi	5661
+øie	18182
+ng-	9338
+g-a	5214
+ gø	230
+gøs	5663
+øst	18246
+ gw	221
+vii	14166
+mpm	8874
+nyd	9688
+e-v	4049
+vib	14160
+sbø	12185
+bøl	2963
+böc	2950
+uun	13900
+Ørs	17129
+dto	3806
+ikl	6546
+ønn	18214
+chj	3119
+hje	5889
+hsp	6029
+ixe	6882
+n-g	9161
+-go	1041
+dez	3593
+oné	10289
+søb	12678
+øbi	18152
+k-l	7383
+d-s	3482
+-sø	1163
+yng	15156
+pod	10879
+bsg	2801
+zeu	15502
+ørr	18234
+ki'	7503
+i's	6273
+hør	6218
+gmo	5423
+jej	7098
+ørh	18228
+ngá	9368
+gál	5624
+álv	17238
+lvu	8353
+ngv	9360
+gva	5574
+gvi	5576
+ ip	276
+dbj	3530
+ iø	289
+iør	7004
+mgå	8741
+går	5630
+is-	6764
+pii	10820
+fea	4902
+ntb	9595
+hly	5920
+ølb	18193
+lby	7933
+stæ	12518
+tæc	13233
+æch	17440
+axb	2361
+xbo	14754
+k-j	7381
+keg	7454
+s-k	12113
+mbæ	8654
+ibs	6347
+søn	12683
+jep	7104
+høg	6213
+øgh	18172
+grø	5504
+ønk	18213
+håk	6167
+åka	17417
+kyd	7721
+ibb	6334
+jön	7323
+öns	18094
+ye-	15005
+e-k	4040
+-kn	1077
+dby	3535
+fib	4957
+plø	10864
+løg	8517
+øge	18170
+e-p	4045
+veb	14120
+ebæ	4108
+'tu	938
+tzf	13181
+zfe	15509
+t-c	12748
+ my	398
+myl	8991
+hiø	5887
+iød	7003
+ødt	18162
+vn 	14214
+fte	5082
+dsg	3783
+nsw	9582
+büt	2972
+ütt	18412
+chg	3116
+omh	10226
+exn	4715
+xne	14814
+skv	12348
+p Ø	10681
+ Øj	767
+Øjv	17122
+e Ø	4020
+ ry	517
+ryt	11853
+ytt	15279
+præ	10931
+ræs	11938
+æst	17469
+bøg	2959
+Ødu	17116
+lsg	8269
+sgå	12258
+sdó	12208
+dót	3953
+ótt	18025
+elp	4361
+lps	8245
+he-	5806
+e-b	4031
+ønt	18216
+ntv	9613
+tve	13133
+ryh	11842
+yho	15062
+dsd	3781
+nfi	9327
+rgg	11440
+ggr	5337
+j k	7017
+ kø	348
+køl	7795
+øli	18197
+lmb	8170
+elø	4384
+løk	8519
+økk	18191
+itg	6804
+ kå	345
+kår	7767
+åre	17428
+grí	5502
+rím	11988
+íms	17842
+n Ó	9137
+ Ól	760
+Óla	17085
+afu	1819
+rfo	11426
+foe	5020
+ngb	9340
+gbe	5274
+øje	18188
+tsh	13058
+shø	12291
+j l	7018
+onb	10260
+chø	3145
+høn	6217
+øne	18212
+vse	14268
+rbø	11325
+øl 	18192
+køp	7796
+øpp	18219
+trø	13047
+røm	12031
+leæ	8018
+eæt	4792
+æth	17471
+nné	9499
+néa	9775
+éa 	17586
+ ll	359
+dyb	3862
+ybk	14960
+bkj	2711
+røl	12030
+glo	5412
+udv	13455
+s-e	12108
+-er	1022
+dup	3829
+rlø	11569
+øv 	18250
+gsø	5530
+sø 	12677
+ø m	18143
+be-	2619
+ajk	1933
+koi	7592
+stt	12506
+øn 	18208
+n &	9101
+feo	4916
+efè	4209
+fèr	5154
+èrv	17549
+nex	9318
+exø	4724
+xø 	14865
+rgv	11451
+gvo	5577
+ndg	9262
+aÅ¡	2448
+Å¡k	16956
+¡ka	16176
+oiv	10131
+mc 	8658
+udz	13458
+dzu	3889
+avg	2314
+mio	8765
+ohd	10087
+hjø	5894
+jøn	7330
+ønb	18210
+ønw	18218
+tør	13279
+le-	7987
+e-a	4030
+øm 	18203
+rkg	11522
+kga	7480
+gøy	5664
+øye	18261
+ykk	15100
+isg	6772
+unw	13723
+ünn	18380
+ mæ	405
+mær	9043
+mc-	8659
+c-k	3004
+avt	2324
+vte	14279
+tej	12844
+auÅ	2303
+es	16097
+gtv	5542
+ls-	8262
+g Ø	5210
+ Ør	768
+lør	8521
+ryb	11836
+ggo	5336
+dtv	3809
+tvi	13134
+lmr	8177
+ff-	4928
+f-n	4847
+ukø	13629
+køj	7794
+ nø	439
+ørs	18235
+øme	18205
+ wø	655
+wøh	14691
+øhl	18176
+wæv	14687
+æve	17476
+ørl	18231
+gh-	5344
+h-g	5726
+-gu	1043
+ogø	10080
+gøe	5660
+apr	2143
+lvs	8352
+vst	14275
+paw	10721
+oxe	10538
+krø	7642
+røy	12037
+skr	12346
+lmg	8173
+icc	6363
+ioa	6676
+z-t	15420
+rgå	11455
+egv	4229
+hlü	5926
+lüt	8535
+ov-	10481
+v-j	14067
+-mø	1102
+gje	5394
+rsg	11722
+dør	3965
+tr 	13025
+teð	12863
+eð 	4801
+ð p	17921
+ pá	490
+pál	11026
+áll	17234
+p. 	10691
+ hø	256
+ærh	17458
+nyr	9700
+vl 	14200
+lkj	8119
+ig-	6453
+g-h	5219
+a x	1593
+ xe	660
+ ps	484
+psy	10951
+syc	12578
+ pt	485
+gnh	5430
+jko	7165
+ngg	9345
+ued	13470
+ifb	6438
+fbe	4890
+duo	3828
+ksv	7661
+moj	8843
+ibg	6338
+bgh	2649
+igb	6455
+gbr	5279
+nup	9646
+gtr	5539
+ryg	11841
+ygg	15045
+igv	6472
+g-s	5227
+g-k	5221
+-lü	1092
+lün	8534
+k &	7340
+ldg	7963
+h-j	5728
+ rø	528
+tü 	13287
+tøf	13276
+øft	18168
+sby	12183
+dtz	3810
+eak	4072
+ked	7451
+veo	14132
+bæl	2911
+ælu	17452
+usg	13840
+dsø	3798
+ifs	6447
+lsø	8285
+ø t	18148
+tod	12996
+dd 	3544
+n'e	9148
+køh	7793
+-fo	1032
+ybv	14966
+bva	2849
+ ty	584
+tyg	13161
+vns	14220
+v u	14055
+dbæ	3536
+ndk	9266
+dkv	3683
+vag	14082
+lky	8129
+kyr	7731
+øgg	18171
+slø	12371
+løf	8516
+øff	18167
+gdi	5292
+p v	10673
+høi	6214
+øi 	18179
+kyh	7724
+yhn	15061
+søv	12685
+øvn	18255
+vnd	14216
+ wh	645
+kip	7520
+ipk	6708
+pke	10849
+onæ	10287
+næs	9762
+æs 	17465
+inj	6644
+avs	2323
+vss	14274
+lv 	8345
+ebø	4110
+bø 	2957
+ø a	18135
+tby	12815
+ll'	8133
+myk	8990
+ykl	15101
+rnå	11623
+nås	9761
+ås 	17430
+gts	5540
+fue	5097
+Øde	17115
+æss	17468
+fk 	4988
+ndv	9276
+sjø	12336
+jøb	7325
+øbr	18153
+bøy	2965
+øyu	18264
+dgr	3614
+wyl	14670
+kk 	7540
+sæt	12634
+æte	17470
+erø	4556
+øy 	18258
+rgd	11437
+gdø	5295
+døl	3963
+ølm	18199
+rsø	11741
+wii	14529
+w v	14408
+é o	17571
+lap	7901
+bøe	2958
+dju	3673
+jup	7259
+upv	13777
+pvi	10994
+esø	4592
+nnb	9483
+nbj	9223
+øm-	18204
+m-e	8582
+-gr	1042
+ggt	5339
+syd	12579
+ydn	14993
+skj	12343
+stv	12508
+ikv	6555
+kve	7705
+arø	2206
+pry	10926
+gub	5546
+bbr	2594
+iim	6507
+ypd	15206
+pda	10744
+dgo	3613
+lså	8284
+såk	12632
+åke	17418
+agf	1835
+gfi	5325
+ogs	10070
+Øie	17119
+Økl	17124
+rdh	11357
+gsg	5514
+udl	13446
+Øve	17132
+yds	14996
+lvo	8351
+llå	8162
+lås	8451
+ølp	18201
+lpl	8242
+myh	8989
+yhr	15063
+lød	8514
+øde	18159
+øgn	18174
+ølh	18196
+hål	6168
+åla	17421
+rbj	11311
+spø	12440
+pør	11059
+ørc	18223
+muy	8964
+uyd	13944
+opk	10326
+pki	10850
+msf	8912
+sfj	12244
+ Ån	729
+Ånu	16872
+nt-	9593
+t-o	12759
+-ov	1122
+omt	10237
+mtu	8939
+otn	10431
+tn 	12981
+fjo	4985
+rgf	11439
+mør	9087
+ørd	18224
+rdr	11365
+ss-	12455
+s-a	12104
+Ås 	16874
+bræ	2786
+ræn	11937
+ænn	17453
+tsm	13062
+muu	8962
+ogn	10067
+ünf	18376
+ bø	102
+bøi	2961
+øic	18181
+bif	2674
+eiv	4286
+r Ø	11226
+ Øi	766
+Øiv	17121
+uev	13487
+ld-	7957
+d-h	3473
+-sæ	1161
+fjæ	4986
+ært	17462
+ hå	252
+åko	17419
+ørk	18230
+stø	12524
+tøt	13281
+øtv	18249
+igs	6469
+ødø	18163
+døe	3962
+øen	18166
+w b	14389
+dæh	3920
+æhl	17446
+dsv	3795
+svå	12566
+våg	14358
+åg 	17414
+omø	10254
+mne	8825
+ynn	15163
+bjo	2704
+ndm	9268
+ksr	7657
+ bå	98
+lhj	8060
+bør	2964
+ørt	18236
+rt-	11744
+t-e	12750
+dss	3792
+ynh	15157
+ynj	15159
+rtø	11778
+tø 	13274
+ø c	18136
+pih	10819
+ihl	6485
+f-w	4849
+ørm	18232
+søy	12686
+øyl	18262
+hgr	5845
+xii	14791
+s x	12090
+ xi	663
+xiv	14802
+xv 	14849
+eaa	4063
+lbj	7927
+jeb	7090
+ltf	8295
+fod	5019
+tyb	13156
+ybr	14964
+g-g	5218
+-gj	1039
+c c	2976
+rv 	11812
+hr.	5996
+ukw	13623
+kwu	7716
+wum	14650
+ovd	10485
+brå	2785
+råt	11933
+åth	17435
+-sv	1156
+ln 	8188
+coy	3262
+ cæ	126
+cæs	3380
+æsa	17466
+øyb	18260
+åte	17434
+rnæ	11624
+nsr	9577
+ærv	17463
+gny	5438
+wna	14568
+drå	3767
+rål	11931
+ål 	17420
+l Å	7834
+ Åd	727
+Ådn	16869
+tsd	13055
+ dé	154
+dés	3938
+ési	17714
+iré	6759
+rée	11960
+atv	2264
+ynæ	15174
+oré	10378
+rén	11968
+én 	17667
+bøh	2960
+øhm	18177
+h-l	5730
+vdh	14114
+itå	6824
+tå 	13230
+å e	17411
+løc	8513
+øch	18155
+mox	8857
+oxn	10544
+ræd	11935
+æra	17455
+nsn	9574
+snæ	12393
+rsr	11731
+fos	5033
+rø 	12023
+ø e	18137
+erå	4549
+rås	11932
+hák	6143
+áko	17226
+irí	6760
+rík	11986
+íkr	17830
+uks	13619
+kss	7658
+íku	17831
+tøn	13278
+rdb	11352
+dbø	3537
+kvæ	7710
+dax	3517
+rød	12025
+ødr	18161
+rof	11638
+ofo	10047
+ftu	5088
+mje	8786
+møi	9085
+øin	18184
+rør	12033
+øri	18229
+Ørv	17130
+kjo	7535
+bjæ	2705
+ærg	17457
+tys	13170
+Øye	17133
+lkv	8127
+vnå	14222
+nå 	9760
+vne	14217
+ikb	6540
+kbo	7432
+wre	14612
+ddv	3558
+ckb	3186
+hæg	6172
+æge	17445
+øby	18154
+Øen	17117
+iun	6839
+sæl	12633
+æle	17451
+n Ø	9139
+Ørj	17128
+hax	5770
+axt	2370
+xth	14833
+g-m	5223
+kjø	7539
+jøl	7329
+øln	18200
+øms	18207
+dtj	3803
+tjo	12949
+thj	12887
+jov	7212
+hår	6169
+amø	2054
+møy	9089
+gnæ	5442
+fut	5110
+fge	4947
+rmå	11588
+mås	9040
+åse	17431
+ Åg	728
+Åge	16870
+e Å	4013
+gsr	5523
+esæ	4588
+røs	12034
+øse	18242
+rd-	11350
+ygå	15055
+dsh	3784
+g Æ	5209
+ Æg	737
+Ægi	17017
+ gj	215
+røt	12035
+øth	18247
+lmv	8180
+mva	8970
+Ågo	16871
+gør	5662
+øra	18221
+dtl	3805
+udb	13437
+unh	13708
+üss	18407
+unl	13712
+jøw	7334
+øwa	18257
+høs	6219
+amv	2042
+mvo	8973
+ssh	12463
+yks	15104
+ø g	18138
+stå	12517
+tål	13231
+åls	17424
+nnh	9487
+gju	5397
+esj	4570
+sjå	12334
+jå 	7302
+å g	17412
+unv	13722
+nvo	9663
+aav	1673
+g-p	5225
+owz	10532
+wzo	14679
+fiv	4976
+ølg	18195
+lfd	8024
+gtu	5541
+lld	8138
+llv	8154
+lvd	8347
+møg	9084
+ø h	18139
+jæg	7305
+øsj	18243
+sjo	12332
+osn	10398
+syv	12592
+yve	15312
+evj	4664
+vju	14194
+ju 	7243
+tmo	12976
+ksn	7654
+stf	12493
+stg	12494
+thn	12891
+løb	8512
+øba	18150
+Øke	17123
+elå	4378
+sæv	12635
+esv	4582
+ tv	581
+nvå	9666
+rtv	11765
+øys	18263
+rnø	11628
+nøy	9818
+dry	3763
+gnl	5433
+sku	12347
+msv	8925
+svo	12561
+krå	7640
+råk	11930
+th-	12877
+ sm	544
+ydv	14998
+dvo	3843
+er!	4517
+r! 	11228
+! h	779
+hi-	5856
+i-y	6293
+tbø	12816
+usv	13855
+grj	5489
+rjo	11513
+jot	7210
+kyl	7726
+sär	12631
+ärn	17395
+wiu	14538
+stj	12497
+bøk	2962
+håv	6170
+åva	17437
+ørf	18226
+ufl	13500
+ngj	9348
+gja	5393
+ød 	18156
+gnv	5437
+mbj	8645
+p i	10660
+efv	4207
+fvi	5116
+abø	1710
+ø i	18140
+iom	6688
+Øis	17120
+føl	5174
+iae	6306
+by-	2857
+y-g	14904
+d Ø	3449
+örk	18106
+mys	8995
+fån	5151
+åne	17425
+fjø	4987
+Øks	17125
+ggs	5338
+enø	4461
+ldó	7984
+dór	3951
+órs	18017
+ jó	313
+jón	7317
+llt	8152
+boj	2750
+øke	18189
+nyl	9695
+tøa	13275
+øa 	18149
+ætr	17473
+iik	6505
+lvh	8349
+rkø	11542
+køy	7797
+trh	13028
+hls	5916
+giæ	5391
+iæv	6960
+ ue	603
+tjø	12951
+nnd	9485
+ckj	3193
+hex	5830
+exu	4720
+xum	14843
+ø j	18141
+kuv	7698
+uvl	13910
+vlu	14206
+rkv	11534
+sph	12427
+phj	10799
+juv	7265
+øvl	18254
+ská	12352
+kál	7756
+áld	17230
+dmæ	3703
+jór	7318
+óru	18018
+ai-	1892
+i-o	6285
+røb	12024
+øbe	18151
+øna	18209
+m-l	8586
+jøt	7333
+øtt	18248
+tt-	13078
+t-p	12760
+øsl	18244
+wef	14484
+shj	12271
+kej	7457
+jll	7170
+atn	2257
+tno	12985
+thø	12905
+sød	12679
+øda	18158
+flø	5004
+ækk	17448
+rcí	11344
+cía	3395
+uaa	13361
+mår	9039
+thf	12883
+hfo	5838
+wæh	14686
+ølv	18202
+ørø	18239
+ø k	18142
+fag	4866
+fry	5055
+nlu	9469
+tøl	13277
+gsv	5527
+gjø	5399
+kiv	7525
+ijä	6535
+jär	7301
+ärv	17398
+av-	2308
+v-b	14065
+ppd	10908
+mku	8797
+ytn	15275
+skå	12353
+kån	7766
+ kv	337
+dåv	3919
+åvø	17438
+vøy	14386
+bys	2869
+hll	5913
+rs-	11715
+lo-	8202
+mnd	8824
+ågb	17415
+kju	7536
+ics	6373
+cso	3292
+Øga	17118
+lfl	8030
+dsn	3789
+lku	8126
+løs	8522
+ræk	11936
+kjå	7537
+jåk	7303
+oir	10128
+løe	8515
+güs	5672
+rtå	11773
+tås	13232
+åsl	17432
+røe	12026
+å m	17413
+yrm	15231
+urø	13828
+ppa	10907
+ltv	8308
+tkj	12956
+amt	2040
+n-o	9169
+-os	1119
+Íos	17074
+jøe	7327
+tøs	13280
+øsd	18241
+gde	5290
+boi	2749
+rmæ	11589
+mæl	9042
+æl 	17449
+tix	12934
+ixr	6888
+xru	14827
+nmæ	9478
+nnø	9500
+nøv	9817
+nnt	9494
+syk	12582
+mtf	8932
+w m	14400
+olå	10209
+æla	17450
+øvs	18256
+øgl	18173
+hæs	6173
+åge	17416
+doc	3721
+lt-	8289
+t-n	12758
+Øri	17127
+tsl	13061
+fix	4977
+ixd	6881
+xda	14760
+nsv	9581
+ysø	15266
+ø n	18144
+opd	10321
+lvæ	8358
+træ	13041
+æda	17441
+ nj	423
+njå	9437
+jål	7304
+obl	9946
+ddb	3546
+ør 	18220
+øjd	18187
+ddl	3551
+mæh	9041
+ddm	3552
+Ørb	17126
+ssø	12482
+efj	4197
+rdl	11361
+odv	10003
+yvi	15313
+chd	3113
+ogm	10066
+ålo	17423
+ybw	14967
+d-o	3479
+-ol	1115
+ev-	4654
+v-s	14069
+jek	7099
+mt 	8928
+ruv	11804
+ufs	13505
+gjæ	5398
+ære	17456
+ukv	13622
+rdv	11369
+døn	3964
+søl	12682
+åst	17433
+edj	4144
+otl	10429
+qva	11181
+mjø	8789
+jøs	7332
+øs 	18240
+fsæ	5078
+e-j	4039
+oe-	10012
+e-o	4044
+bær	2912
+ærø	17464
+ømm	18206
+-kj	1076
+i Þ	6268
+ Þo	774
+Þor	17146
+omd	10222
+gly	5414
+hén	6190
+rsn	11728
+hlø	5925
+lø 	8511
+ø p	18145
+ tj	576
+msr	8921
+olr	10198
+æsh	17467
+peg	10756
+ggy	5342
+r-Å	11259
+-Åg	1209
+mly	8807
+ohg	10089
+hg 	5841
+løn	8520
+vho	14155
+ivs	6865
+vso	14273
+apf	2132
+ på	492
+pål	11032
+ppl	10912
+kte	7668
+ugé	13533
+gén	5640
+éni	17671
+rlé	11566
+léa	8465
+éan	17590
+hvo	6091
+gnú	5445
+nús	9823
+úsd	18304
+r Þ	11227
+ Þó	775
+Þór	17147
+óra	18010
+øil	18183
+ø r	18146
+ tø	594
+oho	10096
+uu 	13892
+sog	12403
+gnn	5434
+eiu	4285
+llw	8155
+ögn	18059
+t Ø	12738
+ønv	18217
+usb	13835
+ljø	8111
+jøk	7328
+sju	12333
+cky	3206
+lk-	8113
+ldv	7975
+dvæ	3846
+f Å	4838
+efd	4192
+fyl	5130
+jny	7189
+nyk	9694
+rsf	11721
+cs 	3288
+d Å	3447
+ Ås	730
+Åse	16875
+woi	14590
+oie	10117
+kio	7519
+Åsh	16876
+høl	6216
+gbj	5277
+ugd	13517
+ssd	12459
+slå	12368
+låt	8452
+ått	17436
+e-i	4038
+n-t	9173
+e-e	4034
+d.y	3488
+.y.	1267
+y. 	14920
+itd	6801
+tda	12828
+ttv	13095
+ sj	541
+fsd	5069
+gfu	5328
+Åsl	16877
+rct	11338
+cta	3296
+kts	7673
+ Øs	769
+åle	17422
+niv	9412
+ndf	9261
+dfø	3604
+før	5176
+ejo	4306
+nyh	9692
+foy	5039
+øib	18180
+nyb	9686
+ybø	14969
+ø s	18147
+ørw	18238
+yrl	15230
+Årn	16873
+msd	8910
+ylf	15113
+mhe	8744
+gew	5319
+koj	7593
+ød-	18157
+øvi	18253
+ikn	6548
+nco	9238
+ybd	14956
+fty	5090
+tye	13159
+ppf	10910
+pfj	10784
+urf	13798
+rf-	11417
+f-e	4844
+idv	6402
+dve	3841
+vd 	14111
+spu	12433
+fto	5086
+asz	2234
+asæ	2238
+-ry	1143
+sst	12473
+tzæ	13198
+zæg	15744
+æg 	17444
+cae	3018
+gfo	5326
+ærl	17459
+orj	10357
+rju	11514
+fth	5083
+ggv	5341
+gve	5575
+nø 	9814
+ygv	15053
+nyq	9699
+yqv	15219
+idk	6392
+dku	3682
+års	17429
+wex	14500
+llæ	8163
+læg	8453
+w w	14409
+re-	11382
+ yn	677
+håg	6166
+yog	15184
+ Øy	770
+Øys	17134
+l Ø	7838
+f Ø	4840
+Øyv	17135
+s Ø	12099
+rfl	11424
+lá 	8425
+bdó	2615
+dón	3950
+abí	1707
+bíl	2941
+íli	17834
+elé	4380
+lét	8479
+étr	17728
+tni	12984
+ahã	1887
+hão	6158
+raã	11297
+aão	2463
+ aé	70
+aéc	2471
+éci	17605
+ilá	6591
+lár	8433
+coe	3242
+daí	3523
+aíl	2482
+íls	17837
+ílt	17838
+yés	15369
+ésp	17716
+ aí	71
+aíd	2481
+ída	17818
+a.d	1644
+.d.	1247
+d. 	3486
+jún	7337
+úni	18298
+uia	13556
+onç	10288
+nça	9764
+adí	1773
+díl	3945
+chá	3136
+háv	6147
+áve	17297
+adá	1770
+dán	3911
+viá	14185
+ioy	6697
+cub	3308
+saá	12169
+aá 	2457
+á a	17174
+drí	3771
+ríg	11985
+ígu	17824
+lzú	8407
+zú 	15763
+adã	1771
+dão	3916
+cac	3016
+eia	4265
+elí	4382
+líc	8487
+íci	17816
+riá	11502
+rná	11620
+iai	6310
+ahí	1890
+hía	6197
+iaf	6307
+Évo	17070
+arã	2199
+rãe	11924
+ães	17363
+oxé	10551
+xé 	14863
+agb	1831
+stí	12521
+tín	13255
+ín 	17843
+ndó	9288
+rió	11508
+ión	6999
+aré	2202
+cab	3015
+eró	4553
+rón	12003
+tez	12860
+nrí	9556
+ríq	11992
+íqu	17858
+fuj	5101
+llá	8160
+lán	8432
+rtí	11777
+íne	17846
+cch	3052
+fim	4968
+os-	10383
+s-d	12107
+riÄ	11499
+iÄ?	6937
+? a	1450
+voj	14234
+ojt	10147
+jtÄ	7242
+tÄ	13206
+Äc	16782
+ch	16006
+ceu	3085
+ça 	17486
+cib	3153
+ibí	6358
+bía	2939
+íad	17807
+raú	11304
+aúj	2510
+újo	18288
+poy	10898
+guz	5567
+zmá	15589
+piz	10836
+náb	9746
+ába	17196
+abá	1703
+bán	2899
+omí	10252
+mín	9070
+íng	17847
+tié	12943
+iér	6983
+érr	17703
+jod	7195
+luz	8339
+é s	17574
+suá	12555
+uár	13998
+áre	17265
+loñ	8235
+oño	10646
+ño 	17943
+egó	4238
+pug	10976
+ubé	13411
+bén	2933
+paj	10708
+jic	7131
+ri-	11471
+i-l	6283
+cei	3074
+eiç	4293
+içã	6966
+ção	17519
+aio	1908
+iei	6420
+soa	12397
+cuñ	3331
+uña	14031
+ña 	17923
+noz	9528
+muñ	8968
+uño	14034
+ñoz	17948
+auj	2288
+ujo	13594
+ jú	317
+chc	3112
+hco	5795
+cov	3259
+grã	5499
+rão	11925
+zev	15503
+x b	14698
+exs	4718
+xsa	14828
+fio	4970
+gán	5626
+ ló	374
+lóp	8499
+ópe	18006
+pez	10775
+pum	10981
+o '	9835
+ 'p	10
+'pe	916
+nt'	9592
+lcó	7954
+cón	3407
+ d'	133
+d'e	3455
+'es	852
+sté	12519
+téf	13240
+éfa	17623
+ndí	9287
+ezc	4755
+peñ	10778
+eña	4802
+piá	10839
+thw	12898
+brá	2783
+izó	6935
+zón	15758
+amí	2052
+míl	9069
+alí	2014
+lí 	8484
+ oj	454
+amó	2053
+món	9075
+oíz	10636
+ízi	17877
+aló	2016
+ló 	8495
+í r	17802
+rrê	11709
+rêa	11977
+uíz	14029
+icí	6379
+cín	3400
+meñ	8724
+eño	4803
+ayá	2403
+yán	15360
+reñ	11415
+amé	2051
+méd	9051
+ilc	6566
+acl	1722
+moy	8858
+ucí	13433
+zco	15466
+eou	4483
+paz	10724
+aní	2093
+níb	9796
+íba	17811
+ánc	17245
+zañ	15455
+aña	2503
+ñar	17929
+ciz	3174
+clé	3221
+léb	8466
+ébe	17596
+tiã	12941
+ião	6958
+anç	2090
+oa 	9912
+oia	10113
+vof	14231
+azá	2435
+zár	15740
+é f	17562
+eix	4288
+xas	14747
+é g	17563
+réi	11963
+éia	17636
+erô	4554
+rôn	12008
+dró	3772
+óni	18004
+ouç	10476
+ças	17495
+é r	17573
+rés	11973
+gug	5551
+inp	6650
+urq	13809
+uir	13572
+íos	17855
+ldí	7983
+dív	3948
+íva	17870
+dwé	3858
+wél	14688
+élé	17658
+fió	4983
+rzó	11880
+ngé	9371
+gél	5638
+ijo	6528
+tiñ	12944
+iño	6996
+ará	2197
+ráo	11915
+áoz	17256
+ntó	9625
+lhã	8064
+hãe	6157
+ dí	156
+rmí	11592
+mír	9071
+íri	17861
+dut	3833
+raç	11298
+ijh	6521
+jho	7126
+ndã	9284
+ rú	529
+rúa	12038
+úa 	18274
+goz	5473
+tév	13247
+éve	17733
+jij	7138
+ijó	6536
+ucr	13424
+árr	17270
+leó	8019
+eón	4808
+güi	5667
+üid	18345
+cau	3034
+sáe	12619
+áen	17213
+árm	17267
+ntí	9624
+puc	10972
+mén	9056
+énd	17669
+zoa	15599
+ryr	11851
+uco	13422
+ y 	667
+gic	5367
+rfm	11425
+rcé	11343
+cé 	3384
+íre	17860
+ára	17261
+tób	13259
+óbu	17981
+stú	12525
+túr	13286
+leã	8017
+eão	4791
+ldé	7982
+ cé	127
+céz	3394
+ipr	6714
+doy	3742
+nzu	9718
+zue	15666
+ sá	559
+sá 	12617
+sdr	12206
+drú	3774
+rúb	12039
+úba	18276
+s '	12059
+ 'c	3
+'ch	833
+atô	2276
+tô'	13265
+yup	15298
+anq	2076
+lcã	7953
+cão	3378
+fav	4880
+ucá	13430
+cán	3372
+jef	7094
+guí	5572
+uía	14025
+rfu	11429
+atí	2274
+tía	13253
+ías	17809
+các	3369
+áce	17202
+epn	4498
+pni	10871
+lén	8474
+yrt	15236
+zdr	15476
+clu	3216
+smã	12381
+mão	9034
+así	2239
+síl	12661
+uem	13479
+ pu	486
+beb	2621
+o q	9853
+inq	6651
+nsf	9566
+sfr	12247
+seo	12225
+yml	15138
+roj	11642
+rrí	11710
+goy	5472
+o Á	9863
+o'h	9877
+edí	4163
+dín	3946
+exl	4713
+uñi	14033
+ñiz	17942
+ayã	2404
+yão	15363
+mát	9028
+áti	17290
+fró	5062
+róm	12002
+rrá	11705
+ráz	11920
+ázu	17308
+olí	10212
+lív	8493
+Ávi	16618
+owm	10523
+wma	14561
+aez	1798
+ bá	95
+bár	2900
+árb	17262
+brí	2788
+ígi	17822
+bré	2787
+éin	17638
+rás	11916
+enó	4460
+nór	9808
+óri	18013
+naç	9216
+açã	2468
+cés	3392
+ésa	17712
+ctá	3304
+táv	13222
+ávi	17298
+8 b	1412
+ca-	3013
+a-f	1626
+buf	2827
+f-b	4842
+xto	14835
+-a-	964
+-pi	1130
+lyp	8385
+yps	15214
+o'g	9876
+'go	861
+ vê	639
+vên	14374
+ênu	17761
+lía	8485
+sex	12234
+exy	4722
+xy 	14857
+ rí	524
+o z	9862
+riñ	11507
+ños	17947
+nuz	9654
+azp	2425
+zpi	15629
+á c	17176
+otc	10420
+zas	15444
+áne	17247
+uz-	13965
+z-d	15414
+-dí	1012
+díe	3944
+íez	17820
+dáv	3913
+ddé	3562
+dé 	3925
+nço	9767
+ço 	17510
+spí	12439
+pín	11051
+íno	17850
+ugê	13534
+gên	5645
+êni	17760
+toy	13015
+lvá	8356
+ván	14346
+sn 	12384
+éne	17670
+smü	12383
+uín	14027
+ibá	6355
+báñ	2902
+áñe	17325
+ñez	17939
+mij	8760
+juá	7269
+etn	4609
+lyr	8387
+caj	3023
+nzó	9725
+rté	11775
+tés	13246
+ nú	440
+núñ	9824
+úñe	18309
+wny	14579
+paï	10728
+ïta	17918
+vél	14368
+ngó	9372
+aúl	2511
+acg	1718
+cgr	3104
+êa 	17753
+lló	8166
+ó c	17962
+iz-	6909
+orí	10380
+rín	11989
+ueo	13481
+guo	5559
+teo	12849
+lrr	8257
+iní	6668
+níc	9797
+ o 	441
+rcó	11345
+güe	5666
+üen	18337
+ cí	128
+cíc	3396
+íce	17814
+ ví	640
+vít	14383
+íto	17869
+céd	3387
+édr	17617
+acó	1739
+báe	2897
+áez	17214
+cef	3072
+urá	13821
+rá 	11908
+esq	4577
+uiv	13575
+esá	4587
+sár	12624
+omk	10229
+mki	8793
+yrd	15224
+ibc	6335
+& n	788
+hiq	5873
+oc'	9960
+c'l	3003
+'la	891
+ntt	9611
+noj	9513
+pup	10983
+pud	10973
+saí	12171
+aín	2484
+nuñ	9658
+uñe	14032
+wíl	14689
+íll	17835
+sly	12363
+mcw	8681
+cwa	3334
+lym	8382
+cél	3389
+clí	3222
+lím	8490
+íma	17840
+doa	3719
+cog	3244
+ogé	10079
+gér	5642
+cló	3223
+lóv	8502
+óvi	18027
+cly	3217
+o-l	9898
+itã	6823
+tão	13226
+ câ	124
+cân	3377
+ând	17344
+ cá	123
+coi	3246
+oi-	10112
+i-v	6292
+nty	9616
+r-2	11234
+-20	963
+0 f	1276
+tré	13043
+réa	11956
+éam	17589
+mte	8931
+tsa	13052
+22 	1345
+ cp	115
+cpm	3271
+pm 	10866
+sce	12188
+pañ	10729
+luq	8330
+oló	10214
+lón	8498
+uiñ	13582
+ñon	17945
+orq	10364
+óba	17976
+ení	4459
+nít	9802
+íte	17867
+zeq	15498
+equ	4515
+igc	6456
+gch	5286
+ Áv	713
+Áva	16617
+tañ	12806
+añe	2504
+ñed	17934
+gav	5260
+izt	6925
+ncó	9251
+stã	12515
+cás	3375
+áss	17282
+lbu	7931
+buq	2837
+ocu	9975
+cyn	3350
+byd	2860
+dá 	3907
+cud	3310
+ Ós	761
+Ósc	17086
+ioc	6678
+osá	10411
+niÄ	9417
+ldw	7976
+cám	3371
+ámp	17243
+o'l	9879
+'le	892
+scó	12200
+có 	3405
+ó d	17963
+hdr	5802
+oró	10381
+kid	7508
+ncs	9241
+awb	2336
+wbe	14452
+epc	4491
+pci	10737
+ció	3180
+hoq	5977
+ewh	4690
+mca	8660
+iró	6761
+róz	12006
+óz 	18030
+déb	3927
+ébo	17598
+rré	11708
+é d	17560
+de'	3565
+'au	821
+hy-	6100
+y-d	14901
+cox	3261
+edé	4162
+shp	12277
+hpe	5990
+níl	9799
+tód	13260
+ódi	17987
+otu	10436
+s É	12097
+Éde	17042
+o É	9866
+e É	4016
+m É	8568
+a É	1603
+miv	8772
+púb	11061
+úbl	18277
+dex	3591
+vyl	14317
+t É	12734
+Édg	17043
+z É	15408
+buo	2836
+uon	13745
+ubc	13389
+bco	2605
+rlá	11563
+odí	10009
+rtf	11750
+hyp	6113
+ypó	15216
+pól	11055
+óli	17996
+bej	2629
+soñ	12421
+ñor	17946
+déz	3940
+éz 	17743
+éls	17653
+o 7	9836
+osd	10388
+rky	11536
+rlb	11547
+dám	3910
+áma	17239
+ dê	155
+dên	3941
+doñ	3746
+oña	10643
+dui	3822
+omã	10247
+nié	9421
+iéb	6976
+mgo	8736
+Éds	17046
+ dw	147
+dye	3865
+ueñ	13492
+amâ	2049
+mân	9032
+ânc	17343
+liá	8099
+coz	3263
+azó	2437
+ilú	6596
+lúc	8526
+úci	18280
+xon	14819
+dmí	3705
+edn	4148
+afh	1807
+fhe	4950
+so-	12396
+o-c	9890
+loz	8228
+onv	10280
+mañ	8637
+año	2506
+pue	10974
+ppu	10917
+pui	10977
+ibó	6359
+bós	2948
+diñ	3667
+w e	14392
+niñ	9423
+uln	13646
+lér	8477
+vás	14348
+ásq	17281
+viñ	14189
+raí	11300
+egb	4213
+egí	4237
+gíd	5646
+ídi	17819
+rév	11975
+éva	17732
+ivá	6870
+blá	2721
+ázq	17306
+zqu	15631
+jác	7294
+áco	17206
+i-e	6279
+eló	4383
+lói	8497
+ói 	17994
+isâ	6792
+ync	15152
+lié	8101
+iéz	6987
+éze	17745
+hfl	5837
+tún	13284
+úne	18297
+rgí	11458
+gíl	5647
+fru	5054
+nsú	9589
+súa	12688
+són	12670
+édi	17614
+éas	17592
+liñ	8102
+díc	3943
+íca	17813
+ejí	4317
+jía	7315
+oní	10290
+j.a	7030
+ihn	6487
+ñal	17926
+piñ	10842
+iñe	6994
+ñey	17938
+rnú	11629
+nú 	9819
+ú e	18269
+ruf	11788
+ufí	13513
+fío	5168
+olá	10208
+lás	8434
+pif	10817
+itá	6822
+tác	13216
+áci	17204
+oim	10124
+ngc	9341
+gca	5285
+m-r	8590
+é v	17577
+gué	5570
+é e	17561
+ecr	4125
+cry	3282
+lax	7909
+axa	2360
+xag	14736
+ebá	4107
+uzo	13978
+iña	6993
+ñaz	17933
+ekv	4337
+aén	2472
+uló	13666
+ñao	17928
+uku	13621
+cez	3089
+eça	4793
+ vá	635
+bío	2943
+íol	17854
+ríc	11984
+lém	8473
+ém 	17659
+faf	4865
+afá	1826
+fá 	5143
+ fá	203
+fáb	5144
+ábi	17197
+nuá	9656
+lcâ	7952
+ânt	17348
+plí	10863
+azc	2414
+zcá	15469
+cár	3374
+uaí	13384
+lup	8329
+páe	11025
+dyl	3870
+ já	310
+á f	17179
+ype	15207
+laú	7921
+aún	2512
+únd	18296
+igó	6479
+cue	3311
+bañ	2586
+ñes	17937
+ sz	556
+szy	12607
+zys	15707
+ysz	15263
+szl	12599
+zlo	15578
+tán	13220
+orá	10376
+rác	11909
+árq	17269
+aix	1917
+ixã	6894
+xão	14861
+zyl	15702
+ylb	15110
+d'c	3454
+'cr	836
+ñas	17930
+Ébo	17040
+oué	10478
+ fé	206
+fél	5159
+árd	17264
+mié	8782
+iél	6980
+aiv	1915
+pei	10758
+xot	14820
+orê	10379
+rên	11980
+ênc	17758
+flá	5000
+láv	8437
+míd	9068
+veñ	14145
+ríz	11996
+íza	17875
+zán	15738
+jaí	7068
+lcá	7951
+ánt	17252
+múg	9091
+úgi	18285
+áng	17248
+udn	13448
+cys	3353
+ávo	17299
+wow	14602
+tiÅ	12939
+iÅ¡	6947
+¡ek	16165
+urú	13829
+04 	1291
+4 f	1359
+'ag	808
+otá	10444
+tár	13221
+lvã	8357
+vão	14353
+köb	7782
+zúñ	15765
+úñi	18310
+ñig	17941
+ilé	6594
+lés	8478
+s y	12091
+rís	11993
+st.	12487
+gaj	5249
+nod	9507
+exp	4717
+xpe	14823
+syt	12590
+eov	4484
+tmi	12975
+x g	14703
+etú	4626
+túl	13283
+úli	18290
+tíz	13256
+elá	4375
+nzz	9720
+Élb	17048
+imõ	6630
+mõe	9079
+ões	18043
+bbs	2595
+mcm	8671
+cmi	3227
+gló	5416
+lór	8500
+azú	2438
+zúa	15764
+ gê	227
+gê 	5644
+coq	3254
+cuc	3309
+c g	2980
+vch	14108
+gsd	5511
+caç	3040
+çap	17493
+érs	17704
+ntp	9608
+tpa	13019
+tâm	13224
+âme	17340
+cañ	3042
+caz	3039
+o'd	9873
+'do	841
+ldá	7981
+stá	12513
+táb	13215
+irl	6741
+ddó	3563
+dó 	3949
+zuv	15680
+acú	1740
+cú 	3413
+ú g	18270
+ací	1738
+unú	13731
+núa	9820
+á d	17177
+ylm	15117
+gyu	5601
+e-n	4043
+tál	13219
+mpi	8871
+cúp	3415
+úpe	18300
+daz	3519
+íz 	17874
+ueb	13468
+la-	7885
+a-l	1629
+lvé	8360
+véc	14364
+uoz	13756
+ozd	10581
+r-w	11256
+-wi	1191
+sdi	12204
+rmó	11593
+móg	9074
+óge	17993
+zua	15662
+ cú	131
+cúc	3414
+úcu	18281
+ezu	4769
+iwi	6874
+câm	3376
+éld	17648
+uey	13489
+yrr	15234
+edó	4164
+lgá	8055
+é h	17564
+rtê	11776
+tên	13248
+tu'	13103
+hér	6193
+chú	3146
+húg	6221
+úga	18284
+cóc	3406
+ócc	17983
+huá	6084
+uás	13999
+ásc	17276
+agy	1851
+gya	5591
+ ic	263
+ ie	265
+l'i	7846
+'ig	878
+myt	8996
+iév	6986
+ mó	408
+rmã	11587
+mã 	9033
+irv	6751
+btc	2812
+aía	2480
+j i	7015
+h-f	5725
+-fl	1031
+-ve	1184
+mpç	8886
+pçã	11033
+tí 	13252
+rax	11290
+izq	6922
+ iw	283
+iñó	6997
+ñón	17949
+óne	18003
+fij	4965
+gór	5652
+bró	2789
+rós	12005
+ósi	18020
+lol	8214
+dós	3952
+yló	15130
+añó	2507
+ubÃ	13406
+bÃ­	2879
+Ã­Ä	16700
+­Ä?	16357
+Ä?e	16740
+?ek	1485
+anè	2091
+nè 	9769
+è j	17528
+yue	15287
+cué	3330
+uél	14012
+éll	17651
+cuz	3328
+omn	10232
+vaq	14092
+jád	7295
+áde	17209
+ jd	294
+jd 	7077
+. d	1217
+ndé	9286
+emv	4407
+mvi	8972
+-cl	997
+mjo	8788
+rfá	11431
+fán	5146
+ijã	6534
+jão	7299
+ Ân	715
+Âng	16621
+jeo	7103
+ovâ	10504
+vân	14352
+âni	17347
+esú	4593
+sús	12691
+ús 	18303
+ssé	12479
+jey	7112
+ymm	15139
+ jh	296
+iáf	6954
+áfa	17215
+ikÃ	6558
+kÃ¡	7739
+jiÅ	7155
+iÅ	6944
+ÅÃ	16923
+Ã­	16000
+Ã­ 	16685
+júl	7336
+índ	17845
+ sé	562
+sér	12655
+érg	17700
+chó	3143
+hóp	6199
+ópi	18007
+nhã	9387
+oaq	9927
+quí	11180
+civ	3170
+oea	10013
+onl	10270
+uio	13569
+osp	10400
+joí	7220
+oíl	10634
+jom	7204
+enú	4462
+ú j	18271
+urí	13826
+oná	10286
+nás	9752
+afé	1827
+vér	14371
+wst	14628
+agã	1855
+gão	5629
+aró	2205
+rmú	11594
+múd	9090
+úde	18282
+lañ	7920
+ceñ	3090
+rít	11994
+'el	847
+iéc	6977
+éce	17603
+ées	17621
+uec	13469
+acs	1729
+rañ	11302
+ñag	17924
+váz	14351
+ajf	1928
+jfu	7118
+ñat	17931
+riç	11503
+içá	6965
+ntn	9606
+hoz	5986
+zoá	15624
+oát	10615
+áte	17288
+emó	4418
+tll	12966
+rdó	11379
+dóñ	3955
+óñe	18033
+é b	17558
+ifá	6450
+fác	5145
+óce	17984
+neo	9309
+poc	10878
+gár	5627
+lvè	8359
+vès	14362
+fum	5104
+ajt	1941
+roi	11641
+oil	10123
+es.	4560
+iná	6663
+nác	9747
+klé	7561
+oio	10126
+iuf	6832
+ioj	6685
+ttí	13101
+í j	17799
+ lá	368
+áza	17303
+avé	2330
+vé 	14363
+llq	8149
+roq	11649
+há 	6140
+ábr	17200
+idé	6408
+dél	3933
+emá	4412
+pey	10774
+é Á	17582
+ Án	710
+Áng	16612
+mpu	8881
+erá	4548
+ñer	17936
+ ró	525
+rób	11999
+óbs	17980
+dañ	3525
+omó	10253
+sát	12625
+ohá	10107
+omá	10246
+sué	12557
+é x	17579
+s-n	12116
+ jé	312
+jér	7312
+érô	17710
+rôm	12007
+ôme	18035
+jés	7313
+éss	17717
+usq	13850
+yof	15183
+odó	10010
+nía	9795
+toj	13002
+osy	10408
+isó	6795
+sós	12672
+óst	18022
+lís	8492
+mós	9076
+fló	5002
+óre	18012
+ez-	4753
+z-v	15421
+alú	2017
+ndá	9283
+dáz	3914
+chí	3142
+hín	6198
+nfu	9333
+záb	15733
+nuj	9640
+ují	13602
+jín	7316
+óna	18001
+n Á	9131
+paú	10730
+úl 	18289
+imó	6629
+vía	14378
+vuc	14287
+juc	7246
+öpc	18097
+pck	10738
+ezt	4768
+éle	17649
+rtá	11772
+táz	13223
+vau	14096
+siê	12326
+iê 	6988
+ê f	17750
+goñ	5476
+oñe	10644
+d-b	3467
+noé	9531
+oé 	10621
++ k	958
+auê	2305
+uê 	14019
+ê c	17748
+kik	7515
+gif	5370
+wls	14558
+ojo	10146
+öbr	18048
+krz	7635
+rzy	11876
+szt	12604
+kát	7759
+ ky	339
+wh 	14514
+ lí	373
+ lú	376
+ Él	746
+Éld	17049
+sáb	12618
+ciá	3177
+cíl	3399
+ázz	17309
+leô	8020
+eôn	4809
+ajn	1936
+jnu	7187
+nín	9800
+slí	12370
+íah	17808
+esz	4585
+etí	4625
+tíc	13254
+a Á	1597
+Ále	16609
+léi	8470
+éid	17637
+meq	8713
+x l	14708
+loq	8219
+doe	3723
+éo 	17676
+éom	17681
+duq	3830
+dár	3912
+inv	6656
+uty	13885
+lód	8496
+my-	8982
+y-e	14902
+-en	1021
+vye	14313
+ey'	4726
+y's	14897
+Éls	17052
+bír	2944
+író	17862
+ró 	11998
+ó l	17968
+ász	17285
+zló	15581
+Élt	17053
+biv	2690
+it-	6797
+t-b	12747
+ucé	13432
+ucy	13428
+aná	2089
+ná 	9745
+ucu	13427
+cne	3232
+gañ	5271
+miq	8767
+o-o	9901
+-oc	1112
+s Á	12093
+onm	10271
+soj	12406
+aux	2300
+gám	5625
+áme	17241
+tóf	13261
+óff	17990
+tóv	13264
+óvã	18028
+eoa	4466
+z Á	15405
+y Á	14894
+i Á	6261
+e Á	4010
+lyg	8378
+ynd	15153
+lyo	8384
+yot	15196
+ivr	6864
+acn	1724
+ceg	3073
+ mí	407
+mía	9066
+zuk	15671
+c m	2986
+ax-	2359
+x-n	14727
+trá	13039
+ncí	9250
+cíz	3402
+uzó	13986
+to-	12992
+o-a	9888
+scá	12197
+ásu	17284
+lái	8429
+áin	17220
+uíj	14026
+íja	17826
+ yr	679
+15 	1317
+5 m	1376
+oeh	10020
+kod	7587
+d2 	3489
+2 m	1339
+aip	1909
+nçã	9768
+vaj	14085
+paq	10715
+etá	4622
+tá 	13214
+á m	17186
+giy	5387
+enâ	4454
+nân	9755
+xao	14743
+xir	14798
+thâ	12901
+hân	6154
+ndú	9290
+dúj	3968
+úja	18287
+izc	6912
+auí	2306
+uí 	14024
+í m	17800
+oyé	10576
+yé 	15367
+sbé	12184
+ñei	17935
+pêr	11049
+êra	17765
+ríl	11987
+yov	15198
+oví	10508
+ví 	14377
+utn	13876
+a Ó	1605
+ Óñ	762
+Óñe	17087
+üel	18336
+iyo	6901
+vao	14090
+aot	2118
+lél	8472
+axl	2366
+xmi	14812
+yré	15242
+ó m	17969
+tró	13045
+róp	12004
+ópo	18008
+Éme	17056
+dym	3871
+rvy	11819
+vyn	14318
+öwy	18126
+wnl	14573
+uén	14014
+éna	17668
+gso	5521
+gsn	5520
+tuo	13117
+uor	13748
+jdo	7082
+l Á	7832
+osó	10415
+sór	12671
+rró	11711
+seq	12227
+i É	6266
+Ó m	17081
+pyd	11003
+a-c	1623
+isé	6794
+sés	12656
+naí	9217
+aím	2483
+ím 	17839
+ ao	57
+aoa	2099
+vsa	14266
+ysé	15265
+érc	17698
+ mv	396
+mv 	8969
+máx	9029
+áxi	17302
+ mz	399
+mzu	9004
+upl	13769
+plá	10861
+láa	8426
+áa 	17195
+ewc	4685
+wch	14459
+tsu	13068
+suo	12544
+uok	13742
+atá	2271
+áli	17232
+o Â	9864
+Ând	16620
+s Â	12094
+a Â	1598
+. e	1218
+mcg	8666
+cga	3096
+piq	10828
+udê	13463
+zof	15604
+f Á	4837
+t Í	12735
+ Ín	752
+Íng	17073
+pié	10841
+úca	18278
+ssú	12483
+sú 	12687
+ú n	18272
+c n	2987
+vuy	14303
+cuy	3327
+yoc	15180
+ 'e	5
+is'	6763
+nix	9414
+ né	436
+noë	9532
+oëm	10629
+ëmi	17784
+ ní	437
+nís	9801
+ést	17718
+obd	9940
+túb	13282
+ívi	17871
+rvá	11820
+váe	14341
+viz	14182
+qué	11179
+uér	14016
+feó	4926
+nfó	9335
+fón	5170
+zóc	15757
+óca	17982
+o-n	9900
+yci	14973
+d'l	3460
+lín	8491
+mcf	8665
+cfa	3092
+cof	3243
+bb 	2587
+ozi	10585
+ugü	13535
+aui	2287
+dof	3724
+nví	9667
+njv	9434
+jve	7271
+c p	2989
+jo-	7191
+adú	1774
+dú 	3967
+oji	10141
+fu 	5091
+boq	2757
+trí	13044
+ylw	15124
+yáñ	15362
+apd	2130
+pde	10745
+ gá	225
+ydm	14992
+ue-	13465
+-es	1023
+jr.	7226
+rdj	11359
+xo 	14815
+dál	3909
+kuc	7681
+czy	3362
+zyn	15704
+ért	17705
+wod	14585
+hã 	6156
+ pí	496
+pío	11052
+ pê	495
+êro	17766
+ q'	499
+q'o	11086
+uac	13363
+ubí	13412
+bín	2942
+més	9059
+rái	11911
+áiz	17221
+gaú	5272
+aúc	2509
+úch	18279
+puy	10990
+sób	12667
+óbi	17978
+vág	14342
+ágn	17217
+agá	1854
+rcr	11337
+mbh	8643
+frä	5057
+rän	11928
+änk	17388
+ywa	15319
+pu 	10969
+tuu	13122
+ckf	3190
+kfo	7478
+sbi	12178
+imã	6625
+é z	17581
+rex	11406
+ ré	523
+égi	17627
+z-l	15417
+-ló	1091
+za-	15425
+lbí	7936
+zoi	15607
+bóv	2949
+hrl	6003
+üir	18346
+Ála	16608
+uos	13749
+wob	14583
+ Ér	748
+Éri	17063
+rkr	11531
+e Í	4017
+ Ír	753
+Íri	17075
+rém	11967
+éme	17661
+ómu	17999
+ rô	526
+ômu	18036
+rlt	11558
+miñ	8783
+yró	15243
+ó r	17972
+láe	8428
+iau	6322
+byn	2866
+ocí	9980
+cío	3401
+ogw	10073
+reá	11412
+eát	4789
+ sã	561
+são	12629
+ñol	17944
+urã	13822
+ásp	17280
+oyl	10562
+owy	10531
+wys	14675
+ysk	15255
+opn	10329
+pna	10869
+lgl	8049
+saú	12174
+esd	4564
+a-r	1634
+tbu	12814
+rrú	11712
+eow	4485
+güí	5678
+üí 	18428
+í Ó	17805
+o Ó	9868
+s Ó	12098
+z Ó	15409
+Únz	17136
+cej	3075
+Ágr	16606
+s &	12058
+rví	11822
+víl	14381
+urv	13814
+mce	8664
+cew	3087
+obá	9956
+bá 	2895
+á s	17191
+y &	14866
+ozá	10600
+ofí	10056
+fía	5167
+kyp	7730
+e-x	4051
+-xi	1196
+ Ás	712
+Ást	16616
+ujp	13595
+jpa	7222
+guc	5547
+taí	12804
+aís	2485
+00 	1281
+0 t	1280
+ tc	571
+tc 	12817
+teó	12864
+eóf	4806
+ófi	17991
+elê	4381
+lê 	8481
+n-v	9174
+haí	5777
+q'e	11085
+'ew	855
+lj 	8104
+ tú	595
+ tâ	590
+tân	13225
+obí	9958
+emk	4397
+ytl	15273
+frí	5061
+siz	12320
+zé 	15747
+otó	10446
+tó 	13258
+túp	13285
+úpa	18299
+eee	4171
+mcd	8663
+cdo	3062
+-ro	1141
+uek	13477
+llp	8148
+tup	13118
+ ug	605
+oñi	10645
+ñi 	17940
+ uk	608
+etx	4616
+txe	13149
+xeb	14764
+unu	13721
+c Ñ	3001
+ Ñu	757
+Ñus	17080
+ u'	598
+u'w	13341
+'wa	946
+xem	14771
+vál	14344
+a-t	1636
+víc	14379
+íct	17817
+izá	6932
+spá	12437
+púa	11060
+ Év	750
+Éve	17069
+vuo	14297
+rní	11627
+ yá	686
+ vä	637
+väi	14354
+äin	17379
+inö	6670
+nö 	9811
+Ä?o	16748
+?or	1528
+orÄ	10374
+rÄ	11893
+Äe	16776
+ev	15927
+ v	15845
+álb	17229
+ vâ	636
+ vé	638
+éra	17697
+ vy	632
+vyt	14322
+í w	17803
+vej	14127
+erí	4552
+räs	11929
+tzw	13196
+wiñ	14545
+ñay	17932
+wuy	14657
+uyc	13943
+m x	8563
+ouv	10469
+ wé	654
+élt	17654
+dsw	3796
+xak	14739
+ xu	664
+xul	14842
+g y	5207
+opw	10336
+pwe	10996
+nhy	9385
+amú	2055
+ yé	687
+ ys	680
+ysr	15259
+yuc	15285
+iok	6686
+ zé	705
+nón	9807
+ezé	4774
+ocó	9981
+cóp	3408
+ Éz	751
+Ézi	17072
+zél	15749
+peq	10766
+ zs	700
+zsa	15640
+gap	5255
+gaí	5269
+ínz	17852
+lsú	8286
+súe	12689
+úe 	18283
+órr	18016
+o'r	9885
+'re	922
+lbé	7935
+aiq	1910
+ejó	4318
+áno	17250
+ntx	9615
+txa	13148
+rí 	11982
+í b	17797
+krk	7629
+kiÄ	7529
+ b	15831
+biñ	2700
+xac	14734
+oyà	10574
+yà 	15357
+à c	17159
+rún	12040
+bui	2830
+uik	13565
+obé	9957
+bés	2935
+nén	9783
+196	1333
+968	1443
+68 	1396
+sái	12620
+kás	7758
+súm	12690
+úma	18292
+elà	4374
+là 	8424
+à f	17162
+çoi	17511
+iót	7001
+óti	18024
+fát	5147
+inú	6671
+odw	10004
+bsb	2797
+ipó	6720
+azk	2420
+ iñ	288
+ñak	17925
+mbó	8657
+bó 	2946
+ó i	17966
+iñi	6995
+opé	10339
+pés	11046
+oik	10122
+xea	14763
+atx	2266
+ysl	15256
+rbó	11324
+ós 	18019
+hué	6086
+inó	6669
+nós	9809
+trú	13048
+rús	12041
+úst	18306
+yá 	15358
+tái	13217
+olà	10207
+à j	17163
+icó	6380
+ó j	17967
+voa	14226
+ohó	10110
+hór	6200
+órq	18015
+iej	6421
+señ	12239
+ués	14017
+ojú	10152
+jú 	7335
+dyo	3873
+yow	15199
+a À	1596
+ Àl	707
+Àle	16604
+asó	2240
+sañ	12173
+rià	11501
+ià 	6952
+rív	11995
+nsp	9576
+míc	9067
+ích	17815
+itó	6827
+ojk	10143
+ n	15839
+iur	6843
+lbó	7937
+ó n	17970
+núr	9822
+o'n	9881
+'na	899
+tél	13243
+rgè	11456
+gèr	5633
+soz	12420
+dóv	3954
+óva	18026
+vov	14245
+ p	15841
+prá	10930
+ráx	11919
+áxe	17301
+xed	14766
+ién	6981
+uiq	13571
+tiÄ	12938
+ r	15842
+raü	11305
+aül	2513
+juf	7249
+súñ	12692
+eré	4551
+oix	10133
+añi	2505
+ezq	4765
+e Ó	4018
+t Ó	12736
+uán	13997
+ó s	17973
+dúr	3970
+úrc	18301
+goa	5450
+ tx	583
+txi	13150
+xik	14793
+ljk	8108
+puj	10978
+roÿ	11664
+oÿ 	10650
+ÿ w	18450
+xab	14733
+t x	12728
+bí 	2938
+í z	17804
+acá	1736
+aíç	2486
+íça	17879
+'ne	900
+ási	17278
+deã	3597
+iaç	6330
+açõ	2469
+çõe	17521
+rmé	11591
+mpè	8887
+pèr	11036
+gói	5649
+óis	17995
+esy	4584
+ính	17848
+o à	9869
+ à 	776
+à a	17158
+ufé	13512
+fém	5160
+émi	17662
+miã	8780
+ovã	10505
+xie	14789
+oxo	10545
+vém	14369
+ciê	3179
+iên	6989
+uc 	13413
+á e	17178
+stê	12520
+têv	13250
+êvã	17771
+ríp	11991
+ípe	17856
+anú	2095
+trã	13040
+rnã	11622
+não	9758
+pó 	11054
+ó f	17964
+irã	6757
+arç	2200
+rçã	11944
+rdã	11376
+emã	4414
+ãoz	17366
+rrã	11706
+ikw	6556
+ebv	4103
+bvr	2850
+a à	1606
+yrn	15232
+rnâ	11621
+onó	10291
+rfí	11433
+fír	5169
+o Í	9867
+ Íñ	755
+Íñi	17077
+tór	13263
+inê	6667
+nês	9793
+ês 	17767
+á i	17182
+acé	1737
+cér	3391
+érè	17708
+nún	9821
+únc	18295
+ Ób	758
+Óbi	17082
+ché	3140
+Águ	16607
+ eç	188
+sóc	12668
+ócr	17985
+ jô	314
+jô 	7321
+kaú	7427
+úlz	18291
+ ké	346
+kép	7776
+épl	17690
+d'Á	3464
+'Ág	951
+iuv	6846
+oic	10115
+vou	14244
+cré	3285
+réc	11958
+ngã	9369
+alã	2011
+lão	8445
+ nó	438
+nób	9804
+óbr	17979
+ntã	9621
+tex	12858
+méc	9050
+'ec	845
+kmü	7572
+olé	10211
+dfo	3602
+éné	17675
+oém	10622
+pír	11053
+wuc	14641
+ofé	10055
+egá	4235
+viç	14186
+iço	6964
+ços	17514
+téi	13242
+éis	17640
+ndè	9285
+xxi	14855
+ã p	17362
+irè	6758
+idó	6409
+ só	563
+élv	17655
+eód	4805
+ódo	17988
+yuz	15308
+ tá	589
+baí	2584
+stâ	12514
+paç	10727
+aço	2467
+ó y	17974
+ro2	11632
+o2 	9911
+2 z	1342
+eab	4064
+ubm	13397
+aaw	1674
+edb	4136
+ifk	6442
+ssf	12461
+abn	1690
+mso	8919
+onq	10275
+ bä	97
+bär	2907
+oxm	10543
+umk	13679
+ldf	7962
+usn	13847
+ipm	6710
+évy	17737
+vy-	14309
+y-b	14899
+cl 	3211
+iof	6681
+act	1730
+akó	1978
+ków	7781
+ów 	18029
+am'	2020
+m's	8577
+waÅ	14450
+aÅ¼	2452
+Å¼y	17003
+¼yk	16555
+eux	4651
+szk	12598
+gnè	5443
+nès	9772
+shg	12268
+bta	2811
+hrn	6005
+uy-	13941
+y-s	14915
+-sá	1160
+ecq	4124
+iav	6323
+ipn	6711
+ohu	10100
+zaï	15454
+ppm	10913
+nu-	9630
+xey	14775
+ajó	1948
+jós	7319
+éd 	17611
+ény	17674
+döb	3957
+190	1330
+905	1429
+5 a	1372
+ky-	7719
+y-c	14900
+sny	12390
+ffl	4934
+sa-	12139
+a-e	1625
+utm	13875
+fsk	5073
+itv	6817
+tva	13132
+ lv	362
+roë	11662
+oën	10630
+nfm	9329
+düc	3971
+oiÅ	10135
+te	16121
+vs 	14265
+ejs	4308
+szn	12601
+ész	17721
+lwo	8366
+wof	14587
+drá	3766
+drz	3764
+zej	15492
+szp	12603
+zea	15483
+lpr	8244
+dif	3642
+okn	10165
+rát	11917
+ewl	4693
+wle	14555
+ilz	6588
+tsy	13071
+ewm	4694
+sgu	12257
+lbl	7928
+rdé	11378
+ély	17656
+lyi	8379
+lyv	8391
+rié	11505
+ié 	6975
+lzb	8397
+zyk	15701
+nzk	9713
+eom	4476
+läm	8449
+rfb	11419
+wün	14693
+ivg	6855
+n-y	9176
+-yi	1199
+fek	4912
+vki	14197
+tzc	13179
+zch	15464
+vsh	14269
+tsi	13059
+vka	14195
+dno	3710
+box	2764
+lty	8309
+& b	784
+upk	13768
+pko	10851
+eo-	4465
+t-s	12761
+ye'	15004
+e'o	4027
+plu	10858
+kt 	7666
+-ez	1027
+fgo	4948
+afm	1812
+z-c	15413
+öw 	18123
+njy	9435
+jy 	7276
+ksp	7656
+pht	10805
+eiw	4287
+noî	9533
+oît	10637
+ît 	17883
+kui	7687
+jl 	7167
+bep	2635
+fko	4992
+ey-	4727
+nát	9753
+át 	17286
+mye	8987
+bée	2927
+pth	10957
+ b&	74
+b&h	2543
+&h 	794
+tkh	12954
+ozm	10589
+aës	2477
+ëst	17788
+vru	14259
+emt	4405
+mts	8938
+phs	10804
+wde	14467
+eÅ	4780
+Ås	16887
+sk	15828
+o Å	9865
+piv	10833
+mry	8900
+rz-	11862
+z-b	15412
+wns	14577
+enÅ	4452
+nÅ	9741
+Åu	16949
+isw	6788
+nvl	9662
+a &	1568
+& e	787
+apm	2139
+s-v	12123
+-va	1183
+oÅ¡	10610
+châ	3137
+hât	6155
+âte	17353
+oaj	9921
+j c	7009
+ ná	434
+náu	9754
+áut	17295
+hwo	6097
+ay-	2375
+y-l	14908
+vny	14221
+dcl	3541
+uef	13472
+nië	9422
+iël	6990
+urp	13808
+cvi	3333
+shb	12263
+r-h	11242
+zgi	15514
+Äe	16770
+er	15888
+rnÃ	11618
+nÃ½	9732
+Ã½ 	16731
+½ d	16564
+dbl	3531
+zhd	15521
+mhi	8745
+nzl	9714
+mdö	8693
+örf	18103
+rn-	11596
+skl	12344
+rdk	11360
+dki	3678
+viy	14181
+hsl	6026
+ivn	6861
+wur	14654
+d x	3444
+ x.	658
+azb	2413
+zip	15550
+ zv	702
+prz	10927
+pió	10843
+iór	7000
+órk	18014
+msy	8927
+sdu	12207
+ dm	141
+trm	13031
+dfe	3600
+nlo	9468
+ssg	12462
+sgl	12254
+r-n	11248
+dyr	3874
+ dz	149
+dly	3691
+abè	1705
+bès	2921
+ezv	4770
+a-d	1624
+psk	10947
+ts-	13051
+rzf	11866
+öb 	18045
+oab	9913
+oaf	9917
+qim	11129
+i-d	6278
+tzp	13191
+zpa	15627
+hül	6227
+beq	2636
+eqi	4513
+grè	5500
+rè 	11945
+è e	17525
+rlí	11568
+lík	8489
+ík 	17827
+évi	17734
+eji	4300
+jio	7143
+awm	2347
+wm 	14560
+rng	11603
+ozs	10593
+zsá	15648
+erÅ	4546
+rÅ	11899
+Å 	16908
+ e	15925
+rnÅ	11619
+nÅ	9740
+dfi	3601
+zve	15685
+tny	12987
+esf	4566
+zbo	15459
+bo-	2740
+fén	5161
+omf	10224
+mfi	8727
+koa	7584
+ fc	193
+fc 	4891
+nkf	9443
+kfu	7479
+lpo	8243
+igy	6474
+gye	5592
+ fy	201
+fyv	5135
+yvu	15317
+egÅ	4234
+gÅ	5620
+ g	15926
+gÃ¡	5613
+Ã¡b	16641
+¡bo	16159
+n-f	9160
+cuk	3316
+zti	15654
+o-r	9903
+ofl	10044
+fnu	5014
+lfm	8031
+sya	12576
+geu	5317
+gak	5250
+iv'	6852
+v'o	14064
+'on	910
+ Ág	708
+Ágn	16605
+-dr	1007
+égo	17629
+lnu	8196
+nuo	9645
+uov	13752
+ziÅ	15561
+iÅ	6943
+ztá	15658
+áv 	17296
+éar	17591
+gwy	5587
+gyö	5606
+yör	15373
+gáb	5621
+ábo	17199
+uká	13627
+kác	7755
+ács	17207
+lná	8199
+n-i	9163
+-it	1062
+ukm	13614
+krá	7638
+ása	17275
+g5 	5236
+5 h	1374
+eyw	4748
+ywe	15320
+bof	2746
+psc	10942
+ b'	75
+b'e	2545
+ywo	15324
+ksm	7653
+hét	6194
+thá	12900
+hár	6146
+árs	17271
+ród	12000
+ódy	17989
+'av	822
+oax	9933
+x h	14704
+ryk	11845
+iaw	6324
+phz	10809
+zst	15647
+cte	3297
+bki	2710
+ivl	6859
+lyt	8389
+m'a	8571
+rdn	11363
+rzn	11872
+odg	9990
+ hô	254
+hôt	6202
+ôte	18041
+ulá	13661
+ynm	15162
+gbo	5278
+gná	5440
+ác 	17201
+y-r	14914
+ejt	4309
+jto	7241
+yic	15069
+Ámo	16611
+hiÅ	5883
+in	16105
+vsc	14267
+wiÅ	14544
+d'i	3457
+'is	882
+mpn	8875
+raë	11299
+ëls	17783
+°sk	16392
+rny	11617
+tvá	13138
+abó	1709
+-gv	1044
+-zo	1207
+ iu	281
+snj	12388
+poz	10899
+aÅ	2444
+zut	15679
+irq	6746
+ocz	9978
+kób	7780
+ób 	17975
+dsb	3779
+caa	3014
+-ly	1090
+brz	2780
+edq	4151
+dq 	3751
+q j	11073
+-sm	1150
+ír 	17859
+osÅ	10410
+jød	7326
+ødi	18160
+ræt	11939
+æts	17474
+tsf	13057
+ngf	9344
+rkb	11518
+mpt	8880
+j.f	7032
+.f.	1248
+f.r	4854
+.r.	1260
+ybu	14965
+ján	7297
+ckt	3201
+'ai	810
+rrs	11699
+oak	9922
+dwy	3857
+yrc	15223
+htf	6041
+odk	9994
+lhé	8066
+hév	6195
+gik	5375
+ánó	17254
+nóc	9805
+ócz	17986
+czi	3358
+em-	4388
+obz	9955
+bzo	2875
+ftw	5089
+ebg	4091
+bgo	2651
+Öst	17098
+pyk	11005
+tbl	12811
+szi	12597
+jéh	7311
+ého	17634
+oyc	10555
+lwy	8368
+laá	7914
+aáº	2459
+áº	17316
+º 	16510
+ j	15930
+drè	3769
+rèc	11946
+èch	17534
+jui	7252
+ryj	11844
+yjk	15094
+lft	8037
+oyf	10558
+józ	7320
+óze	18031
+vés	14372
+ózs	18032
+zse	15642
+x k	14707
+?er	1488
+n x	9128
+oyk	10561
+upc	13762
+psh	10945
+thh	12885
+'sa	926
+ipt	6716
+ptz	10965
+cyt	3354
+klá	7559
+siy	12319
+myo	8993
+vyg	14314
+ygo	15050
+odc	9986
+dgw	3617
+aïk	2495
+ïka	17904
+iée	6978
+pof	10881
+zox	15620
+yn-	15149
+l'c	7842
+rgá	11454
+gác	5622
+eó 	4804
+yze	15336
+msl	8917
+upn	13770
+lmy	8182
+vzl	14326
+smÄ	12380
+mÄ	9013
+Än	16762
+ne	15817
+edz	4159
+dz 	3881
+slé	12369
+ lh	356
+Éli	17050
+efm	4200
+y É	14896
+dsa	3778
+fej	4911
+ejé	4316
+ér 	17696
+pót	11057
+ót 	18023
+ lj	358
+kfe	7476
+wyk	14669
+o'b	9871
+'br	830
+okm	10164
+c.k	3009
+s-l	12114
+¡ke	16177
+dvÃ	3844
+vÃ­	14329
+­k 	16336
+ Å?	726
+Å?u	16865
+h-k	5729
+-ke	1073
+lyl	8381
+düs	3976
+ceo	3080
+mcl	8670
+joë	7219
+oël	10628
+awy	2356
+npo	9540
+-hé	1054
+vo-	14225
+o-t	9905
+luv	8335
+uvs	13913
+opy	10337
+pyt	11012
+ytm	15274
+wep	14494
+rpl	11670
+'uk	941
+ry-	11834
+y-k	14907
+hgi	5843
+udg	13441
+zbr	15460
+ycy	14979
+ugy	13531
+x-t	14730
+héo	6191
+éod	17678
+axw	2372
+xwe	14852
+msc	8909
+tud	13107
+'in	881
+zzr	15720
+zro	15636
+hoi	5969
+r-z	11258
+bax	2579
+szw	12606
+dyc	3863
+ycz	14980
+mdu	8691
+aÅ	2443
+Å 	16878
+haë	5776
+d-w	3485
+kaë	7425
+mif	8756
+ifl	6443
+poa	10876
+ihh	6483
+otv	10437
+dko	3681
+dnó	3716
+nót	9810
+kló	7563
+lós	8501
+mrd	8892
+loÅ	8230
+itj	6807
+mix	8774
+scl	12192
+dr.	3753
+mko	8794
+güd	5665
+moÅ	8861
+Å¡a	16953
+¡a 	16155
+lzi	8400
+önf	18088
+wek	14489
+fni	5013
+fdi	4898
+ya'	14922
+shé	12290
+le'	7986
+áté	17292
+té 	13238
+wym	14671
+a-m	1630
+gsw	5528
+ofc	10039
+fce	4893
+ëli	17781
+vuj	14292
+ujÄ	13600
+dky	3684
+& s	791
+ n 	413
+hby	5788
+x n	14710
+llh	8142
+r-y	11257
+ oi	453
+aiu	1914
+iuk	6836
+y-t	14916
+fow	5037
+rph	11668
+ctm	3299
+ozj	10586
+zja	15563
+rdÅ	11375
+dÅ	3902
+Ås	16910
+s 	15929
+ó p	17971
+weÅ	14503
+Åp	16925
+pi	16002
+x p	14712
+ál 	17227
+ pn	481
+emc	4391
+uzh	13972
+pét	11047
+éte	17724
+pyo	11009
+k q	7359
+uee	13471
+ qw	505
+qwa	11184
+Äu	16766
+ur	15829
+urÄ	13819
+izb	6911
+Å½u	17007
+½ut	16584
+n' 	9145
+' j	796
+rzw	11875
+rrn	11697
+éti	17726
+tät	13229
+ätt	17404
+rmb	11572
+ivy	6868
+vám	14345
+ámb	17240
+mbé	8656
+bér	2934
+éry	17707
+ Ár	711
+Árm	16613
+árá	17273
+ibm	6343
+fts	5087
+wuh	14646
+ndz	9279
+inÅ	6662
+nÅ¡	9742
+Å¡t	16960
+¡te	16209
+omÄ	10244
+mÄ?	9012
+?ns	1524
+oif	10118
+ifm	6444
+rwo	11827
+Áro	16614
+wyd	14664
+aln	1995
+rÃ³	11888
+Ã³Å	16706
+³Å¼	16477
+Å¼a	17001
+¼a 	16523
+Árp	16615
+rpá	11681
+pád	11024
+ád 	17208
+pfn	10787
+vrb	14254
+ynu	15167
+us'	13831
+s' 	12100
+tsp	13064
+ofn	10046
+byc	2859
+fót	5171
+imc	6601
+fax	4882
+tbo	12812
+e-t	4048
+cts	3302
+pax	10722
+?iu	1500
+ Å 	725
+Å a	16845
+arÅ	2196
+rÅ«	11903
+Å«n	16981
+«na	16309
+Ä 	16758
+ s	15810
+saÅ	12168
+zae	15430
+sc 	12186
+fly	4999
+zvo	15688
+g &	5181
+& c	785
+s.g	12131
+.g.	1250
+tv 	13131
+obn	9948
+bny	2735
+kef	7453
+r'e	11231
+iku	6554
+ovb	10483
+vbe	14105
+maÅ	8630
+aÅ£	2449
+Å£i	16967
+£ie	16232
+zis	15553
+zom	15610
+bno	2734
+ lä	369
+köv	7791
+öve	18122
+mó 	9073
+ofy	10053
+-sz	1158
+upy	13779
+ sr	549
+isÅ	6791
+-vo	1186
+rzm	11871
+coj	3247
+izn	6920
+ocm	9968
+cma	3225
+wap	14439
+apn	2140
+tép	13244
+éph	17688
+uzy	13982
+yms	15143
+zyg	15699
+ojm	10145
+jm 	7173
+szm	12600
+jik	7139
+n't	9152
+'to	937
+hék	6187
+éky	17646
+lfn	8032
+tüc	13288
+zl 	15574
+hyd	6103
+ Ét	749
+Éti	17067
+omc	10221
+cy-	3341
+y-a	14898
+vi-	14158
+i-c	6277
+-ci	996
+nür	9830
+ürn	18397
+tvr	13136
+vrt	14258
+gbi	5276
+bzi	2874
+ uc	601
+e Ç	4014
+ Çu	742
+Çuf	17038
+lsp	8276
+ uz	619
+uzb	13967
+va'	14075
+xee	14767
+zhn	15527
+egd	4214
+syo	12586
+yoe	15182
+¡ v	16148
+ vÄ	634
+vÄ	14333
+Är	16790
+ra	16020
+vek	14128
+akn	1963
+knó	7580
+nói	9806
+ebÅ	4106
+bÅ	2889
+Åk	16909
+k 	15928
+ksl	7652
+ymy	15145
+ffk	4933
+rkf	11521
+ueu	13486
+edk	4145
+v w	14057
+wdy	14474
+f-r	4848
+u x	13321
+y x	14891
+xue	14840
+'ak	811
+qov	11149
+yae	14928
+l'd	7843
+v-m	14068
+a'q	1619
+'qu	919
+ y-	668
+yec	15008
+de-	3566
+ovk	10491
+w y	14410
+vge	14148
+ yf	673
+yfr	15039
+ouë	10479
+uël	14021
+hh 	5847
+yih	15074
+hhy	5853
+yip	15081
+psz	10952
+k z	7368
+azv	2429
+voz	14249
+joi	7200
+tzg	13182
+oez	10035
+obk	9945
+ivh	6856
+aea	1776
+ zd	692
+zdz	15479
+w z	14411
+zeâ	15508
+eâ	4790
+e	15774
+ev	15979
+á¸¤	17311
+¸¤e	16501
+¤en	16239
+h-b	5721
+-bl	989
+zoë	15626
+oë 	10626
+ltá	8312
+zsó	15651
+sóf	12669
+rÅ¯	11904
+Å¯Å	16994
+¯Å¾	16372
+¾iÄ	16600
+?ko	1509
+¡ z	16149
+zuz	15683
+ zy	704
+zyp	15705
+ypo	15211
+exb	4707
+xbu	14755
+osg	10391
+sgr	12256
+pfl	10785
+etw	4615
+abv	1696
+llc	8137
+lcr	7946
+ru-	11782
+ivu	6867
+uvu	13914
+vok	14235
+wam	14436
+éby	17600
+dèl	3922
+ntc	9596
+ssè	12478
+sèn	12638
+bni	2732
+woy	14603
+yeu	15025
+oib	10114
+ ng	420
+é w	17578
+djé	3674
+goï	5475
+oïm	10640
+ïmi	17909
+béd	2926
+ kw	338
+yew	15027
+baf	2561
+owu	10530
+foa	5017
+ko-	7583
+o-b	9889
+yaw	14946
+aw-	2334
+w-a	14412
+umf	13675
+ nz	433
+eky	4339
+yi-	15066
+i-h	6281
+rfs	11428
+fu-	5092
+u-a	13342
+oat	9930
+foh	5023
+uod	13736
+ggu	5340
+uob	13734
+su-	12529
+-ag	969
+si-	12294
+oo-	10293
+o-m	9899
+w.s	14420
+-pr	1132
+iyi	6899
+yie	15071
+olj	10190
+g-b	5215
+do-	3718
+o-k	9897
+ekw	4338
+o'q	9884
+twu	13145
+ufo	13503
+fo-	5016
+h-a	5720
+-ap	977
+bew	2642
+okw	10173
+xid	14788
+ozw	10596
+i-q	6287
+uaq	13375
+cug	3313
+quo	11171
+ga-	5238
+-kw	1081
+svä	12565
+vär	14356
+ärd	17392
+i-t	6290
+-tw	1175
+biw	2691
+iwo	6875
+wot	14599
+gok	5460
+abw	1697
+bwe	2852
+mwa	8976
+ipc	6703
+pch	10736
+kii	7513
+iih	6502
+soi	12405
+mwe	8977
+avj	2317
+vji	14192
+epk	4496
+uiy	13578
+ mw	397
+usy	13857
+pku	10852
+emj	4396
+nui	9639
+uyi	13948
+ipy	6719
+pye	11004
+ uh	606
+yia	15067
+yob	15179
+wuo	14652
+sék	12651
+bâ 	2903
+â a	17326
+mpâ	8885
+pât	11029
+âté	17357
+até	2273
+itò	6826
+tòn	13257
+òn 	17960
+nté	9622
+dié	3666
+ibé	6357
+ité	6825
+aïg	2494
+ïga	17903
+éto	17727
+keï	7474
+eït	4800
+kéb	7773
+ébé	17601
+é k	17567
+ibè	6356
+bè 	2914
+è m	17530
+xmo	14813
+élo	17652
+jeg	7095
+x f	14702
+ouo	10463
+é y	17580
+myb	8984
+kep	7463
+mup	8957
+tji	12948
+jiz	7153
+muo	8956
+-sp	1152
+oëb	10627
+ëb 	17777
+kua	7679
+rtb	11746
+vuu	14301
+jie	7133
+uih	13563
+fem	4914
+uwo	13926
+doj	3728
+biy	2693
+uoy	13755
+gba	5273
+oju	10148
+kij	7514
+aof	2104
+ja-	7037
+yod	15181
+nmi	9475
+npe	9536
+wue	14643
+yu 	15282
+zuo	15675
+uog	13738
+unm	13713
+uav	13380
+mkp	8795
+sij	12304
+ogb	10059
+wua	14639
+eju	4310
+juo	7258
+uom	13744
+r-o	11249
+-on	1117
+gbu	5280
+uju	13598
+nwo	9674
+wok	14592
+ekp	4332
+kpu	7619
+kky	7547
+egw	4230
+gwu	5586
+oyi	10560
+giw	5386
+aog	2105
+i-u	6291
+-uc	1178
+ugb	13516
+wud	14642
+-ob	1111
+suj	12539
+kpo	7618
+po-	10875
+o-u	9906
+ nn	425
+uje	13587
+evb	4656
+vba	14104
+me-	8696
+ gb	211
+ 'g	6
+'gb	859
+ioz	6698
+odl	9995
+uvw	13915
+vwi	14307
+jiu	7149
+iub	6829
+y-j	14906
+sá»	12626
+á»?	17321
+»?k	16516
+?ká	1513
+ká»	7761
+»? 	16515
+? j	1458
+wiw	14540
+yep	15021
+pob	10877
+omw	10240
+aiw	1916
+o-w	9907
+woc	14584
+ikp	6550
+kpe	7615
+'ku	888
+okp	10167
+goj	5459
+jis	7147
+zok	15608
+uoh	13739
+o-i	9895
+-iw	1063
+iwe	6873
+ nk	424
+-mb	1094
+ nw	431
+ewu	4701
+yiw	15087
+kpi	7616
+ oy	468
+emw	4408
+-oj	1114
+bop	2756
+odj	9993
+wth	14633
+pwa	10995
+r'a	11230
+nkg	9444
+kgo	7481
+es'	4558
+' t	800
+ijj	6523
+agw	1850
+peb	10751
+avb	2310
+gow	5471
+buu	2841
+qey	11118
+dii	3645
+iid	6499
+qow	11150
+fdh	4897
+i x	6258
+xus	14848
+caw	3036
+wl 	14552
+xam	14741
+cii	3160
+af'	1800
+f'a	4841
+nqa	9543
+ccu	3057
+eyu	4746
+ mk	388
+ewj	4692
+yik	15076
+mbw	8652
+ lw	363
+ mg	385
+mge	8733
+lyc	8374
+amw	2043
+mvu	8975
+vun	14296
+vua	14286
+ mr	392
+ofw	10052
+imw	6619
+ta-	12773
+ng'	9337
+g'a	5211
+apw	2147
+pyc	11002
+ycr	14978
+ahw	1883
+wav	14445
+avh	2315
+vhi	14154
+ohw	10102
+ixp	6887
+yuk	15293
+dzo	3888
+ljo	8109
+epw	4505
+dza	3882
+esr	4578
+uk-	13604
+uhw	13552
+uzv	13981
+mhl	8746
+mnk	8828
+ ml	389
+tsv	13069
+ mp	391
+mgu	8738
+umw	13690
+mdh	8686
+dhl	3624
+nhl	9381
+zii	15544
+ pf	476
+pfu	10789
+mkw	8798
+kao	7411
+ovu	10499
+vu 	14285
+dzw	3890
+ uj	607
+te-	12834
+q b	11065
+esg	4567
+jig	7135
+a'o	1618
+'od	904
+qin	11130
+ydb	14985
+wub	14640
+-eg	1016
+egz	4232
+gzi	5611
+iop	6690
+sqe	12442
+guj	5554
+qq 	11151
+ewd	4686
+wdi	14469
+ekd	4323
+sié	12325
+uum	13899
+la'	7884
+be'	2618
+e'u	4029
+'u 	939
+ytu	15280
+bsh	2802
+qo 	11144
+axu	2371
+osr	10402
+ yd	671
+yej	15015
+jju	7160
+qob	11145
+ypi	15209
+imè	6626
+mèn	9046
+ïd-	17894
+d-g	3472
+blè	2722
+lès	8462
+dhm	3625
+m'h	8574
+zér	15752
+unè	13729
+mef	8702
+okd	10157
+ghn	5353
+ïb 	17889
+emg	4394
+mgh	8734
+ujd	13586
+aïc	2490
+ïch	17892
+aïf	2493
+ïfi	17902
+éda	17612
+seï	12238
+eïd	4799
+fyi	5129
+t-l	12756
+gbé	5284
+édj	17615
+zod	15602
+ao-	2098
+o-z	9908
+d'j	3458
+'ja	884
+sèh	12636
+èho	17540
+uét	14018
+gbè	5283
+bèd	2916
+èdo	17537
+kér	7777
+éré	17709
+rék	11965
+kpé	7621
+ly-	8371
+y-q	14913
+iao	6316
+ïdo	17898
+sév	12657
+évé	17739
+éop	17683
+ubg	13392
+bga	2648
+lé-	8464
+é-o	17585
+uéd	14011
+ngè	9370
+gèl	5631
+ncé	9249
+ bè	99
+bèb	2915
+èbè	17533
+néw	9789
+éwe	17741
+méo	9057
+éog	17679
+Élo	17051
+dét	3939
+émy	17665
+gbw	5281
+u-e	13346
+-ek	1018
+oké	10177
+kén	7775
+daï	3524
+gmb	5420
+x-r	14728
+o'o	9882
+'o 	903
+uyé	13961
+yém	15368
+émé	17666
+rvé	11821
+béw	2937
+éwo	17742
+ba-	2555
+b -	2517
+ -d	15
+-dé	1011
+kié	7531
+sép	12654
+amf	2027
+uvé	13918
+foé	5043
+rc-	11328
+c-v	3005
+èse	17551
+go-	5449
+o-e	9892
+jeu	7108
+nsé	9587
+sée	12648
+rdz	11372
+omg	10225
+mgb	8732
+lo'	8201
+ukn	13615
+mtj	8935
+je-	7088
+t-j	12754
+zo'	15598
+luh	8321
+nâ	9756
+g	15775
+ga	15983
+néé	9791
+eu-	4629
+u-t	13355
+mnj	8827
+uej	13476
+ cô	130
+côm	3410
+izé	6934
+a-o	1632
+b y	2541
+ezg	4758
+foz	5040
+ m'	379
+m'b	8572
+odé	10008
+fof	5021
+ n'	414
+n'g	9149
+ce-	3066
+uoi	13740
+hnb	5944
+ kp	332
+uiw	13576
+nkp	9452
+a-n	1631
+t-t	12762
+zzu	15721
+fhi	4951
+vya	14310
+yny	15170
+toz	13016
+ufw	13509
+vuw	14302
+liw	8092
+gné	5444
+nké	9462
+ké 	7772
+aïn	2498
+ïna	17911
+yei	15014
+dsl	3787
+cya	3342
+gek	5309
+møs	9088
+s-x	12125
+-xa	1195
+lée	8468
+ooh	10300
+oh-	10084
+vén	14370
+aop	2114
+-cé	1001
+ubw	13404
+umv	13689
+mdl	8689
+ixy	6893
+xys	14858
+ukp	13617
+még	9053
+ob-	9936
+b-a	2546
+kpl	7617
+plé	10862
+tsr	13065
+èna	17544
+aov	2120
+wov	14601
+ayé	2406
+yév	15370
+m'r	8576
+'ra	921
+taï	12805
+aïe	2492
+ïef	17899
+ë b	17772
+uae	13365
+dbi	3529
+bsi	2803
+héd	6185
+emâ	4413
+mâa	9030
+âa 	17328
+icq	6371
+ouè	10477
+uèn	14005
+jdi	7080
+haâ	5775
+aâb	2460
+âba	17329
+moï	8863
+oïn	10641
+ïne	17912
+ïde	17896
+ïf 	17901
+-mk	1098
+p'o	10683
+'oj	907
+ngy	9363
+vum	14295
+nyw	9705
+-nt	1108
+olw	10203
+ka-	7396
+ ss	550
+ocw	9976
+cwi	3337
+myu	8997
+bwo	2854
+bii	2677
+p'b	10682
+'bi	827
+hém	6189
+émo	17663
+vug	14290
+ nt	429
+omv	10239
+iyb	6897
+vyu	14323
+nér	9786
+énu	17673
+maé	8633
+éch	17604
+ mt	394
+bav	2577
+mth	8933
+gcu	5288
+umz	13692
+agc	1832
+ohk	10092
+Å«j	16978
+«ji	16301
+iic	6498
+iij	6504
+atÅ	2270
+tÅ?	13209
+Å? 	16849
+ryu	11854
+aoy	2123
+rÅ?	11897
+keo	7462
+kih	7512
+miw	8773
+yaj	14933
+ijy	6532
+jyo	7279
+jiw	7151
+aok	2109
+ryÅ	11859
+yÅ?	15349
+Å?j	16858
+?ji	1503
+vdi	14115
+diÄ	3663
+irÅ	6755
+jya	7277
+Å«i	16977
+«ic	16300
+mii	8759
+nkÅ	9461
+kÅ?	7747
+kuj	7688
+yoy	15201
+bnj	2733
+Åy	16906
+ya	15922
+aoi	2107
+Å?s	16863
+?sa	1537
+fzo	5139
+orÅ	10375
+ndÅ	9282
+dÅ?	3900
+aij	1903
+otÅ	10443
+rsè	11739
+ tf	573
+eiy	4289
+jÅ?	7289
+sÅ?	12613
+Å?i	16857
+?ic	1497
+exc	4708
+xcl	14759
+asÅ	2237
+Å?f	16854
+?fu	1491
+suu	12550
+iin	6508
+aiÅ	1921
+iÅ?	6941
+Å?k	16859
+?ke	1507
+Å?t	16864
+?ta	1543
+ga/	5239
+a/j	1650
+/jo	1270
+jaÄ	7064
+aÄ?	2440
+nzÅ	9721
+zÅ?	15731
+? c	1451
+en'	4422
+n'z	9154
+'z 	949
+urÅ	13820
+gih	5372
+chÅ	3135
+hÅ?	6133
+Å?g	16855
+?go	1492
+?ju	1504
+?sh	1539
+?so	1541
+?to	1544
+hÅ«	6137
+Å«h	16976
+«he	16296
+rrè	11707
+eui	4638
+Å«z	16986
+«za	16320
+idÅ	6406
+fuy	5113
+niw	9413
+? d	1452
+mcb	8661
+cbr	3047
+Å?d	16852
+?dÅ	1483
+fül	5179
+dgs	3615
+etÅ	4620
+doi	3727
+giÅ	5390
+typ	13168
+eio	4279
+? e	1453
+izÅ	6931
+ézi	17746
+Å?y	16866
+?ya	1549
+itÅ	6821
+gyÅ	5605
+bäl	2906
+älz	17382
+910	1432
+102	1311
+02 	1290
+2 o	1340
+jii	7137
+ntÅ	9620
+? f	1454
+n'y	9153
+'ya	947
+kuo	7693
+kyu	7733
+Å?z	16867
+?za	1552
+fuw	5111
+f 1	4810
+ 19	23
+907	1430
+7 g	1400
+iuc	6830
+ke!	7445
+e! 	4021
+! g	778
+Å«g	16975
+«ga	16294
+? g	1455
+shÅ	12286
+yuj	15292
+ku'	7677
+u'u	13340
+? h	1456
+aoh	2106
+udÅ	13460
+oyÅ	10573
+azÅ	2434
+nug	9637
+fub	5094
+?jÅ	1505
+ioh	6683
+kiu	7524
+ohb	10086
+ijÅ	6533
+jÅ«	7291
+Å«r	16982
+«rÅ	16312
+« h	16281
+Å?n	16861
+?no	1523
+Åt	16904
+ts	15915
+wau	14444
+Ås	16903
+sa	15909
+sh	15911
+ohz	10104
+nsÅ	9586
+yui	15291
+ hÅ	250
+Å?c	16851
+?ch	1479
+?un	1547
+iuj	6835
+Å?m	16860
+?ma	1516
+Å?e	16853
+?et	1489
+jow	7213
+nbÅ	9229
+bÅ?	2887
+«sa	16313
+Å?r	16862
+?rÅ	1535
+njÅ	9436
+Å«d	16974
+«da	16293
+gÅ?	5618
+ydr	14995
+hyÅ	6120
+hyo	6112
+ibÅ	6354
+yuy	15307
+Åk	16899
+ko	15899
+uyÅ	13958
+iiz	6514
+eok	4474
+kkÅ	7549
+?ku	1510
+?ky	1511
+kyÅ	7735
+nÅ?	9739
+nuy	9653
+?ka	1506
+ioe	6680
+un'	13699
+'yÅ	948
+?yÅ	1551
+?su	1542
+ttÅ	13099
+'aq	817
+agÅ	1853
+wao	14438
+nrÅ	9554
+ck'	3183
+k's	7374
+er'	4518
+ngd	9342
+iuq	6842
+«go	16295
+joj	7201
+yua	15283
+ jÅ	309
+?kÅ	1512
+n'i	9150
+'ic	874
+«sh	16315
+thc	12881
+hcl	5794
+yoj	15187
+ru!	11780
+u! 	13329
+! k	780
+? k	1459
+ojÅ	10150
+Åg	16896
+gi	15892
+?se	1538
+riw	11494
+gyo	5596
+uzÅ	13984
+?zÅ	1555
+aek	1786
+zuf	15667
+Åm	16900
+mo	15903
+ta	15912
+iio	6509
+zuy	15682
+iit	6512
+oiw	10132
+oih	10120
+ohj	10091
+hji	5890
+tsÅ	13073
+sÅ«	12615
+hyu	6117
+joÅ	7217
+oÅ?	10604
+ozÅ	10599
+ kÅ	342
+Å?b	16850
+?bÅ	1477
+Å?h	16856
+?he	1493
+Å«a	16972
+«a 	16290
+«se	16314
+Å«m	16980
+«ma	16306
+ngÅ	9367
+ujÅ	13601
+aoz	2124
+«zÅ	16322
+nhÅ	9386
+Åh	16897
+ha	15893
+Å«y	16985
+«ya	16319
+afc	1802
+fca	4892
+rói	12001
+? m	1460
+hgu	5846
+lÃ¡	8408
+Ã¡r	16651
+¡r 	16199
+ky	15901
+?mu	1519
+Åb	16894
+ba	15883
+hi	15894
+eai	4071
+su'	12528
+u'o	13337
+?ru	1533
+hrg	6001
+yuh	15290
+iyÅ	6907
+ga	15891
+mÅ?	9017
+utÅ	13888
+? n	1461
+aoe	2103
+aej	1785
+yuu	15303
+uuk	13897
+jÅ¡	7290
+lfw	8039
+fwo	5120
+puu	10987
+Å«k	16979
+«ki	16302
+ Å	731
+Åe	16895
+e 	15884
+? o	1462
+oh!	10083
+h! 	5713
+Åi	16898
+is	15896
+? Å	1471
+ki	15898
+ku	15900
+i Å	6263
+mi	15902
+mu	15904
+Ån	16901
+ni	15905
+no	15906
+Åo	16902
+ok	15907
+se	15910
+?zu	1554
+«zo	16321
+te	15913
+to	15914
+nip	9406
+Åu	16905
+uc	15917
+cÄ	3366
+ o	15808
+ls'	8261
+Åz	16907
+zu	15923
+cíf	3397
+ífi	17821
+Åe	16914
+eh	15956
+ehÃ	4262
+hÃ¡	6126
+Ã¡k	16646
+¡k 	16175
+ttb	13080
+Åw	16926
+wi	16004
+puf	10975
+ffy	4943
+. y	1237
+ y.	669
+cuu	3325
+ikd	6541
+kdo	7443
+? r	1463
+« r	16286
+ r 	506
+«hÅ	16299
+ihÅ	6494
+«ko	16303
+«no	16310
+igÅ	6476
+syu	12591
+? s	1464
+7 s	1407
+xec	14765
+wn!	14566
+n! 	9144
+! s	782
+okÅ	10176
+?de	1481
+aoc	2101
+?na	1520
+u's	13338
+zug	15668
+ezÅ	4773
+nnÅ	9498
+?em	1486
+?me	1517
+?ni	1522
+ow=	10512
+w=t	14421
+=ta	1449
+ukÅ	13626
+ka	15897
+«me	16307
+ei'	4264
+kyw	7734
+ywr	15325
+epy	4506
+oej	10022
+ogÅ	10077
+ sÅ	558
+t.f	12768
+.fr	1249
+? t	1465
+Å?Å	16868
+?Å?	1558
+ikÅ	6559
+?hÅ	1495
+tuz	13127
+ 47	31
+47 	1369
+ tÅ	588
+ta.	12774
+a..	1642
+...	1241
+.. 	1240
+ohÅ	10106
+969	1444
+69 	1397
+9 t	1427
+ t	15844
+siw	12317
+Å«t	16984
+«ta	16318
+? u	1466
+« u	16289
+uuz	13904
+? w	1468
+xu 	14838
+« j	16283
+«be	16292
+?e 	1484
+?ze	1553
+? y	1469
+?in	1499
+«ho	16298
+«re	16311
+uuj	13896
+uuc	13894
+uuy	13903
+ Å	15847
+ Å½	735
+Å½e	17005
+½el	16580
+méï	9063
+éït	17747
+ïté	17919
+vgr	14151
+d'h	3456
+evé	4680
+chê	3141
+hên	6196
+êne	17759
+wui	14647
+llè	8164
+lèm	8459
+ème	17543
+éno	17672
+adé	1772
+ttr	13092
+xah	14737
+eao	4076
+pél	11043
+onp	10274
+npl	9539
+hép	6192
+owc	10515
+wcr	14462
+éau	17594
+caq	3030
+uot	13750
+upu	13776
+luè	8343
+uèr	14006
+mmr	8816
+uvr	13912
+oip	10127
+xpi	14824
+ojè	10151
+jèv	7307
+ève	17554
+oyr	10567
+fèb	5153
+èbv	17532
+péc	11039
+écl	17606
+ffè	4944
+èri	17548
+lép	8476
+épi	17689
+épo	17691
+ncq	9239
+océ	9979
+céa	3385
+hré	6015
+llf	8140
+ucs	13425
+ojz	10149
+jze	7282
+txu	13152
+xur	14847
+mél	9055
+rça	11941
+çay	17497
+oag	9918
+fiè	4982
+reï	11414
+eï 	4798
+veu	14138
+héb	6183
+ébu	17599
+ucq	13423
+fèv	5155
+èvr	17555
+urç	13823
+çat	17496
+évê	17740
+vêq	14376
+êqu	17764
+ahé	1889
+sén	12653
+téc	13239
+cmé	3230
+ulx	13656
+lx 	8369
+nh 	9375
+icé	6378
+cée	3388
+azé	2436
+zém	15750
+éma	17660
+owb	10514
+wbr	14455
+wia	14522
+gaë	5268
+aët	2478
+ëta	17790
+lèr	8461
+béc	2925
+bét	2936
+arê	2203
+rêm	11979
+ême	17755
+géb	5636
+oyp	10566
+vox	14247
+'co	835
+fév	5165
+ubè	13410
+bèr	2920
+euq	4645
+uiè	13580
+xup	14845
+upé	13780
+sgo	12255
+dén	3935
+tiè	12942
+liè	8100
+mpé	8888
+Éte	17065
+rbè	11322
+eoi	4472
+vée	14366
+éel	17620
+le/	7988
+e/s	4058
+/si	1274
+icr	6372
+'os	912
+rdè	11377
+dèr	3923
+vue	14289
+ohé	10109
+lfu	8038
+lmè	8185
+mès	9048
+hoë	5988
+yrè	15241
+rèr	11951
+urè	13824
+rèl	11949
+cuv	3326
+lèl	8458
+tég	13241
+égu	17631
+h É	5711
+diè	3665
+vui	14291
+'he	866
+önb	18086
+beñ	2647
+ygl	15048
+omè	10249
+mèd	9045
+ède	17536
+faÿ	4889
+aÿ 	2515
+ÿ b	18448
+cép	3390
+épè	17693
+pèd	11034
+maî	8635
+aît	2487
+îtr	17884
+foi	5024
+mâc	9031
+âch	17331
+miè	8781
+ièg	6969
+ège	17538
+zén	15751
+udé	13462
+rèn	11950
+bix	2692
+enè	4456
+nèr	9771
+néd	9778
+Ä?á	16757
+?áº	1560
+áº¡	17317
+º¡i	16511
+¡i 	16170
+báº	2901
+áº£	17318
+º£o	16512
+£o 	16235
+háº	6149
+áº¯	17319
+º¯n	16513
+¯ng	16369
+uaf	13366
+cgo	3103
+roü	11663
+oüa	10649
+üan	18322
+'en	849
+égr	17630
+ynl	15161
+oeu	10031
+'ho	868
+uvo	13911
+itf	6803
+hiè	5885
+oyz	10572
+l x	7829
+ xv	665
+xvi	14851
+niè	9420
+rwy	11828
+eot	4482
+céc	3386
+léc	8467
+uau	13379
+'ou	914
+bém	2932
+édo	17616
+oyè	10575
+yèr	15365
+epé	4509
+ému	17664
+ té	591
+'eu	853
+tzr	13192
+dâ	3915
+an	15971
+§oi	16267
+f.x	4856
+.x.	1266
+nêt	9794
+êt 	17768
+çon	17513
+n.f	9180
+'zo	950
+nzé	9724
+pég	11042
+viè	14187
+bhr	2660
+laé	7916
+'eo	850
+loé	8231
+cév	3393
+vaë	14103
+aër	2476
+ër 	17786
+cuf	3312
+wyt	14676
+mév	9061
+veq	14134
+éot	17685
+Épa	17059
+húm	6222
+úme	18293
+eté	4623
+gwo	5584
+vét	14373
+béb	2924
+biè	2698
+méz	9062
+uéa	14008
+aké	1977
+kél	7774
+ése	17713
+iép	6982
+í c	17798
+glé	5415
+poé	10902
+oés	10624
+ésy	17720
+tôm	13266
+neq	9311
+nég	9780
+brÃ	2781
+rÃ¢	11882
+Ã¢n	16659
+¢nc	16228
+cuÅ	3329
+évo	17735
+rmè	11590
+v.s	14073
+cp 	3268
+uzn	13977
+fyd	5125
+ydd	14986
+cgu	3105
+dhy	3633
+sq 	12441
+q d	11067
+hié	5886
+ièl	6970
+'gu	863
+olè	10210
+déd	3929
+crè	3284
+Éth	17066
+12t	1315
+2th	1349
+uéc	14010
+éco	17607
+règ	11948
+gby	5282
+khv	7498
+chv	3130
+n É	9136
+Édi	17044
+f É	4839
+gyn	5595
+yné	15175
+néc	9777
+déo	3936
+mpk	8872
+é É	17583
+réz	11976
+rtè	11774
+tès	13237
+x É	14723
+nét	9788
+u É	13327
+vié	14188
+Å¢e	16965
+¢ep	16227
+ Ä?	721
+?ur	1548
+dyd	3864
+dyi	3868
+o'k	9878
+'ke	886
+dmé	3704
+ bÅ	93
+bÅ	2890
+Åu	16913
+uf	15936
+daë	3522
+ële	17780
+ást	17283
+vÄ	14332
+cÄ	15812
+re	15820
+thè	12902
+hèr	6179
+af	16033
+égé	17632
+'am	813
+faé	4887
+bég	2928
+ilà	6590
+à e	17161
+iÅ£	6948
+Å£Ä	16968
+£Ä	16236
+ e	15807
+eyè	4751
+yès	15366
+nuè	9657
+uèl	14004
+osf	10390
+stw	12509
+wÅ	14682
+År	16912
+rt	15934
+h Ã	5709
+ Ã	717
+Ãr	16629
+ri	15879
+in/	6634
+n/m	9183
+/me	1271
+flé	5001
+féb	5157
+emè	4415
+mèr	9047
+séb	12645
+éba	17595
+atg	2250
+re'	11381
+e'b	4024
+'bl	828
+ésu	17719
+l'h	7845
+d'É	3465
+'Ég	953
+Égl	17047
+'ol	908
+orè	10377
+dms	3699
+owk	10521
+wke	14548
+fcf	4894
+cf 	3091
+uié	13581
+réo	11969
+éol	17680
+lcy	7948
+amè	2050
+mèc	9044
+hée	6186
+néo	9784
+éca	17602
+pya	11000
+iug	6833
+iéf	6979
+féo	5162
+olq	10197
+c f	2979
+isq	6782
+éos	17684
+rbé	11323
+pée	11041
+réq	11971
+équ	17695
+quy	11176
+iés	6984
+mpv	8882
+pva	10993
+ufc	13495
+fch	4895
+ufv	13508
+etê	4624
+têt	13249
+ête	17769
+biq	2685
+mét	9060
+ilâ	6592
+lât	8443
+âtr	17356
+iét	6985
+ëll	17782
+éal	17588
+emé	4416
+ièt	6973
+ète	17552
+déh	3931
+éhu	17635
+uté	13890
+phé	10810
+gme	5421
+fér	5163
+nüe	9826
+üe 	18335
+séa	12644
+éai	17587
+xin	14796
+gji	5395
+jèz	7308
+èze	17556
+réb	11957
+udè	13461
+gaé	5267
+aét	2473
+éta	17723
+uët	14023
+ët 	17789
+géd	5637
+ièv	6974
+ndô	9289
+dôm	3956
+rpy	11678
+néz	9790
+ziè	15562
+frê	5060
+rêc	11978
+êch	17754
+hüe	6226
+iès	6972
+prê	10934
+rêt	11981
+êtr	17770
+rnl	11607
+frè	5058
+Ät	16765
+ti	15822
+tÄ	13204
+tÄ	15824
+hca	5790
+atè	2272
+tèr	13236
+vré	14264
+xlo	14809
+bón	2947
+zoz	15622
+ndd	9259
+awc	2337
+wcz	14463
+'hé	870
+sès	12640
+'hô	871
+hôp	6201
+ôpi	18039
+ytr	15277
+'Ét	955
+nct	9242
+môq	9078
+ôqu	18040
+ovè	10506
+gwl	5582
+lry	8259
+büs	2971
+uzé	13985
+caë	3041
+aë 	2474
+ë h	17774
+uém	14013
+vex	14140
+évr	17736
+bÅ	2888
+Åo	16881
+oÅ	15800
+oÅ	10606
+gfe	5324
+wra	14609
+ség	12649
+du	15813
+£iu	16234
+véd	14365
+ubÅ	13408
+scq	12194
+eua	4630
+a Í	1604
+jáu	7298
+áur	17294
+khé	7501
+inè	6665
+ném	9782
+zzh	15716
+uép	14015
+ysm	15257
+crÃ	3283
+rÃ¨	11884
+Ã¨v	16680
+¨ve	16274
+ecÅ	4131
+cÅ	3368
+ur	15937
+oyv	10571
+tér	13245
+rèd	11947
+rèz	11953
+njé	9438
+jé 	7309
+siè	12324
+ixm	6885
+Éta	17064
+tzj	13185
+bié	2699
+fyt	5134
+hjä	5893
+ärp	17396
+nnk	9489
+ dÄ	151
+otx	10439
+txo	13151
+xoa	14816
+ jc	293
+jc 	7074
+cié	3178
+usé	13861
+blé	2723
+uyè	13960
+çai	17488
+éou	17686
+an/	2059
+n/h	9182
+/ha	1269
+séc	12646
+ypp	15212
+éde	17613
+Élé	17054
+lég	8469
+xai	14738
+jhe	7124
+wfo	14508
+ccr	3056
+zly	15580
+ldc	7960
+dca	3538
+xet	14774
+ Óg	759
+Óge	17084
+iea	6412
+xar	14746
+lbè	7934
+bèn	2918
+biÅ	2696
+ mô	409
+môl	9077
+ôle	18034
+apg	2133
+pgr	10793
+déj	3932
+éja	17641
+'of	905
+bât	2905
+âth	17354
+ixh	6883
+xha	14781
+ pâ	491
+pâr	11028
+âri	17350
+deñ	3598
+ñan	17927
+zám	15737
+ámi	17242
+zaÅ	15453
+Åu	16882
+us	15802
+jÃ³	7286
+Ã³z	16705
+³ze	16476
+d'u	3463
+'ur	943
+igé	6478
+mên	9064
+lpy	8248
+lgy	8054
+uxa	13929
+ruÅ	11809
+¡ai	16156
+fét	5164
+néb	9776
+swy	12573
+ynf	15155
+bèq	2919
+èqu	17546
+pwo	10998
+o't	9887
+c k	2984
+kév	7779
+coö	3266
+oön	10647
+ïel	17900
+lzy	8406
+séj	12650
+éjo	17643
+baï	2585
+ewr	4698
+wry	14616
+ièc	6968
+ècl	17535
+p É	10680
+l É	7835
+rér	11972
+fe'	4900
+jég	7310
+uxi	13934
+lân	8442
+âne	17345
+oïc	10639
+ïc 	17891
+boë	2769
+icg	6365
+cg 	3095
+séd	12647
+ïle	17907
+lâg	8440
+âge	17334
+'Év	956
+Évr	17071
+'Ép	954
+Épi	17060
+Éra	17062
+âti	17355
+jox	7214
+szu	12605
+ebè	4109
+Émo	17058
+uvy	13916
+uxc	13931
+xce	14757
+ége	17625
+ læ	370
+læt	8454
+æti	17472
+'ac	805
+déc	3928
+dém	3934
+uex	13488
+c u	2993
+ckè	3209
+kèr	7771
+ayó	2407
+yón	15372
+éru	17706
+chè	3139
+vaé	14102
+60 	1388
+ooc	10295
+btr	2817
+déa	3926
+eoy	4486
+szc	12595
+zcz	15468
+zyÅ	15710
+yÅ	15351
+cba	3044
+abg	1684
+bgr	2652
+cup	3321
+coû	3267
+oût	10648
+ûte	18312
+huo	6070
+oté	10445
+kÅ	7749
+Ån	16911
+ni	15933
+héa	6182
+rlè	11565
+çab	17487
+mpp	8877
+ryv	11855
+lmé	8186
+tco	12823
+huè	6085
+égn	17628
+ckx	3205
+kx 	7717
+dèc	3921
+béj	2930
+lbw	7932
+scè	12198
+cèv	3383
+aïw	2502
+ïwe	17920
+écu	17610
+ésè	17722
+sèq	12639
+eog	4470
+güé	5677
+üé 	18427
+oxc	10537
+xci	14758
+'dr	842
+niç	9419
+l'É	7851
+Épé	17061
+clè	3220
+lc 	7938
+hèl	6177
+rrh	11693
+azt	2427
+hès	6180
+k É	7372
+c É	3000
+nq 	9542
+grm	5491
+191	1331
+918	1434
+18 	1323
+8 m	1415
+tgo	12874
+ïse	17915
+ové	10507
+rqá	11687
+qá 	11188
+ylè	15128
+noï	9534
+oï 	10638
+nyc	9687
+lyz	8394
+wsy	14630
+ê n	17751
+uyê	13962
+yên	15371
+ên 	17756
+taë	12803
+igè	6477
+ssv	12475
+bèg	2917
+ègu	17539
+'om	909
+olò	10213
+lò 	8494
+épc	17687
+pce	10734
+'oy	915
+yly	15125
+brû	2792
+rûl	12043
+ûla	18311
+nép	9785
+ucè	13431
+cèn	3382
+obj	9944
+nvy	9665
+laî	7918
+962	1439
+62 	1389
+été	17730
+mbè	8655
+hsé	6034
+apé	2149
+grÄ	5497
+ p	15809
+rbÄ	11319
+bÄ	2883
+gpr	5480
+ulè	13662
+lèd	8457
+uzc	13968
+ilè	6593
+ébi	17597
+gès	5634
+xad	14735
+ykr	15103
+'hu	869
+rço	11943
+ kü	349
+kün	7801
+côt	3411
+ôté	18042
+guê	5571
+uêp	14020
+êpi	17762
+piè	10840
+exè	4723
+xès	14862
+ogè	10078
+uyx	13957
+yxo	15327
+evè	4679
+vèn	14360
+'iv	883
+ë p	17775
+gax	5262
+axo	2368
+ï p	17886
+què	11178
+'ib	873
+méh	9054
+pib	10813
+puv	10988
+ pè	493
+pèi	11035
+èir	17541
+ Éc	744
+Éco	17041
+ 18	22
+183	1325
+830	1418
+30 	1353
+0 p	1279
+vèr	14361
+pró	10935
+ósp	18021
+g q	5199
+x q	14713
+qia	11120
+qu 	11162
+ékh	17644
+guè	5569
+gém	5639
+'bo	829
+bef	2625
+esè	4589
+sèz	12642
+féc	5158
+vab	14078
+uym	13951
+réh	11962
+hâb	6151
+âbl	17330
+gât	5628
+haü	5779
+aüy	2514
+üy 	18416
+alè	2012
+rhé	11469
+tiú	12945
+iúi	7006
+úit	18286
+teá	12862
+eár	4788
+réj	11964
+éje	17642
+h	15776
+ho	15984
+maç	8632
+éso	17715
+péb	11038
+mnè	8831
+saü	12175
+osj	10394
+fsh	5071
+mbs	8649
+rép	11970
+épy	17692
+ï s	17887
+hsd	6021
+sél	12652
+vég	14367
+égh	17626
+opc	10320
+ sâ	560
+sâr	12628
+âr 	17349
+byw	2872
+mlo	8805
+crê	3286
+nèv	9773
+Éma	17055
+péd	11040
+yvr	15315
+'ao	815
+évè	17738
+uou	13751
+rq 	11682
+q t	11081
+ fè	205
+cyg	3347
+nèd	9770
+. x	1236
+wlt	14559
+cgh	3099
+cnu	3234
+x t	14716
+ul.	13632
+l..	7879
+boé	2768
+oét	10625
+jdú	7086
+ú É	18273
+écr	17608
+ tê	592
+é u	17576
+. u	1233
+xpó	14826
+pós	11056
+oén	10623
+Éva	17068
+e È	4015
+ Èv	743
+Ève	17039
+v.i	14072
+.i.	1252
+i.s	6298
+s.a	12128
+dbu	3534
+lyf	8377
+féz	5166
+h.t	5742
+.t.	1264
+ulê	13664
+lêm	8482
+'de	839
+awt	2353
+wtr	14635
+ynk	15160
+kyn	7728
+c x	2996
+x x	14720
+h x	5705
+khn	7491
+x y	14721
+rd'	11349
+c z	2998
+zoé	15625
+qun	11170
+agv	1849
+oÅ¼	10612
+¼ar	16524
+ao	16082
+rút	12042
+úta	18307
+ziw	15557
+iÅ	6942
+ÅÅ	16884
+Å	15805
+ a	15778
+gsk	5517
+tyu	13172
+edc	4137
+dyu	3877
+zyr	15706
+ups	13774
+rym	11847
+kvy	7708
+ebz	4105
+dzy	3891
+zhk	15524
+zny	15594
+lzh	8399
+zdo	15475
+ovc	10484
+vti	14280
+ovt	10498
+vts	14282
+yts	15278
+xov	14822
+vzo	14327
+rvu	11818
+asy	2233
+ lü	377
+lüd	8530
+zhm	15526
+fyo	5132
+ybn	14962
+xej	14769
+nsy	9583
+lii	8078
+ibk	6341
+zhv	15531
+iap	6317
+obc	9939
+fii	4964
+iia	6497
+ubs	13401
+hpa	5989
+kny	7579
+vsi	14270
+fye	5126
+yey	15029
+vys	14321
+stc	12490
+zts	15656
+pyl	11006
+ylk	15115
+loj	8212
+jza	7281
+vyr	14320
+abc	1681
+byo	2867
+ld'	7956
+zhs	15529
+hsk	6025
+lng	8192
+çe 	17499
+ b	15779
+bzu	2876
+ bg	80
+bgn	2650
+gn/	5427
+n/p	9184
+/pc	1272
+pcg	10735
+cgn	3102
+usÅ	13859
+tzy	13197
+zyb	15697
+ryz	11858
+yzl	15340
+vyc	14311
+buv	2842
+ssr	12471
+ bz	91
+gzo	5612
+ c	15780
+ecy	4129
+cyl	3348
+sfs	12248
+fsr	5075
+ÿ c	18449
+wlo	14557
+ukc	13607
+fäy	5150
+äyz	17410
+ cä	125
+cäw	3379
+äwd	17409
+wdä	14475
+dät	3917
+ät 	17401
+rlä	11564
+pae	10703
+vyd	14312
+syg	12581
+etd	4600
+ovg	10487
+vgo	14150
+zhl	15525
+evm	4667
+vme	14213
+ubt	13402
+bts	2818
+dmy	3702
+ dn	142
+ d	15781
+oÅ	10605
+aj	15792
+ymi	15137
+a â	1607
+â	17358
+ 	15769
+ p	15931
+okc	10156
+náp	9750
+ápr	17259
+vní	14223
+ník	9798
+evk	4665
+elÅ	4373
+lÅ¼	8421
+Å¼b	17002
+¼bi	16525
+utd	13867
+utv	13883
+ozl	10588
+dkl	3679
+brs	2776
+ow	15799
+aep	1791
+ fä	204
+fär	5149
+tvo	13135
+Ãl	16622
+lm	15827
+lmÃ	8183
+mÃ¶	9010
+Ã¶x	16714
+¶xÃ	16494
+xÃ¤	14859
+Ã¤m	16664
+¤mm	16241
+mmÃ	8821
+mÃ¤	9007
+Ã¤d	16662
+¤de	16238
+ Ä	723
+ÄÃ	16794
+Ã¤	16054
+Ã¤z	16667
+¤zi	16245
+zpr	15630
+pgi	10792
+ wr	649
+gm 	5418
+j g	7013
+gtp	5538
+tpo	13023
+xil	14794
+krt	7632
+euj	4639
+ujm	13593
+ g	15782
+üsh	18405
+rmf	11574
+mfe	8725
+häg	6160
+ägg	17377
+euh	4637
+dzk	3886
+ h	15783
+vha	14152
+bsd	2799
+sd?	12201
+d? 	3490
+ kd	322
+de2	3567
+e2 	4059
+2 u	1341
+l'Ä	7850
+'Ä?	952
+vkh	14196
+svy	12562
+tÅ	13211
+°ls	16381
+yzg	15337
+hrz	6012
+obt	9952
+t Ä	12732
+mlÃ	8808
+ply	10859
+avv	2326
+vvi	14306
+vïs	14385
+ïsh	17916
+ j	15784
+ jä	311
+jäg	7300
+tss	13066
+uhj	13542
+uxb	13930
+xba	14752
+rnr	11611
+'ro	924
+ewg	4689
+wgo	14513
+üri	18393
+czo	3360
+°sx	16394
+sxa	12574
+xaq	14745
+mån	9038
+åns	17426
+ k	15785
+ómm	17998
+hpi	5991
+Å¡v	16961
+¡va	16216
+gyr	5598
+ed'	4133
+d'k	3459
+'ko	887
+yuo	15297
+yry	15240
+vyk	14316
+ykt	15105
+ ks	334
+gyz	5603
+yz 	15334
+acb	1713
+cbe	3045
+vap	14091
+pny	10873
+chz	3133
+hzh	6123
+gÄ?	5616
+Ä?z	16754
+tör	13272
+vr 	14252
+ lc	353
+hrÅ	6014
+rÅ	11900
+Åo	16928
+on	16017
+or'	10346
+r'k	11232
+Å»e	16999
+»el	16518
+ucj	13419
+cja	3181
+ngq	9355
+gqu	5483
+ l	15786
+tvy	13137
+ m	15787
+zno	15593
+fvu	5117
+vud	14288
+ltc	8292
+'sk	929
+htr	6048
+vtz	14284
+obm	9947
+tju	12950
+ygm	15049
+esÅ	4586
+vyo	14319
+sÑ?	12616
+Ñ?o	17079
+?ot	1529
+j v	7027
+nÄ	9736
+Ã¤	16129
+Ã¤l	16663
+¤li	16240
+rsÃ	11738
+sÃ¤	12609
+Ã¤y	16666
+¤ye	16244
+rdw	11370
+iky	6557
+ ms	393
+pym	11007
+ nä	435
+näc	9759
+äci	17369
+asv	2231
+iÅ¾	6950
+Å¾ 	17009
+yzh	15338
+vav	14097
+vto	14281
+ o	15840
+gnj	5432
+otd	10421
+tdy	12831
+pts	10962
+vsy	14276
+dyz	3879
+tly	12969
+ivt	6866
+yg 	15041
+oxy	10550
+j o	7021
+paf	10704
+pÄ	11019
+Ät	16777
+te	15935
+goÅ	5474
+Å 	16885
+ârv	17351
+ezs	4767
+apk	2137
+zva	15684
+yln	15118
+vly	14207
+mop	8849
+yax	14947
+täm	13228
+äm 	17383
+zhy	15532
+aeo	1790
+ge/	5298
+e/r	4057
+/ru	1273
+ rz	518
+mtc	8930
+mve	8971
+díq	3947
+íqo	17857
+vva	14305
+iuz	6850
+hnu	5954
+vno	14219
+ovj	10490
+vje	14191
+zye	15698
+trz	13036
+zvy	15689
+ueï	13491
+Ã¤r	16665
+¤rc	16243
+ih	16046
+ský	12354
+ký 	7803
+yná	15173
+uxh	13933
+xho	14783
+zdn	15474
+ s	15788
+rzÃ	11877
+zÃ³	15727
+Ã³s	16704
+³sk	16475
+czÄ	3363
+zÄ	15729
+Äs	16779
+sn	15995
+avk	2318
+ t	15789
+tsï	13074
+sï 	12665
+ï t	17888
+zh 	15519
+bdr	2612
+zvj	15687
+vja	14190
+syp	12587
+ypl	15210
+vop	14240
+hkl	5900
+ajb	1925
+jbe	7070
+yuf	15288
+b v	2539
+vtu	14283
+zwo	15694
+vow	14246
+ vs	630
+ehv	4258
+küc	7798
+oc	15796
+od	15797
+xay	14751
+g x	5206
+p x	10675
+ev	16099
+v x	14058
+ xÃ	666
+xÃ¶	14860
+Ã¶s	16713
+¶sÃ	16493
+mlâ	8809
+lâ 	8439
+â y	17327
+yañ	14953
+sss	12472
+väl	14355
+älb	17381
+vyi	14315
+gip	5380
+nf 	9323
+ytk	15272
+ zn	698
+zoy	15621
+ z	15790
+dyÅ	3880
+Åk	16886
+ko	15826
+dzm	3887
+ykw	15107
+Å»a	16998
+»ak	16517
+aÅ­	2451
+Å­ 	16987
+­ f	16324
+huÅ	6082
+¡ev	16168
+ciÅ	3176
+¡ak	16157
+zdy	15478
+hyk	6108
+ipg	6705
+pga	10791
+guk	5555
+Ä?m	16746
+?mi	1518
+oÅ­	10611
+Å­s	16988
+­sk	16351
+uÅ	13990
+aÅ	15794
+Å¡Ä	16963
+¡Ä?	16222
+Ä?y	16753
+?yk	1550
+ol'	10179
+apc	2129
+ryf	11840
+yja	15092
+jaÅ	7065
+­ p	16327
+yp 	15204
+roÅ	11660
+htv	6051
+dny	3712
+Å½y	17008
+½yÅ	16585
+yÅ	15350
+ uÅ	621
+pty	10964
+iaÄ	6328
+ Å¹	734
+Å¹m	16997
+¹mi	16503
+wa-	14423
+ c	15806
+ cv	119
+cve	3332
+v -	14035
+iys	6902
+opt	10334
+gjo	5396
+mrk	8895
+v-g	14066
+ÄÅ	16793
+Å¡	16028
+Å¡Ã	16962
+¡Ã­	16221
+Ã­n	16693
+­n 	16341
+vtc	14278
+toÅ	13018
+ubÄ	13407
+?o 	1527
+-em	1020
+-ac	966
+07â	1296
+7â	1411
+2	15770
+20	15932
+009	1288
+09 	1298
+9 m	1425
+mep	8712
+v Ð	14063
+ Ð¾	756
+Ð¾f	17078
+op-	10317
+p-a	10685
+aÅ¾	2453
+¾in	16599
+v-v	14070
+ovr	10496
+ldz	7978
+-ts	1173
+ zl	697
+06 	1294
+6 p	1387
+s 6	12065
+ 68	34
+ouÅ	10475
+¡ a	16133
+íns	17851
+ká 	7754
+skÃ	12351
+kÃ½	7745
+½ a	16562
+Å¡o	16958
+¡ov	16194
+vrz	14261
+zÃ¡	15724
+¡Å	16223
+Åo	16892
+ov	15877
+leÅ	8016
+eÅ¡	4784
+lÃ­	8412
+pÃ­	11016
+Ã­Å	16701
+­Å¡	16359
+ep	15887
+piÄ	10837
+ejk	4302
+ryá	11860
+yák	15359
+ák 	17224
+háb	6141
+owr	10527
+zní	15596
+¡Ã¡	16220
+Ã¡t	16653
+¡tk	16210
+jzy	7283
+dyt	3876
+trt	13033
+gág	5623
+ág 	17216
+oÅ	10607
+Å 	16888
+ a	15865
+aÅ	2445
+Åa	16889
+a 	15871
+Ä?a	16736
+?ap	1474
+abà	1702
+bàt	2894
+àto	17173
+ý a	18429
+ubá	13409
+bál	2898
+tný	12989
+ný 	9833
+rük	12049
+ükl	18350
+záp	15739
+ápo	17258
+cký	3210
+dlÃ	3692
+Ã¡Ä	16656
+á b	17175
+záh	15734
+áhl	17218
+vá-	14339
+á-s	17194
+trý	13049
+rýc	12056
+ýco	18445
+iký	6560
+ý b	18430
+ii.	6496
+dÅ	3903
+Åi	16918
+ic	15985
+znÃ	15595
+½ b	16563
+ulÅ	13660
+lÅ¯	8419
+Å¯ 	16989
+¯ b	16364
+slá	12366
+lám	8431
+eÅ¾	4786
+Å¾a	17010
+¾al	16590
+hÅ	6134
+ou	15876
+siÅ	12322
+½ z	16576
+nÅ¯	9744
+Äj	16785
+Ã­p	16695
+­pe	16347
+boÅ	2767
+oÅ	10608
+Åe	16917
+ek	15975
+oj 	10136
+bÅ	2891
+et	15978
+zÃ­	15726
+Ã­b	16686
+­br	16331
+brt	2777
+ Ä	722
+en	15886
+nÄ	9735
+Äk	16786
+k 	16011
+ycp	14977
+cpÃ	3272
+pÃ¡	11015
+Ã¡l	16647
+¡le	16181
+es	15889
+tmÃ	12979
+mÃ­	9009
+Ã­r	16696
+­r 	16348
+lsf	8268
+ ct	117
+edÄ	4160
+dÄ	3897
+Äl	16787
+l 	16012
+ý c	18431
+áse	17277
+vob	14227
+veÅ	14144
+¡kr	16179
+krn	7630
+¡ d	16134
+zát	15741
+áto	17291
+árt	17272
+ína	17844
+zít	15754
+ítk	17868
+bÃ¡	2877
+ylí	15129
+oÄ?	10602
+Ä?Ã	16755
+?Ã­	1557
+­ d	16323
+ejÄ	4314
+stÅ	12512
+tÅ	13210
+ih	15986
+hlá	5922
+lád	8427
+ádk	17210
+Äp	16789
+po	16018
+Å¾Ã	17014
+¾Ã­	16602
+duÅ	3839
+¡an	16158
+eÅ	15982
+¡tÃ	16213
+tÃ­	13201
+¡ e	16135
+liÅ	8098
+srb	12447
+?ov	1530
+iÄ	15989
+?nÃ	1525
+nÃ¡	9727
+alý	2018
+lý 	8537
+ý f	18432
+p Å	10678
+lvÃ	8355
+bÄ	2884
+Äh	16784
+ho	16008
+Ã­l	16691
+­le	16338
+rmÃ	11584
+drd	3755
+­Å¾	16360
+Å¾Ä	17015
+¾Ä?	16603
+?al	1472
+drt	3760
+jtl	7240
+hÃ¤	6127
+Ã¤c	16661
+¤ck	16237
+jeÅ	7114
+¾ f	16587
+avÃ	2328
+klÃ	7557
+Ã¡c	16642
+¡ce	16161
+omÅ	10245
+mÅ	9019
+ac	15872
+ckÃ	3207
+½ f	16565
+kÅ	7750
+iÅ	15990
+pka	10848
+¡ f	16136
+eÅ	4782
+in	15988
+plÃ	10860
+¡ni	16192
+spÃ	12435
+¡il	16171
+chÃ	3134
+Ã¡z	16655
+¡zk	16219
+ f	15866
+frÃ	5056
+rÃ¡	11881
+¡ne	16190
+mÅ¯	9022
+Å¯n	16992
+¯ne	16368
+Ã¡m	16648
+¡ma	16186
+lÃ½	8415
+vlÃ	14208
+?il	1498
+Ã¡v	16654
+¡vi	16217
+hÃ¶	6128
+¶nb	16486
+á g	17180
+klí	7562
+ukl	13613
+ gÅ	224
+gÅ	5619
+os	15798
+áln	17235
+usá	13860
+sák	12621
+á h	17181
+dlí	3694
+íko	17829
+¡ko	16178
+¡ h	16137
+cká	3208
+drÃ	3765
+tlí	12972
+pík	11050
+íka	17828
+yr-	15221
+jmo	7177
+gnÃ	5439
+¡c 	16160
+c Å	2999
+pÃ	16019
+¡no	16193
+Ã¡-	16640
+¡-k	16152
+¡ i	16138
+blÃ	2720
+Ã¡h	16644
+¡ha	16169
+noÅ	9530
+­ i	16325
+aÅ	2446
+Åo	16921
+ov	15994
+rád	11910
+ádl	17211
+nl 	9463
+kaÄ	7422
+¡Å	16224
+Å 	16915
+ i	15958
+Äu	16774
+ut	15921
+¡ j	16139
+sní	12394
+piÅ	10838
+krÄ	7637
+smr	12377
+rÅ¾	11905
+¾ j	16588
+orÃ	10373
+ybÃ	14968
+mrs	8898
+¾el	16593
+váp	14347
+ápe	17257
+¡ta	16208
+eÄ	15981
+eÄ?	4777
+ez	15980
+Äa	16769
+al	15881
+½ j	16566
+Ã½-	16732
+½-n	16577
+ul	15919
+ulÃ	13659
+heÅ	5833
+Åm	16920
+mÃ	15992
+ý j	18433
+gr 	5484
+pr 	10920
+es	15977
+ j	15959
+Åt	16922
+ti	15998
+¡tÅ	16215
+tÅ¯	13212
+Å¯v	16993
+¯vk	16370
+zoc	15601
+Äm	16788
+me	16016
+vák	14343
+¡im	16172
+lák	8430
+bÃ©	2878
+Ã© 	16681
+© j	16275
+ohÃ	10105
+? z	1470
+jka	7163
+jsk	7235
+ásk	17279
+opá	10338
+ový	10509
+vý 	14387
+Ã­s	16697
+ncá	9248
+cál	3370
+dnÃ	3713
+Å½i	17006
+½iÅ	16583
+Å¾k	17013
+¾ka	16601
+zrz	15638
+avý	2332
+hví	6093
+ílo	17836
+¾ek	16592
+hlÃ	5921
+Ät	16791
+ti	16023
+jvo	7273
+báb	2896
+Äi	16771
+ih	15895
+ihÃ	6493
+bný	2737
+háj	6142
+drý	3775
+¡et	16167
+il	15987
+v Å	14062
+paÄ	10725
+zvÄ	15690
+Å	16027
+ejz	4313
+ách	17203
+baÄ	2582
+Å i	16846
+eÅ	15890
+crh	3278
+Ã¡j	16645
+¡je	16174
+leÄ	8015
+olÃ	10206
+­ne	16343
+¡lÃ	16185
+­ k	16326
+tiÃ	12937
+iÃ¡	6936
+¡la	16180
+evÃ	4677
+vÃ½	14330
+tÃ¡	13199
+¡lk	16183
+uÅ¾	13994
+tnÃ	12988
+Ã¡s	16652
+¡sk	16205
+brn	2774
+­ t	16328
+Åa	16916
+rák	11912
+Ät	16773
+ty	15916
+tyÅ	13174
+yÅ	15353
+ok	15993
+okÃ	10175
+reÄ	11410
+Å¡Å	16964
+¡Å¥	16226
+Å¥Ã	16970
+¥Ã¡	16246
+vrá	14263
+¾il	16598
+ilí	6595
+íme	17841
+slb	12357
+vác	14340
+ácl	17205
+ j	15825
+fuÄ	5115
+ájk	17223
+á k	17184
+jdl	7081
+tös	13273
+öss	18114
+¡ k	16140
+½ k	16567
+yÅ	15352
+Å¡p	16959
+¡pa	16196
+ý k	18434
+omz	10242
+mzá	9005
+zák	15735
+amÃ	2046
+ k	15960
+dvÄ	3845
+Äd	16783
+d 	16007
+poÄ	10900
+?en	1487
+vlí	14211
+ták	13218
+líh	8488
+íha	17825
+hÅ¯	6138
+rÃ©	11885
+Ã©t	16684
+©ta	16279
+klý	7565
+atý	2277
+tý 	13295
+rbá	11320
+wäl	14684
+lg 	8043
+adÅ	1769
+dÅ	3901
+ub	15801
+­na	16342
+ttw	13096
+ w 	641
+yÅ¡	15355
+¡to	16211
+kvÄ	7709
+ta	16022
+Ã½Å	16734
+½Å¡	16586
+bík	2940
+ý l	18435
+Ã­d	16688
+­d 	16334
+cpá	3273
+víz	14384
+íze	17876
+zgu	15516
+zív	15755
+ívr	17873
+ptÃ	10966
+eoÅ	4487
+svÃ	12563
+¡ro	16203
+½ l	16568
+hÅ	6135
+¡tÄ	16214
+Ä 	16781
+ l	16005
+krb	7626
+doÅ	3745
+ l	15867
+fiÅ	4981
+¡er	16166
+ouÄ	10474
+veÄ	14143
+afÃ	1823
+fÃ¡	5140
+rÃ½	11890
+Ã½b	16733
+½bo	16579
+udÄ	13459
+dví	3847
+vík	14380
+ulí	13665
+ukÃ	13625
+uhÃ	13554
+hÃ½	6130
+¡nd	16189
+neÄ	9321
+umÃ	13693
+¾en	16594
+¡ m	16142
+ec	15885
+riÃ	11498
+lát	8435
+lo	16013
+kÃ©	7742
+rké	11540
+két	7778
+áns	17251
+ábl	17198
+blí	2724
+rsí	11740
+sík	12660
+frý	5065
+rýd	12057
+ýde	18446
+vlá	14210
+ m	15961
+jsa	7232
+ruÄ	11808
+­ns	16344
+½ m	16569
+vc 	14106
+Åh	16890
+he	15874
+ý m	18436
+ajs	1940
+j 	16010
+voÅ	14250
+Ã¡	15999
+x Å	14722
+004	1284
+04-	1292
+4-2	1363
+íle	17833
+rÅ	11898
+ÅÃ	16893
+Ã¡	15878
+Åk	16891
+ka	15875
+ep	15957
+epÃ	4508
+zsí	15650
+sív	12663
+sýk	12700
+ýko	18447
+¡-p	16153
+odÅ	10007
+¾a 	16589
+hál	6144
+efÃ	4208
+mrÄ	8901
+ejb	4296
+chý	3148
+hý 	6231
+hci	5793
+eÅ	4781
+ m	15868
+av	15972
+¡tv	16212
+meÄ	8723
+­Å	16358
+to	16024
+uzk	13974
+zký	15573
+zaj	15435
+Å½a	17004
+½am	16578
+íla	17832
+á n	17187
+diÅ	3664
+¡ n	16143
+ejc	4297
+jch	7075
+ldÅ	7980
+½ o	16570
+Ã­z	16699
+­ze	16356
+asÃ	2235
+sÃ¡	12608
+vát	14349
+á o	17188
+ej	15974
+otÃ	10442
+¡re	16200
+j Å	7028
+jdÃ	7084
+dÃ­	3892
+ý o	18437
+trÄ	13037
+ o	15869
+evÄ	4678
+vÄ?	14331
+¡ o	16144
+váv	14350
+ávr	17300
+liÃ	8096
+¡ p	16145
+ecn	4122
+cni	3233
+Åk	16919
+ko	15991
+foÅ	5042
+t 	15996
+jva	7270
+¡ri	16201
+drn	3758
+srn	12450
+rbÃ	11318
+ p	15962
+ízn	17878
+¡-r	16154
+ánk	17249
+á p	17189
+mc	16015
+mco	8673
+ház	6148
+ázk	17305
+álo	17236
+­za	16355
+aj	15880
+ajÃ	1946
+elÄ	4372
+½ p	16571
+Äo	16772
+ou	15908
+ p	15870
+ják	7296
+ákl	17225
+ála	17228
+prÅ	10929
+Å¯c	16990
+¯ch	16366
+vlÄ	14209
+ pÅ	489
+pÅ	11022
+em	15976
+biÄ	2695
+jbl	7072
+½ r	16572
+ynÃ	15171
+ r	15963
+­rl	16350
+Å¤o	16969
+¤ou	16242
+?Ã¡	1556
+m Å	8566
+¡ r	16146
+áta	17287
+óbe	17977
+ý r	18439
+á r	17190
+½em	16581
+zmÄ	15588
+mÄ	9014
+lÃ	16014
+hmÃ	5939
+mrl	8896
+mrá	8903
+áze	17304
+týc	13296
+ýce	18444
+laÄ	7912
+dní	3715
+ rÅ	521
+¡pÃ	16198
+¡rk	16202
+¡ Å	16150
+Å Ã	16848
+ Ã¡	720
+kÅ	7748
+az	15873
+½ s	16573
+sám	12622
+rtÅ	11771
+¯Å¡	16371
+olý	10215
+ý s	18440
+ s	15964
+iÄ	6939
+Ät	16780
+ta	15997
+Å t	16847
+deÃ	3594
+eÃ¡	4775
+¡ t	16147
+aÅ¥	2450
+¡na	16188
+ddä	3561
+däu	3918
+ÄÃ	16775
+Ã¡	15924
+Ã¡p	16650
+¡p 	16195
+igÃ	6475
+ivÃ	6869
+¡se	16204
+Ã¼b	16718
+¼bs	16526
+kÅ¯	7753
+¯ t	16365
+tlÃ	12970
+Ã¡d	16643
+¡de	16163
+jÅ¾	7292
+Ã­h	16689
+­ha	16335
+pÃ¶	11017
+Ã¶p	16711
+¶pp	16489
+Ã­c	16687
+­ch	16333
+½ t	16574
+Ã­t	16698
+­tn	16353
+nÃ©	9729
+Ã©h	16682
+©ho	16276
+ujf	13588
+jfa	7116
+¡po	16197
+­b 	16330
+½ v	16575
+ vÃ	633
+¡cl	16162
+ofÃ	10054
+? v	1467
+etÃ	4619
+svÄ	12564
+rk	16021
+vÅ	14335
+¾er	16596
+hvá	6092
+ý v	18441
+rál	11913
+ráv	11918
+lhý	8067
+hýb	6232
+ýbe	18443
+­lÃ	16339
+¡sl	16206
+¡-c	16151
+-ce	994
+á v	17192
+trk	13030
+©m 	16277
+cík	3398
+ý z	18442
+prÃ	10928
+¡lo	16184
+­tÄ	16354
+zs	16026
+zsl	15644
+imÃ	6622
+­ra	16349
+vÅ¯	14337
+Å¯j	16991
+¯jt	16367
+jte	7238
+imí	6628
+bní	2736
+áth	17289
+ptá	10967
+faÅ	4885
+tuÅ	13129
+mÅ	9018
+Åy	16883
+yn	15803
+Å»y	17000
+»yw	16519
+ywn	15323
+gup	5560
+ zb	691
+zby	15462
+ynÄ	15172
+jÃ­	7285
+­c 	16332
+¾an	16591
+hnÃ	5956
+¡t 	16207
+spÄ	12436
+pÄ	11020
+­te	16352
+á z	17193
+¡vr	16218
+a.c	1643
+e-d	4033
+t-d	12749
+gzd	5608
+rlw	11560
+ghg	5349
+ow-	10511
+w-c	14413
+-cu	1000
+uwd	13921
+xaa	14732
+fe-	4901
+few	4922
+why	14520
+dgk	3610
+gki	5404
+ox-	10534
+x-b	14724
+ptr	10961
+acf	1717
+rht	11465
+byt	2870
+uix	13577
+hux	6079
+uxl	13935
+rnc	11599
+rr-	11689
+mcq	8675
+xat	14748
+cgi	3100
+tyf	13160
+m-w	8594
+thg	12884
+dgh	3608
+t-g	12752
+nwr	9675
+p y	10676
+cok	3248
+xt 	14831
+ipw	6718
+wyo	14673
+itw	6818
+psl	10948
+wse	14621
+pnu	10872
+wd 	14464
+m-y	8595
+ew-	4682
+w-l	14415
+cbi	3046
+dco	3542
+e' 	4022
+mfr	8729
+acp	1726
+cph	3270
+lvy	8354
+nj 	9424
+gsf	5513
+ojl	10144
+jlo	7171
+mci	8668
+lyb	8373
+twr	13144
+t &	12701
+vix	14180
+h-c	5722
+k-a	7375
+ny-	9684
+y-m	14909
+mcp	8674
+cpa	3269
+ni-	9390
+i-z	6294
+op'	10316
+p's	10684
+d-c	3468
+quh	11167
+a.r	1648
+ee-	4166
+l.f	7881
+tfu	12870
+-po	1131
+x-d	14725
+whu	14519
+lmw	8181
+mwo	8980
+nyv	9704
+nrh	9548
+wsb	14620
+m à	8569
+y-w	14918
+eew	4187
+adf	1749
+h &	5679
+pfy	10790
+bbl	2592
+gsp	5522
+ckc	3187
+kcr	7438
+csw	3294
+a'h	1615
+wya	14662
+uxo	13936
+wnt	14578
+mcv	8680
+h-w	5738
+-wh	1190
+pyn	11008
+cgl	3101
+idw	6403
+t-w	12764
+l &	7804
+zsi	15643
+f-m	4846
+-mc	1095
+ht-	6037
+ntë	9623
+të 	13251
+lgh	8047
+lcl	7944
+mct	8678
+ 's	11
+'st	932
+ft-	5080
+msg	8913
+oxt	10546
+lkw	8128
+wsl	14625
+'po	917
+d-p	3480
+g-n	5224
+'ri	923
+dsp	3791
+fys	5133
+arâ	2198
+rât	11923
+ât 	17352
+wco	14461
+rsw	11735
+o'f	9875
+'fl	858
+hcr	5796
+c.b	3007
+.b.	1244
+b.k	2552
+msw	8926
+h-d	5723
+okf	10159
+twy	13146
+d-t	3483
+owp	10526
+wpe	14605
+ibd	6336
+r-c	11237
+sp 	12422
+mpd	8867
+pys	11011
+t-f	12751
+s-t	12121
+ys-	15246
+-ty	1176
+gu-	5544
+o'c	9872
+ckv	3203
+yh 	15057
+'ey	856
+r.c	11262
+loë	8232
+xwo	14853
+wdr	14473
+nph	9537
+ewb	4684
+wby	14457
+e-r	4046
+gsb	5509
+k-f	7378
+d-m	3477
+wbu	14456
+.an	1243
+lpd	8238
+woa	14582
+'ca	832
+hbr	5786
+wsm	14626
+yo-	15177
+kth	7669
+dth	3802
+nwy	9677
+wbo	14454
+pcz	10742
+dgl	3611
+m-c	8580
+spd	12425
+cyd	3345
+wyc	14663
+osí	10414
+sío	12662
+m'n	8575
+vlj	14204
+oid	10116
+psf	10944
+hyz	6119
+yzo	15341
+pyb	11001
+cfi	3094
+hnm	5950
+lks	8125
+z-j	15416
+dwr	3855
+wr 	14608
+t-a	12746
+htb	6039
+fyf	5127
+mcs	8677
+csh	3290
+s-w	12124
+ckd	3188
+gko	5406
+zzl	15718
+ dc	136
+dci	3540
+ejà	4315
+jà 	7293
+a'c	1611
+wnh	14571
+uea	13467
+wld	14554
+we-	14478
+oxb	10536
+xbe	14753
+ebd	4089
+tyd	13158
+xtr	14836
+ d 	132
+mhn	8747
+oxw	10548
+'su	933
+nnc	9484
+-od	1113
+kox	7606
+cwh	3336
+ve-	14118
+-my	1101
+du'	3812
+sfu	12249
+Æth	17018
+dwu	3856
+dgc	3606
+exh	4711
+xhi	14782
+ecg	4116
+cgb	3097
+e '	3979
+'th	936
+wdn	14471
+rdc	11353
+gs-	5507
+pp-	10906
+p-f	10686
+y-f	14903
+pem	10762
+xby	14756
+pfo	10788
+upw	13778
+úss	18305
+101	1310
+01 	1289
+1 e	1302
+ktr	7672
+i Æ	6264
+ Æe	736
+Æel	17016
+-dy	1009
+nhô	9388
+lwh	8364
+ë e	17773
+rpw	11677
+dtr	3807
+wce	14458
+dds	3556
+ecs	4126
+cst	3293
+ e-	159
+e-z	4053
+-z 	1203
+17 	1320
+7 f	1399
+26 	1347
+6 f	1385
+dw 	3848
+x &	14696
+ató	2275
+'by	831
+t-k	12755
+y-o	14911
+owg	10518
+wgi	14512
+gg-	5331
+ksw	7662
+mbt	8650
+bto	2816
+rlp	11555
+fyn	5131
+k.t	7393
+bbu	2596
+y-y	14919
+acw	1732
+cwo	3338
+ydg	14988
+lkl	8120
+wty	14636
+zcl	15465
+e-f	4035
+u-d	13345
+ewn	4695
+ewp	4697
+wpo	14606
+mky	8799
+ v 	622
+yrw	15239
+rwh	11825
+t's	12745
+t à	12740
+st!	12485
+t! 	12741
+ g 	208
+g.o	5234
+.o.	1257
+ndp	9271
+dpa	3747
+rdf	11356
+bös	2955
+thv	12897
+grá	5498
+oov	10312
+g.s	5235
+gfú	5329
+fús	5177
+guð	5573
+uðb	14030
+ðbr	17922
+k-n	7385
+h-n	5732
+ ff	195
+gco	5287
+gwr	5585
+wrg	14613
+gyt	5600
+ke'	7446
+ys'	15245
+n à	9142
+a-j	1627
+we'	14477
+uxw	13939
+lsw	8282
+nzr	9717
+zru	15637
+ylt	15121
+tcr	12824
+dn 	3706
+byf	2862
+t-h	12753
+7 h	1401
+tmy	12978
+-o'	1110
+ j 	290
+g-t	5228
+ds-	3777
+ymg	15136
+ufn	13502
+wme	14562
+k-k	7382
+ hh	236
+d 5	3420
+ 5'	33
+5's	1380
+h-t	5736
+ 'h	7
+'h'	864
+h'.	5714
+'. 	802
+ hm	240
+ hn	241
+wfu	14509
+hox	5984
+ h 	232
+gsm	5519
+ oa	445
+vyv	14324
+yvy	15318
+mpy	8883
+1 h	1303
+no.	9503
+hc 	5789
+ hw	247
+hyw	6118
+ftl	5085
+rkw	11535
+kwr	7715
+-ew	1025
+k-b	7376
+edp	4150
+idp	6397
+od-	9983
+bc 	2601
+cyb	3343
+rzá	11878
+axs	2369
+cmu	3229
+ksz	7664
+mcr	8676
+pe-	10749
+lyw	8392
+ywh	15321
+-pu	1133
+dkn	3680
+ixs	6889
+xsm	14830
+mb-	8639
+b-w	2549
+pên	11048
+êna	17757
+uwm	13925
+-wr	1193
+e'n	4026
+'ny	902
+uwy	13927
+t -	12702
+ jj	298
+lkn	8122
+ jm	299
+ap-	2127
+yeo	15020
+wte	14632
+k-h	7379
+wnm	14574
+dyv	3878
+d-r	3481
+wkw	14551
+pcr	10741
+ygd	15043
+hnj	5949
+kby	7435
+rkp	11530
+frs	5053
+ 'm	8
+cse	3289
+t-y	12765
+'ka	885
+exf	4710
+xfe	14776
+ynw	15169
+hn'	5941
+bth	2814
+wix	14541
+lwr	8367
+dnu	3711
+wro	14615
+kÅ«	7752
+«hi	16297
+ws-	14618
+'me	896
+oxh	10540
+wdo	14472
+ph-	10795
+h-x	5739
+pco	10740
+lns	8195
+ js	303
+ybl	14961
+ jy	306
+diw	3659
+ap	15882
+ur	15920
+spä	12438
+pär	11030
+ärc	17391
+öng	18089
+ysd	15250
+1 k	1304
+dcr	3543
+tt'	13077
+y-h	14905
+kym	7727
+ohè	10108
+hèm	6178
+et'	4595
+h-v	5737
+-vu	1187
+b &	2516
+wbi	14453
+ht'	6036
+udf	13440
+apy	2148
+dux	3836
+Öpi	17095
+fwi	5119
+ot-	10417
+lmh	8174
+ffu	4941
+pew	10772
+yox	15200
+42 	1367
+2 l	1338
+eww	4702
+wwi	14660
+il'	6562
+ hs	245
+xla	14806
+hze	6122
+! l	781
+éir	17639
+h Ó	5712
+w-w	14417
+ynv	15168
+cc 	3049
+agp	1844
+ i'	259
+i'v	6274
+'ve	945
+pef	10755
+chp	3125
+hpo	5992
+ q.	500
+tyz	13173
+wnd	14569
+rk-	11516
+dy-	3860
+g-d	5216
+rpr	11672
+oxl	10542
+xli	14808
+oëv	10633
+ëve	17792
+fa'	4858
+byg	2863
+axï	2373
+xïm	14864
+ïmo	17910
+a.m	1647
+ígm	17823
+máe	9024
+áel	17212
+l Í	7836
+ Ís	754
+Ísu	17076
+kns	7577
+l 2	7805
+ 2n	26
+2nd	1348
+s-y	12126
+jop	7207
+'gr	862
+bsl	2805
+nyn	9697
+axf	2363
+xfi	14777
+pej	10759
+m.i	8598
+ mj	387
+mj 	8784
+oee	10017
+3 m	1352
+tpu	13024
+cge	3098
+ m 	378
+mh 	8742
+mhu	8749
+gth	5534
+. 1	1213
+ 16	21
+164	1318
+64 	1391
+4 s	1362
+ sq	548
+ah'	1861
+h's	5718
+n Þ	9141
+yio	15080
+ o-	443
+-t 	1165
+oxf	10539
+xfo	14779
+ozr	10592
+rmj	11577
+te'	12833
+p-o	10689
+-or	1118
+-ev	1024
+idb	6384
+grs	5493
+o'p	9883
+'pr	918
+wyi	14668
+ezy	4771
+tnu	12986
+-hy	1053
+r &	11189
+m-p	8588
+laí	7917
+aí 	2479
+í p	17801
+e-y	4052
+-yv	1202
+ pj	479
+pj 	10845
+ooj	10302
+wno	14575
+ p-	472
+p-p	10690
+-p 	1125
+ptô	10968
+f q	4828
+ltd	8293
+td.	12827
+p q	10668
+y q	14884
+ksb	7646
+wnr	14576
+ddr	3555
+g-w	5229
+ rc	509
+-gl	1040
+ ræ	522
+ædw	17443
+m-j	8585
+rnè	11625
+'sp	931
+icb	6362
+wdl	14470
+r-v	11255
+m-v	8593
+eaf	4068
+uwh	13923
+pcl	10739
+upj	13767
+pjo	10847
+& p	789
+myd	8986
+ë r	17776
+yrf	15226
+j.c	7031
+esí	4590
+sí 	12659
+176	1322
+765	1410
+65-	1394
+5-1	1381
+-18	962
+837	1419
+37 	1356
+7 r	1406
+wev	14498
+e 7	3983
+ 7 	35
+skw	12349
+bex	2643
+sjm	12331
+nvr	9664
+x-j	14726
+h-m	5731
+nw 	9668
+nyf	9690
+ek-	4320
+k-y	7388
+y '	14867
+by'	2856
+cwe	3335
+r.s	11263
+s.r	12133
+höß	6211
+öß 	18133
+ß r	17151
+rxa	11830
+d Þ	3450
+ór 	18009
+röy	12020
+öyk	18127
+pp'	10905
+-wy	1194
+dgz	3618
+vih	14165
+'lo	893
+seá	12237
+eán	4787
+wcl	14460
+ue?	13466
+e? 	4060
+shä	12289
+hän	6162
+änn	17389
+wba	14451
+cbu	3048
+bhá	2664
+hán	6145
+sgi	12253
+m-f	8583
+d-n	3478
+w-s	14416
+ehy	4260
+ms'	8905
+s's	12102
+jth	7239
+jex	7111
+ex-	4705
+ghw	5360
+lox	8226
+rt'	11743
+a.f	1645
+ks-	7644
+eaw	4083
+lcu	7947
+m-q	8589
+a Æ	1602
+ Æt	738
+r Æ	11223
+ 1s	24
+1st	1335
+'cl	834
+io'	6674
+kcu	7439
+exm	4714
+xme	14811
+dyf	3866
+pwi	10997
+vip	14173
+dgm	3612
+fyw	5136
+-ox	1124
+rpv	11676
+czu	3361
+ t 	566
+ip-	6701
+p-h	10687
+w-h	14414
+x u	14717
+ki-	7504
+rd!	11348
+d! 	3452
+! v	783
+uéb	14009
+tsw	13070
+m 4	8539
+ 4t	32
+4th	1371
+lnw	8197
+e-à	4055
+pdi	10746
+nwh	9672
+cax	3037
+vÅ	14334
+ux	15938
+wsi	14623
+rtp	11760
+-ky	1082
+'ge	860
+g.f	5232
+ocy	9977
+lfp	8034
+fpe	5045
+sfl	12245
+-sl	1149
+cfe	3093
+oâ	10616
+b	15773
+br	15973
+' w	801
+ 'w	13
+ns'	9559
+wyg	14667
+is?	6765
+s? 	12135
+pät	11031
+wuf	14644
+k x	7366
+ty-	13154
+m-h	8584
+-sw	1157
+nff	9326
+ bb	78
+bbc	2589
+bsy	2809
+rfc	11420
+ckq	3198
+kqu	7622
+ cc	108
+ c 	104
+174	1321
+746	1408
+46 	1368
+6 d	1384
+óns	18005
+ifó	6451
+ eq	177
+zée	15748
+gte	5533
+yhi	15060
+rrl	11695
+rkk	11525
+mäk	9035
+äke	17380
+elä	4377
+lä 	8446
+ä j	17367
+ kt	335
+álk	17233
+tc.	12818
+izy	6929
+g's	5213
+uo-	13733
+o-d	9891
+Å¡l	16957
+¡li	16182
+ixu	6891
+sps	12432
+ps'	10939
+tyt	13171
+iÅ«	6949
+xpl	14825
+flö	5003
+lög	8506
+m'c	8573
+ xf	661
+xfm	14778
+fm 	5006
+gyw	5602
+dÅµ	3904
+Åµr	16995
+µr 	16479
+hrw	6010
+wyr	14674
+lfy	8040
+nfy	9334
+rdd	11354
+ysg	15252
+ddw	3559
+nll	9467
+lwg	8363
+wg 	14510
+dwg	3851
+wga	14511
+g.d	5231
+ cn	113
+cym	3349
+hwy	6098
+dmw	3701
+mwn	8979
+-hw	1052
+brâ	2784
+rân	11922
+ân 	17342
+yzw	15342
+ eó	189
+eóg	4807
+óga	17992
+gwg	5580
+wdd	14466
+fyc	5124
+nyt	9702
+to'	12991
+'r 	920
+hyf	6105
+swr	12572
+wrd	14611
+iwr	6876
+wrc	14610
+ydy	14999
+nwg	9671
+drw	3762
+dwn	3853
+slw	12362
+mff	8726
+yfn	15037
+kyf	7723
+nnw	9496
+llÅ	8158
+lÅ·	8420
+Å·r	16996
+·r 	16499
+rfy	11430
+yn'	15148
+lgw	8053
+gwn	5583
+wyf	14666
+myf	8988
+awg	2341
+guf	5550
+lcz	7949
+ddf	3548
+ffw	4942
+fwr	5121
+shâ	12288
+siô	12327
+iôn	7002
+ôn 	18037
+siâ	12323
+iân	6957
+iw 	6871
+zop	15613
+twm	13142
+tcy	12826
+g 1	5182
+16t	1319
+6th	1398
+s 1	12061
+967	1442
+67 	1395
+7 n	1403
+7 p	1405
+s 2	12062
+001	1283
+g.i	5233
+ a'	41
+a'l	1617
+rpt	11674
+lyx	8393
+yx 	15326
+ 'n	9
+'n'	898
+ti-	12910
+'lu	894
+cdu	3063
+ksd	7648
+f.d	4853
+os.	10384
+onx	10282
+963	1440
+63 	1390
+3 c	1351
+13x	1316
+3x 	1358
+j.h	7034
+.h.	1251
+ê d	17749
+xxy	14856
+mké	8800
+k-c	7377
+Ãt	16634
+t 	16003
+uá»	14000
+á»³	17324
+»³n	16521
+³nh	16474
+cÃ´	3364
+Ã´n	16707
+´ng	16478
+188	1328
+885	1424
+85 	1421
+5 i	1375
+hfr	5839
+w.c	14419
+luu	8334
+k.c	7391
+mfu	8730
+ nh	421
+om'	10217
+199	1334
+992	1447
+92 	1436
+thú	12906
+húy	6223
+úy 	18308
+ lê	372
+ê t	17752
+ lÆ	366
+lÆ°	8422
+Æ°u	17020
+°u 	16395
+ lz	365
+c.j	3008
+.j.	1253
+186	1326
+862	1422
+wn-	14567
+ 'd	4
+zr 	15632
+xua	14839
+hiá	5884
+iá»	6956
+á»	17322
+»u	16520
+u 	15861
+uyá	13959
+yá»	15361
+á» 	17320
+» n	16514
+ryx	11856
+919	1435
+19 	1329
+9 o	1426
+k-i	7380
+-ia	1055
+a 1	1569
+964	1441
+4 r	1361
+n.c	9179
+r 1	11191
+908	1431
+08 	1297
+8 s	1416
+5 t	1379
+ooe	10297
+teq	12851
+m-a	8578
+nh-	9376
+spb	12424
+nax	9211
+?tÅ	1545
+aob	2100
+pd 	10743
+tpi	13022
+f.t	4855
+mgw	8739
+eoj	4473
+omj	10228
+10 	1309
+0 h	1277
+byu	2871
+weo	14493
+h.o	5741
+jhu	7127
+juj	7253
+ahk	1873
+hk 	5895
+ jw	305
+ehw	4259
+gaÅ	5265
+aÅ?	2442
+« k	16284
+eiÅ	4291
+phw	10807
+tax	12798
+gmi	5422
+h 1	5680
+nhw	9384
+187	1327
+875	1423
+75 	1409
+5 o	1377
+ue	15918
+gsa	5508
+ qi	503
+?i 	1496
+ocs	9973
+yiu	15086
+yix	15088
+ngx	9362
+gxi	5588
+juy	7267
+xun	14844
+eoh	4471
+gfa	5323
+buw	2843
+xit	14800
+gqi	5482
+unx	13724
+nxu	9681
+ch'	3107
+h'ü	5719
+'ün	957
+rnv	11615
+gyi	5593
+uof	13737
+qiq	11133
+qiu	11136
+uox	13754
+aox	2122
+oxu	10547
+gzh	5610
+zi'	15534
+qio	11131
+huà	6083
+uàn	13996
+àn 	17170
+cáo	3373
+áo 	17255
+inü	6672
+nü 	9825
+ü c	18314
+aod	2102
+guq	5561
+jìn	7314
+ìn 	17796
+ dà	152
+dài	3906
+ài 	17169
+qic	11122
+auy	2301
+uyó	13963
+enx	4447
+aoj	2108
+gnü	5446
+ci'	3150
+g'e	5212
+'e 	844
+nüw	9831
+üwa	18415
+nüy	9832
+üyi	18417
+zu'	15661
+u'e	13333
+qig	11125
+ao'	2097
+o'e	9874
+gta	5532
+yuq	15299
+yux	15306
+jià	7156
+iàn	6953
+uxu	13938
+iux	6848
+gsu	5526
+gxu	5589
+fuq	5107
+uoq	13747
+6 h	1386
+xiy	14803
+nxi	9679
+iuy	6849
+qix	11138
+kex	7470
+ulü	13667
+c.y	3010
+r 8	11193
+ 8.	36
+h'e	5716
+yiq	15082
+juq	7260
+uyh	13947
+jyu	7280
+gkh	5403
+yij	15075
+hög	6204
+ögb	18056
+?ng	1521
+gyÃ	5604
+yÃ¡	15343
+¡ng	16191
+ lÇ	367
+lÇ?	8423
+Ç? 	17021
+jye	7278
+gka	5401
+jiq	7145
+mo'	8833
+nly	9470
+zex	15505
+aoq	2115
+wuz	14658
+xuq	14846
+zix	15558
+yiy	15089
+xih	14790
+wÃ¨	14680
+Ã¨i	16679
+¨i 	16273
+gke	5402
+ x 	657
+jku	7166
+höi	6206
+öij	18065
+tyh	13162
+ mö	410
+iuw	6847
+p u	10672
+gpa	5477
+qif	11124
+h'i	5717
+'ie	876
+uip	13570
+yex	15028
+kdi	7442
+iax	6325
+iuh	6834
+yúa	15374
+úan	18275
+emü	4420
+mür	9099
+há»	6150
+á»	17323
+trÆ	13038
+rÆ°	11906
+Æ°n	17019
+°ng	16386
+wug	14645
+uow	13753
+xij	14792
+xiz	14804
+qiw	11137
+qij	11127
+qiy	11139
+uif	13561
+uoj	13741
+ü y	18321
+shà	12287
+hàn	6139
+àng	17171
+yuá	15309
+yuw	15305
+zax	15449
+fux	5112
+wuj	14648
+hix	5880
+xug	14841
+ueq	13482
+aaa	1655
+abj	1687
+bji	2703
+ghv	5359
+d.p	3487
+.p.	1258
+rbh	11309
+nbh	9221
+yop	15193
+jme	7175
+qau	11104
+ejr	4307
+'cu	837
+lyq	8386
+yqu	15218
+mmt	8818
+mto	8936
+dsu	3794
+ddh	3549
+apj	2136
+pji	10846
+rj 	11509
+nuv	9651
+wta	14631
+atp	2259
+ b 	73
+b.g	2551
+ajh	1930
+jhi	7125
+Ä«k	16810
+«ká	16304
+ká¹	7760
+á¹£	17314
+¹£i	16506
+£it	16233
+haá	5774
+aá¹	2458
+á¹­	17315
+¹­á	16509
+­á¹	16361
+¹­o	16508
+­oj	16346
+bhÄ	2663
+?sk	1540
+hbh	5783
+iaÅ	6329
+ys	15804
+bip	2684
+j.g	7033
+ bs	88
+jbh	7071
+ujb	13585
+jba	7069
+gdr	5294
+hnd	5945
+p.s	10696
+.su	1263
+ k 	319
+rö 	12009
+ö d	18044
+hök	6207
+öky	18072
+zgr	15515
+ekn	4330
+khp	7493
+ f 	190
+ojh	10140
+mip	8766
+dgu	3616
+hju	5892
+q g	11070
+ gn	217
+rsp	11730
+ajg	1929
+jga	7119
+wej	14488
+jgo	7120
+atd	2247
+agj	1839
+njp	9430
+jpe	7223
+ukd	13608
+¹­a	16507
+­a 	16329
+Ä?Å	16756
+?Å	1559
+Åi	16927
+i 	16009
+ jn	300
+ jp	302
+jp 	7221
+ujh	13589
+afg	1806
+lbh	7925
+k.b	7390
+bhj	2658
+nkv	9457
+imv	6618
+adp	1759
+dph	3748
+dpu	3750
+ryy	11857
+umÄ	13694
+nhj	9380
+xap	14744
+lhm	8061
+hmb	5930
+aaj	1663
+iÅ	6945
+År	16929
+maá	8631
+á¹	17313
+¹á	16505
+á¸	15864
+á¸?	17310
+¸?a	16500
+?an	1473
+tÄ«	13207
+ajv	1943
+jro	7230
+qte	11161
+imj	6607
+yrh	15228
+ai.	1893
+m.s	8600
+gdh	5291
+uhk	13543
+s.p	12132
+.pa	1259
+947	1437
+7 m	1402
+. z	1238
+gpu	5481
+eoo	4478
+aoo	2113
+aqd	2153
+qdi	11113
+vjo	14193
+ujj	13591
+ nr	427
+ivp	6863
+vpu	14251
+o.p	9910
+evp	4670
+bhb	2655
+ntd	9597
+pa.	10698
+ p 	471
+ejm	4304
+mgy	8740
+k .	7342
+eej	4175
+hsw	6033
+p.r	10695
+pt.	10954
+ujy	13599
+uqe	13784
+qw 	11183
+ku.	7678
+jni	7184
+jwi	7275
+ajy	1945
+n 3	9103
+ 33	28
+339	1355
+392	1357
+r' 	11229
+' r	799
+ybh	14958
+p.i	10693
+i.c	6296
+.ch	1246
+qs 	11156
+hhp	5852
+ rj	513
+ rm	514
+dhn	3626
+gnã	5441
+nãn	9757
+ãnj	17364
+?rÄ	1534
+yaá	14952
+¹a	16504
+a 	15849
+ Å	732
+Åa	16924
+aá	16001
+á¹ 	17312
+¹ k	16502
+mvr	8974
+dhv	3631
+njr	9431
+jre	7228
+bwi	2853
+swm	12570
+wmu	14564
+ehg	4245
+vep	14133
+rvr	11817
+yye	15330
+s.c	12129
+s.d	12130
+foj	5025
+wsu	14629
+jgu	7121
+vku	14199
+ivm	6860
+dhp	3628
+bhy	2662
+s .	12060
+ .j	16
+sk.	12338
+eyp	4742
+.si	1262
+sqn	12443
+qn 	11143
+ ld	354
+wmi	14563
+ s/	533
+s/o	12134
+tht	12895
+ejw	4312
+t.t	12769
+t.v	12770
+.v.	1265
+j u	7026
+ u.	599
+u. 	13358
+jh 	7122
+ u 	597
+Ä?c	16738
+?ca	1478
+gbh	5275
+911	1433
+1 v	1308
+on/	10258
+n/e	9181
+/eb	1268
+ovv	10500
+u .	13297
+ .v	17
+yvs	15316
+ma-	8603
+i.m	6297
+m.r	8599
+r.a	11261
+f.a	4851
+epz	4507
+pzn	11013
+wew	14499
+râk	11921
+âkr	17338
+abâ	1704
+âhu	17336
+ 10	18
+108	1312
+s 3	12063
+ 30	27
+309	1354
+097	1299
+97 	1445
+£ a	16230
+età	4621
+tà 	13213
+z-g	15415
+è a	17523
+i-r	6288
+a-Å	1640
+-Å	1210
+Åu	16934
+ul	16053
+uÅ£	13993
+omì	10251
+mì 	9065
+ì a	17793
+ea-	4062
+ré-	11955
+é-j	17584
+co-	3237
+rlì	11567
+lì 	8483
+llà	8159
+bca	2602
+cè 	3381
+urò	13827
+rò 	11997
+ò a	17950
+rtg	11751
+zi-	15535
+ac	15967
+xof	14818
+'ap	816
+& q	790
+hlk	5912
+zyz	15709
+pÄ	11018
+tr	15823
+Åc	16939
+½iv	16582
+ónd	18002
+rrà	11704
+rà 	11907
+i-m	6284
+gi-	5364
+anò	2094
+nò 	9803
+ò c	17951
+ ix	284
+ioi	6684
+ssì	12480
+sì 	12658
+ì d	17794
+hè 	6176
+è d	17524
+miÄ	8777
+mcz	8682
+vaÄ	14100
+?ev	1490
+ò d	17952
+xau	14749
+mpà	8884
+pà 	11023
+à d	17160
+afà	1825
+fà 	5142
+65 	1393
+5 e	1373
+ciÄ	3175
+Ä-	16768
+-s	15848
+aiò	1922
+iò 	6998
+ò e	17953
+alò	2015
+fè 	5152
+è f	17526
+ f	15834
+-pé	1134
+raù	11303
+aù 	2508
+scò	12199
+còz	3404
+òzz	17961
+faà	4886
+uop	13746
+'ot	913
+rfé	11432
+ò g	17954
+nzù	9726
+zù 	15762
+ù g	18265
+è g	17527
+ bà	94
+bàr	2893
+àrb	17172
+suè	12556
+uè 	14003
+zzè	15723
+zè 	15746
+zup	15676
+' m	798
+ò m	17957
+prè	10932
+trè	13042
+ g	15835
+lè 	8456
+ci-	3151
+bme	2727
+ccò	3058
+cò 	3403
+thö	12904
+ddn	3553
+ttá	13100
+exo	4716
+xod	14817
+ajÄ	1947
+psb	10941
+iup	6841
+oae	9916
+io-	6675
+g-l	5222
+& d	786
+ k	15837
+étá	17729
+líb	8486
+íbe	17812
+lió	8103
+vêp	14375
+êpr	17763
+poë	10903
+oët	10632
+tè 	13235
+è l	17529
+ò l	17956
+içi	6963
+à l	17164
+i-g	6280
+p.f	10692
+p.n	10694
+.n.	1256
+xti	14834
+iè 	6967
+Ã­m	16692
+­m 	16340
+íss	17866
+lgg	8046
+rc'	11327
+c'a	3002
+l'u	7849
+'ut	944
+'og	906
+agò	1856
+gò 	5648
+wöl	14690
+ölf	18076
+m.f	8597
+fi-	4955
+i-b	6276
+y-n	14910
+più	10844
+iù 	7005
+ù m	18266
+ 'b	2
+co'	3236
+Óbo	17083
+à m	17165
+999	1448
+99-	1446
+9-2	1428
+4 m	1360
+aiÄ	1920
+gr.	5485
+' l	797
+ò i	17955
+Äl	16761
+lc	15816
+cu-	3306
+u-c	13344
+ixx	6892
+iuo	6840
+ocn	9969
+ívo	17872
+cyf	3346
+tgw	12875
+ayè	2405
+yè 	15364
+è p	17531
+çot	17515
+elù	4385
+lù 	8524
+ù p	18267
+e-É	4054
+-Ét	1211
+bbà	2599
+ sf	538
+ce'	3065
+fuf	5098
+eqr	4514
+qro	11155
+l.s	7882
+ai	15970
+erà	4547
+à r	17166
+ò r	17958
+nd'	9254
+sèt	12641
+ètt	17553
+ny'	9683
+ca'	3012
+aqt	2161
+ujk	13592
+nzà	9722
+zà 	15732
+à s	17167
+rzì	11879
+zì 	15753
+ì s	17795
+ajl	1934
+alà	2009
+-gö	1045
+öra	18101
+la	15815
+rb	15819
+eÅ£	4785
+pex	10773
+Äs	16764
+st	15821
+abò	1708
+bò 	2945
+ò v	17959
+o-p	9902
+siÄ	12321
+fop	5031
+à v	17168
+'si	928
+ xh	662
+xhu	14784
+ yk	675
+ yl	676
+ z	15846

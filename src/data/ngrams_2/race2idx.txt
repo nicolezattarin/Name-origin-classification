@@ -1,0 +1,13 @@
+Asian,GreaterEastAsian,EastAsian	0
+Asian,GreaterEastAsian,Japanese	1
+Asian,IndianSubContinent	2
+GreaterAfrican,Africans	3
+GreaterAfrican,Muslim	4
+GreaterEuropean,British	5
+GreaterEuropean,EastEuropean	6
+GreaterEuropean,Jewish	7
+GreaterEuropean,WestEuropean,French	8
+GreaterEuropean,WestEuropean,Germanic	9
+GreaterEuropean,WestEuropean,Hispanic	10
+GreaterEuropean,WestEuropean,Italian	11
+GreaterEuropean,WestEuropean,Nordic	12
