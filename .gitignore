@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 lstm/data/ngram_2/model.pth copy
+src/model.pth
